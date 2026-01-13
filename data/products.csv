@@ -1,0 +1,1001 @@
+product_id,product_name,category,fit,neckline,pattern,sleeve_style,length,occasion,style_aesthetic,trend,price,base_return_rate
+PROD_00001,AW24 Core Slim Abstract Dresse,Dresses,Slim,V-Neck,Abstract,Balloon,Above Knee,Smart Casual,Contemporary,AW24 Core,87.58,0.6993635520277443
+PROD_00002,AW24 Trend Fitted Animal Print Dresse,Dresses,Fitted,V-Neck,Animal Print,Puff,Mini,Casual,Classic,AW24 Trend,80.46,0.8554547393202181
+PROD_00003,Clearance Regular Animal Print Dresse,Dresses,Regular,Square,Animal Print,Standard,Maxi,Smart Casual,Sporty,Clearance,67.01,0.7269649684812173
+PROD_00004,Continuity Oversized Check Dresse,Dresses,Oversized,Round,Check,Bell,Knee,Casual,Contemporary,Continuity,107.56,0.5976798437208631
+PROD_00005,Continuity Relaxed Floral Dresse,Dresses,Relaxed,Crew,Floral,Sleeveless,Knee,Casual,Classic,Continuity,85.28,0.4481817652837339
+PROD_00006,Continuity Slim Polka Dot Dresse,Dresses,Slim,Crew,Polka Dot,Balloon,Maxi,Work,Classic,Continuity,100.03,0.6165499774663654
+PROD_00007,Clearance Fitted Check Dresse,Dresses,Fitted,V-Neck,Check,Standard,Maxi,Work,Sporty,Clearance,96.23,0.7435347768061656
+PROD_00008,AW24 Trend Relaxed Floral Dresse,Dresses,Relaxed,Square,Floral,Cap,Mini,Casual,Sporty,AW24 Trend,73.61,0.6296486966956213
+PROD_00009,Continuity Relaxed Polka Dot Dresse,Dresses,Relaxed,V-Neck,Polka Dot,Sleeveless,Mini,Evening,Boho,Continuity,79.5,0.49414973255099065
+PROD_00010,AW24 Core Relaxed Stripe Dresse,Dresses,Relaxed,Round,Stripe,Balloon,Above Knee,Loungewear,Boho,AW24 Core,108.11,0.5559744661333675
+PROD_00011,Continuity Fitted Floral Dresse,Dresses,Fitted,High,Floral,Bell,Above Knee,Smart Casual,Minimalist,Continuity,85.55,0.6766927447458682
+PROD_00012,AW24 Core Relaxed Abstract Dresse,Dresses,Relaxed,High,Abstract,Bell,Above Knee,Loungewear,Boho,AW24 Core,100.71,0.6553120114394139
+PROD_00013,AW24 Core Regular Plain Dresse,Dresses,Regular,Off-Shoulder,Plain,Long,Knee,Evening,Boho,AW24 Core,90.47,0.613016520286255
+PROD_00014,Continuity Regular Abstract Dresse,Dresses,Regular,Square,Abstract,Balloon,Above Knee,Loungewear,Minimalist,Continuity,65.12,0.5758904274793141
+PROD_00015,Clearance Oversized Stripe Dresse,Dresses,Oversized,Round,Stripe,Sleeveless,Above Knee,Loungewear,Romantic,Clearance,68.78,0.6426084851483852
+PROD_00016,AW24 Trend Relaxed Animal Print Dresse,Dresses,Relaxed,High,Animal Print,Puff,Maxi,Evening,Boho,AW24 Trend,90.73,0.700277512827197
+PROD_00017,AW24 Trend Regular Check Dresse,Dresses,Regular,Square,Check,Standard,Mini,Casual,Contemporary,AW24 Trend,94.37,0.6864416587779749
+PROD_00018,Clearance Oversized Plain Dresse,Dresses,Oversized,Square,Plain,Puff,Midi,Holiday,Minimalist,Clearance,82.58,0.6166255330349701
+PROD_00019,SS25 Preview Relaxed Polka Dot Dresse,Dresses,Relaxed,Square,Polka Dot,Standard,Mini,Loungewear,Romantic,SS25 Preview,114.09,0.6817194227116967
+PROD_00020,SS25 Preview Relaxed Stripe Dresse,Dresses,Relaxed,V-Neck,Stripe,Puff,Above Knee,Evening,Classic,SS25 Preview,111.57,0.6627631137699689
+PROD_00021,Clearance Fitted Floral Dresse,Dresses,Fitted,Off-Shoulder,Floral,Bell,Mini,Loungewear,Boho,Clearance,93.9,0.8562212058314178
+PROD_00022,AW24 Core Fitted Floral Dresse,Dresses,Fitted,Round,Floral,Balloon,Above Knee,Holiday,Romantic,AW24 Core,97.9,0.6592023369136345
+PROD_00023,AW24 Trend Fitted Check Dresse,Dresses,Fitted,Crew,Check,Standard,Mini,Work,Boho,AW24 Trend,94.47,0.7523379565959908
+PROD_00024,AW24 Core Slim Animal Print Dresse,Dresses,Slim,Round,Animal Print,Standard,Mini,Loungewear,Minimalist,AW24 Core,90.53,0.6989785867988241
+PROD_00025,SS25 Preview Fitted Floral Dresse,Dresses,Fitted,Off-Shoulder,Floral,Sleeveless,Midi,Holiday,Contemporary,SS25 Preview,90.03,0.8434442527118104
+PROD_00026,AW24 Trend Fitted Animal Print Dresse,Dresses,Fitted,Off-Shoulder,Animal Print,Puff,Above Knee,Holiday,Sporty,AW24 Trend,105.3,0.839755590567848
+PROD_00027,Continuity Relaxed Abstract Dresse,Dresses,Relaxed,Boat,Abstract,Cap,Knee,Evening,Romantic,Continuity,66.84,0.5085776954698709
+PROD_00028,Clearance Slim Floral Dresse,Dresses,Slim,Round,Floral,Standard,Knee,Casual,Romantic,Clearance,97.45,0.6236246026357157
+PROD_00029,AW24 Core Regular Floral Dresse,Dresses,Regular,Square,Floral,Standard,Mini,Loungewear,Sporty,AW24 Core,77.08,0.6137716824933542
+PROD_00030,AW24 Trend Regular Plain Dresse,Dresses,Regular,V-Neck,Plain,Long,Knee,Casual,Romantic,AW24 Trend,80.83,0.5458171183890441
+PROD_00031,Clearance Relaxed Check Dresse,Dresses,Relaxed,High,Check,Sleeveless,Maxi,Smart Casual,Sporty,Clearance,111.57,0.6932867690126634
+PROD_00032,AW24 Core Fitted Floral Dresse,Dresses,Fitted,Boat,Floral,Long,Midi,Evening,Contemporary,AW24 Core,79.81,0.7002371819972096
+PROD_00033,AW24 Core Slim Check Dresse,Dresses,Slim,High,Check,Balloon,Midi,Evening,Minimalist,AW24 Core,64.26,0.743713241395664
+PROD_00034,AW24 Trend Slim Check Dresse,Dresses,Slim,V-Neck,Check,Cap,Knee,Casual,Contemporary,AW24 Trend,80.26,0.6974769006043652
+PROD_00035,Continuity Regular Check Dresse,Dresses,Regular,Square,Check,Sleeveless,Midi,Smart Casual,Boho,Continuity,62.94,0.6220535885102555
+PROD_00036,Clearance Regular Plain Dresse,Dresses,Regular,Off-Shoulder,Plain,Puff,Maxi,Casual,Classic,Clearance,101.85,0.6952814875718348
+PROD_00037,Continuity Slim Polka Dot Dresse,Dresses,Slim,V-Neck,Polka Dot,Long,Above Knee,Smart Casual,Minimalist,Continuity,66.86,0.578501798752404
+PROD_00038,AW24 Core Oversized Polka Dot Dresse,Dresses,Oversized,Round,Polka Dot,Puff,Mini,Smart Casual,Minimalist,AW24 Core,89.96,0.6972461390027903
+PROD_00039,Clearance Oversized Polka Dot Dresse,Dresses,Oversized,Crew,Polka Dot,Long,Midi,Work,Minimalist,Clearance,74.93,0.6214186244319012
+PROD_00040,Clearance Oversized Floral Dresse,Dresses,Oversized,Round,Floral,Balloon,Above Knee,Casual,Romantic,Clearance,85.22,0.6583498085106805
+PROD_00041,Clearance Slim Stripe Dresse,Dresses,Slim,High,Stripe,Standard,Mini,Holiday,Minimalist,Clearance,67.97,0.6474895842001984
+PROD_00042,Clearance Fitted Plain Dresse,Dresses,Fitted,Round,Plain,Bell,Mini,Smart Casual,Classic,Clearance,75.11,0.7137472519618775
+PROD_00043,AW24 Trend Slim Polka Dot Dresse,Dresses,Slim,High,Polka Dot,Sleeveless,Midi,Casual,Romantic,AW24 Trend,89.26,0.6994958271498631
+PROD_00044,Clearance Fitted Plain Dresse,Dresses,Fitted,Square,Plain,Bell,Mini,Evening,Sporty,Clearance,65.61,0.7468747131362514
+PROD_00045,SS25 Preview Fitted Stripe Dresse,Dresses,Fitted,Square,Stripe,Balloon,Above Knee,Loungewear,Sporty,SS25 Preview,68.67,0.7976807919638256
+PROD_00046,AW24 Core Regular Check Dresse,Dresses,Regular,Crew,Check,Sleeveless,Knee,Evening,Boho,AW24 Core,65.12,0.5136461050825619
+PROD_00047,AW24 Trend Slim Animal Print Dresse,Dresses,Slim,Boat,Animal Print,Bell,Mini,Casual,Romantic,AW24 Trend,68.6,0.8634164108208442
+PROD_00048,SS25 Preview Fitted Floral Dresse,Dresses,Fitted,Crew,Floral,Balloon,Mini,Smart Casual,Boho,SS25 Preview,85.68,0.7545151364412293
+PROD_00049,Clearance Regular Polka Dot Dresse,Dresses,Regular,Boat,Polka Dot,Bell,Knee,Holiday,Sporty,Clearance,76.31,0.6543993471942026
+PROD_00050,AW24 Trend Slim Polka Dot Dresse,Dresses,Slim,High,Polka Dot,Bell,Knee,Loungewear,Classic,AW24 Trend,64.43,0.7021712617525917
+PROD_00051,SS25 Preview Relaxed Plain Dresse,Dresses,Relaxed,V-Neck,Plain,Cap,Maxi,Smart Casual,Boho,SS25 Preview,93.14,0.6249078514134876
+PROD_00052,SS25 Preview Fitted Abstract Dresse,Dresses,Fitted,Round,Abstract,Balloon,Above Knee,Loungewear,Sporty,SS25 Preview,80.05,0.7970907053752145
+PROD_00053,Continuity Fitted Stripe Dresse,Dresses,Fitted,Boat,Stripe,Long,Mini,Casual,Sporty,Continuity,67.99,0.6315533180663135
+PROD_00054,AW24 Trend Relaxed Plain Dresse,Dresses,Relaxed,V-Neck,Plain,Balloon,Above Knee,Loungewear,Boho,AW24 Trend,67.61,0.5766798320646269
+PROD_00055,AW24 Core Oversized Abstract Dresse,Dresses,Oversized,Square,Abstract,Puff,Maxi,Casual,Classic,AW24 Core,113.9,0.7566595944712053
+PROD_00056,AW24 Trend Regular Plain Dresse,Dresses,Regular,Square,Plain,Long,Knee,Holiday,Romantic,AW24 Trend,108.49,0.6070074456666708
+PROD_00057,AW24 Trend Oversized Plain Dresse,Dresses,Oversized,Round,Plain,Balloon,Knee,Casual,Boho,AW24 Trend,99.73,0.630079214933962
+PROD_00058,AW24 Trend Regular Plain Dresse,Dresses,Regular,High,Plain,Balloon,Maxi,Evening,Romantic,AW24 Trend,95.98,0.6385205802680416
+PROD_00059,AW24 Trend Regular Floral Dresse,Dresses,Regular,Off-Shoulder,Floral,Long,Above Knee,Evening,Classic,AW24 Trend,88.04,0.6855649549439878
+PROD_00060,AW24 Core Relaxed Check Dresse,Dresses,Relaxed,Off-Shoulder,Check,Long,Above Knee,Work,Contemporary,AW24 Core,77.35,0.6557776560375158
+PROD_00061,Continuity Oversized Plain Dresse,Dresses,Oversized,Off-Shoulder,Plain,Long,Midi,Smart Casual,Contemporary,Continuity,111.68,0.581803961169452
+PROD_00062,AW24 Trend Relaxed Polka Dot Dresse,Dresses,Relaxed,Crew,Polka Dot,Long,Above Knee,Smart Casual,Classic,AW24 Trend,88.23,0.5156224294850973
+PROD_00063,Clearance Oversized Stripe Dresse,Dresses,Oversized,Crew,Stripe,Long,Mini,Work,Boho,Clearance,94.89,0.6612800800407863
+PROD_00064,SS25 Preview Oversized Polka Dot Dresse,Dresses,Oversized,High,Polka Dot,Bell,Knee,Casual,Classic,SS25 Preview,75.64,0.7146407074212133
+PROD_00065,SS25 Preview Regular Stripe Dresse,Dresses,Regular,Square,Stripe,Standard,Mini,Holiday,Minimalist,SS25 Preview,107.8,0.6643275489064449
+PROD_00066,AW24 Trend Relaxed Animal Print Dresse,Dresses,Relaxed,Boat,Animal Print,Bell,Mini,Evening,Romantic,AW24 Trend,89.79,0.735921813176846
+PROD_00067,AW24 Trend Relaxed Abstract Dresse,Dresses,Relaxed,V-Neck,Abstract,Puff,Mini,Holiday,Romantic,AW24 Trend,63.16,0.639957971354003
+PROD_00068,AW24 Core Relaxed Plain Dresse,Dresses,Relaxed,Boat,Plain,Cap,Knee,Holiday,Boho,AW24 Core,82.43,0.5663685188687049
+PROD_00069,SS25 Preview Relaxed Stripe Dresse,Dresses,Relaxed,Square,Stripe,Cap,Midi,Work,Minimalist,SS25 Preview,66.56,0.6603213062099504
+PROD_00070,AW24 Trend Fitted Floral Dresse,Dresses,Fitted,Round,Floral,Puff,Midi,Loungewear,Sporty,AW24 Trend,112.1,0.7583114285723047
+PROD_00071,SS25 Preview Fitted Stripe Dresse,Dresses,Fitted,Square,Stripe,Puff,Maxi,Casual,Boho,SS25 Preview,69.03,0.827566525299742
+PROD_00072,Continuity Regular Polka Dot Dresse,Dresses,Regular,Boat,Polka Dot,Bell,Maxi,Loungewear,Boho,Continuity,103.22,0.6181721527473478
+PROD_00073,AW24 Trend Oversized Abstract Dresse,Dresses,Oversized,Boat,Abstract,Sleeveless,Maxi,Evening,Sporty,AW24 Trend,109.28,0.7706416536574021
+PROD_00074,AW24 Trend Slim Animal Print Dresse,Dresses,Slim,Crew,Animal Print,Cap,Maxi,Work,Classic,AW24 Trend,110.32,0.7848682953357364
+PROD_00075,AW24 Trend Relaxed Polka Dot Dresse,Dresses,Relaxed,Round,Polka Dot,Sleeveless,Above Knee,Casual,Classic,AW24 Trend,69.31,0.6023505311247338
+PROD_00076,Clearance Oversized Polka Dot Dresse,Dresses,Oversized,Square,Polka Dot,Long,Mini,Evening,Minimalist,Clearance,73.08,0.6509691711105191
+PROD_00077,AW24 Trend Regular Abstract Dresse,Dresses,Regular,High,Abstract,Puff,Midi,Evening,Contemporary,AW24 Trend,102.91,0.7308826497716864
+PROD_00078,AW24 Trend Slim Polka Dot Dresse,Dresses,Slim,Off-Shoulder,Polka Dot,Long,Mini,Evening,Contemporary,AW24 Trend,78.37,0.8076398368910006
+PROD_00079,AW24 Trend Fitted Plain Dresse,Dresses,Fitted,Boat,Plain,Bell,Above Knee,Casual,Minimalist,AW24 Trend,102.69,0.6984044772050214
+PROD_00080,Clearance Oversized Animal Print Dresse,Dresses,Oversized,High,Animal Print,Bell,Maxi,Work,Minimalist,Clearance,74.36,0.7574157945879082
+PROD_00081,Continuity Fitted Polka Dot Dresse,Dresses,Fitted,Boat,Polka Dot,Bell,Midi,Smart Casual,Sporty,Continuity,64.45,0.6916621978165276
+PROD_00082,AW24 Trend Oversized Polka Dot Dresse,Dresses,Oversized,Crew,Polka Dot,Sleeveless,Knee,Holiday,Minimalist,AW24 Trend,87.32,0.6226170254128255
+PROD_00083,SS25 Preview Relaxed Plain Dresse,Dresses,Relaxed,Boat,Plain,Cap,Knee,Smart Casual,Boho,SS25 Preview,114.88,0.5647958334109405
+PROD_00084,AW24 Trend Relaxed Plain Dresse,Dresses,Relaxed,Square,Plain,Sleeveless,Above Knee,Smart Casual,Minimalist,AW24 Trend,69.26,0.5609097364589615
+PROD_00085,Continuity Regular Check Dresse,Dresses,Regular,V-Neck,Check,Puff,Knee,Holiday,Minimalist,Continuity,103.37,0.5103534873886897
+PROD_00086,AW24 Core Slim Polka Dot Dresse,Dresses,Slim,Round,Polka Dot,Puff,Midi,Holiday,Sporty,AW24 Core,92.49,0.6525505659271843
+PROD_00087,Continuity Fitted Check Dresse,Dresses,Fitted,Boat,Check,Standard,Knee,Work,Minimalist,Continuity,64.14,0.5921009156986361
+PROD_00088,AW24 Trend Fitted Abstract Dresse,Dresses,Fitted,High,Abstract,Bell,Maxi,Smart Casual,Minimalist,AW24 Trend,105.91,0.8145825549827017
+PROD_00089,Continuity Relaxed Check Dresse,Dresses,Relaxed,Boat,Check,Standard,Midi,Work,Sporty,Continuity,66.93,0.5885238878707566
+PROD_00090,Continuity Regular Check Dresse,Dresses,Regular,Off-Shoulder,Check,Sleeveless,Maxi,Holiday,Classic,Continuity,111.07,0.6738363102101022
+PROD_00091,AW24 Trend Fitted Abstract Dresse,Dresses,Fitted,Square,Abstract,Standard,Mini,Loungewear,Minimalist,AW24 Trend,106.6,0.7787972754397888
+PROD_00092,Continuity Oversized Plain Dresse,Dresses,Oversized,Round,Plain,Balloon,Midi,Work,Contemporary,Continuity,112.25,0.5133695654399437
+PROD_00093,AW24 Core Relaxed Polka Dot Dresse,Dresses,Relaxed,Crew,Polka Dot,Puff,Knee,Evening,Boho,AW24 Core,112.57,0.5551423317531303
+PROD_00094,AW24 Core Oversized Abstract Dresse,Dresses,Oversized,V-Neck,Abstract,Bell,Mini,Work,Contemporary,AW24 Core,81.71,0.7176617233552508
+PROD_00095,AW24 Trend Slim Plain Dresse,Dresses,Slim,Off-Shoulder,Plain,Sleeveless,Above Knee,Casual,Romantic,AW24 Trend,77.02,0.7938181172524722
+PROD_00096,Continuity Regular Check Dresse,Dresses,Regular,Round,Check,Cap,Mini,Holiday,Contemporary,Continuity,99.72,0.5332172522061733
+PROD_00097,AW24 Core Relaxed Stripe Dresse,Dresses,Relaxed,Off-Shoulder,Stripe,Sleeveless,Maxi,Holiday,Sporty,AW24 Core,111.93,0.6965316299525386
+PROD_00098,Continuity Regular Plain Dresse,Dresses,Regular,Crew,Plain,Bell,Mini,Work,Romantic,Continuity,104.91,0.48048024090562097
+PROD_00099,AW24 Trend Oversized Floral Dresse,Dresses,Oversized,High,Floral,Standard,Maxi,Loungewear,Sporty,AW24 Trend,65.71,0.7438546053396965
+PROD_00100,AW24 Core Slim Polka Dot Dresse,Dresses,Slim,High,Polka Dot,Balloon,Maxi,Casual,Romantic,AW24 Core,77.4,0.7187223141210207
+PROD_00101,SS25 Preview Relaxed Check Dresse,Dresses,Relaxed,Square,Check,Cap,Knee,Casual,Romantic,SS25 Preview,114.79,0.630449042435403
+PROD_00102,SS25 Preview Slim Check Dresse,Dresses,Slim,Off-Shoulder,Check,Long,Midi,Casual,Minimalist,SS25 Preview,100.62,0.8342777413479927
+PROD_00103,SS25 Preview Oversized Floral Dresse,Dresses,Oversized,High,Floral,Puff,Above Knee,Loungewear,Romantic,SS25 Preview,82.44,0.787661763731501
+PROD_00104,Clearance Fitted Animal Print Dresse,Dresses,Fitted,Off-Shoulder,Animal Print,Long,Midi,Evening,Minimalist,Clearance,85.5,0.8401840168452807
+PROD_00105,AW24 Trend Relaxed Polka Dot Dresse,Dresses,Relaxed,Crew,Polka Dot,Sleeveless,Mini,Work,Minimalist,AW24 Trend,71.95,0.6569533671814981
+PROD_00106,Continuity Oversized Animal Print Dresse,Dresses,Oversized,Square,Animal Print,Cap,Midi,Work,Classic,Continuity,73.98,0.6947686177064281
+PROD_00107,SS25 Preview Relaxed Check Dresse,Dresses,Relaxed,Round,Check,Sleeveless,Knee,Work,Boho,SS25 Preview,102.68,0.6026220506980932
+PROD_00108,AW24 Core Fitted Stripe Dresse,Dresses,Fitted,High,Stripe,Bell,Mini,Holiday,Contemporary,AW24 Core,94.78,0.7093755141565408
+PROD_00109,Continuity Regular Check Dresse,Dresses,Regular,High,Check,Puff,Maxi,Smart Casual,Sporty,Continuity,101.94,0.6044573501069429
+PROD_00110,Continuity Oversized Polka Dot Dresse,Dresses,Oversized,Boat,Polka Dot,Standard,Mini,Work,Contemporary,Continuity,65.42,0.5928331252368612
+PROD_00111,Clearance Regular Abstract Dresse,Dresses,Regular,Crew,Abstract,Bell,Knee,Evening,Romantic,Clearance,87.63,0.5799929397473067
+PROD_00112,Continuity Relaxed Abstract Dresse,Dresses,Relaxed,Boat,Abstract,Bell,Knee,Work,Sporty,Continuity,81.25,0.5268020052192679
+PROD_00113,SS25 Preview Relaxed Stripe Dresse,Dresses,Relaxed,Crew,Stripe,Sleeveless,Mini,Loungewear,Contemporary,SS25 Preview,65.36,0.6299983018293569
+PROD_00114,Continuity Slim Animal Print Dresse,Dresses,Slim,High,Animal Print,Long,Above Knee,Smart Casual,Contemporary,Continuity,109.52,0.6483307248184204
+PROD_00115,AW24 Core Relaxed Animal Print Dresse,Dresses,Relaxed,High,Animal Print,Long,Maxi,Holiday,Boho,AW24 Core,94.22,0.5951742912953053
+PROD_00116,Clearance Regular Floral Dresse,Dresses,Regular,Crew,Floral,Balloon,Above Knee,Work,Classic,Clearance,84.69,0.6264739204910847
+PROD_00117,AW24 Trend Regular Plain Dresse,Dresses,Regular,Crew,Plain,Standard,Maxi,Work,Sporty,AW24 Trend,84.23,0.610109758736427
+PROD_00118,Continuity Oversized Polka Dot Dresse,Dresses,Oversized,V-Neck,Polka Dot,Standard,Maxi,Work,Minimalist,Continuity,62.69,0.6004637287977436
+PROD_00119,AW24 Core Oversized Floral Dresse,Dresses,Oversized,Crew,Floral,Standard,Knee,Evening,Classic,AW24 Core,97.62,0.599172011413469
+PROD_00120,Clearance Oversized Plain Dresse,Dresses,Oversized,Boat,Plain,Bell,Mini,Smart Casual,Contemporary,Clearance,81.96,0.6338400877326347
+PROD_00121,Clearance Relaxed Floral Dresse,Dresses,Relaxed,V-Neck,Floral,Standard,Maxi,Evening,Romantic,Clearance,84.77,0.6579031840791668
+PROD_00122,SS25 Preview Fitted Polka Dot Dresse,Dresses,Fitted,Round,Polka Dot,Bell,Midi,Evening,Minimalist,SS25 Preview,110.89,0.7601945405131841
+PROD_00123,AW24 Core Fitted Stripe Dresse,Dresses,Fitted,Boat,Stripe,Bell,Maxi,Casual,Romantic,AW24 Core,93.38,0.7717261875865756
+PROD_00124,AW24 Trend Regular Floral Dresse,Dresses,Regular,High,Floral,Balloon,Mini,Smart Casual,Contemporary,AW24 Trend,108.46,0.7297804681341075
+PROD_00125,Clearance Fitted Floral Dresse,Dresses,Fitted,V-Neck,Floral,Standard,Midi,Evening,Sporty,Clearance,87.67,0.6956888071737267
+PROD_00126,Continuity Oversized Plain Dresse,Dresses,Oversized,Crew,Plain,Sleeveless,Knee,Loungewear,Boho,Continuity,113.92,0.48860509356518356
+PROD_00127,Continuity Slim Floral Dresse,Dresses,Slim,High,Floral,Balloon,Maxi,Loungewear,Contemporary,Continuity,66.74,0.709716625429035
+PROD_00128,AW24 Core Slim Floral Dresse,Dresses,Slim,Square,Floral,Cap,Above Knee,Work,Contemporary,AW24 Core,87.96,0.7162959623313019
+PROD_00129,SS25 Preview Slim Polka Dot Dresse,Dresses,Slim,Round,Polka Dot,Balloon,Maxi,Loungewear,Romantic,SS25 Preview,91.65,0.7368753906422487
+PROD_00130,SS25 Preview Oversized Check Dresse,Dresses,Oversized,V-Neck,Check,Cap,Knee,Loungewear,Minimalist,SS25 Preview,109.17,0.6917164278975703
+PROD_00131,Continuity Fitted Check Dresse,Dresses,Fitted,Square,Check,Puff,Mini,Holiday,Classic,Continuity,106.43,0.6803994603609388
+PROD_00132,Clearance Relaxed Stripe Dresse,Dresses,Relaxed,Square,Stripe,Standard,Mini,Smart Casual,Sporty,Clearance,65.22,0.6057688691185453
+PROD_00133,AW24 Trend Fitted Polka Dot Dresse,Dresses,Fitted,V-Neck,Polka Dot,Cap,Knee,Holiday,Classic,AW24 Trend,89.67,0.7471845301325485
+PROD_00134,Continuity Oversized Abstract Dresse,Dresses,Oversized,Square,Abstract,Puff,Knee,Smart Casual,Romantic,Continuity,87.37,0.5990876854231584
+PROD_00135,AW24 Core Oversized Check Dresse,Dresses,Oversized,V-Neck,Check,Balloon,Midi,Work,Boho,AW24 Core,78.58,0.7157857783517491
+PROD_00136,Continuity Regular Check Dresse,Dresses,Regular,Crew,Check,Cap,Midi,Work,Sporty,Continuity,69.19,0.49926763964867005
+PROD_00137,AW24 Core Fitted Check Dresse,Dresses,Fitted,V-Neck,Check,Standard,Knee,Work,Boho,AW24 Core,103.95,0.6397859398390211
+PROD_00138,Continuity Oversized Animal Print Dresse,Dresses,Oversized,Off-Shoulder,Animal Print,Long,Mini,Loungewear,Romantic,Continuity,74.45,0.7071626365195262
+PROD_00139,Continuity Oversized Floral Dresse,Dresses,Oversized,V-Neck,Floral,Bell,Knee,Holiday,Minimalist,Continuity,80.07,0.546618499960975
+PROD_00140,Continuity Slim Stripe Dresse,Dresses,Slim,Round,Stripe,Bell,Above Knee,Work,Minimalist,Continuity,80.62,0.6339924372885708
+PROD_00141,SS25 Preview Slim Abstract Dresse,Dresses,Slim,V-Neck,Abstract,Bell,Above Knee,Loungewear,Contemporary,SS25 Preview,88.21,0.8288124075954636
+PROD_00142,Continuity Fitted Animal Print Dresse,Dresses,Fitted,V-Neck,Animal Print,Puff,Mini,Smart Casual,Classic,Continuity,109.89,0.6879163918290151
+PROD_00143,Clearance Slim Polka Dot Dresse,Dresses,Slim,High,Polka Dot,Sleeveless,Midi,Loungewear,Boho,Clearance,100.2,0.6960355373134828
+PROD_00144,Clearance Relaxed Polka Dot Dresse,Dresses,Relaxed,Boat,Polka Dot,Puff,Midi,Smart Casual,Minimalist,Clearance,64.98,0.6783711583209153
+PROD_00145,AW24 Core Regular Floral Dresse,Dresses,Regular,Boat,Floral,Bell,Maxi,Loungewear,Contemporary,AW24 Core,100.77,0.6296694559787569
+PROD_00146,SS25 Preview Relaxed Polka Dot Dresse,Dresses,Relaxed,Off-Shoulder,Polka Dot,Long,Midi,Work,Romantic,SS25 Preview,72.14,0.6781825003295472
+PROD_00147,Continuity Slim Abstract Dresse,Dresses,Slim,Crew,Abstract,Balloon,Maxi,Holiday,Sporty,Continuity,63.47,0.6339361879819729
+PROD_00148,Clearance Regular Animal Print Dresse,Dresses,Regular,Boat,Animal Print,Puff,Knee,Work,Romantic,Clearance,69.48,0.6974485603119792
+PROD_00149,Clearance Oversized Stripe Dresse,Dresses,Oversized,Boat,Stripe,Long,Above Knee,Loungewear,Contemporary,Clearance,94.65,0.6367720615971152
+PROD_00150,Continuity Oversized Polka Dot Dresse,Dresses,Oversized,Round,Polka Dot,Long,Midi,Casual,Boho,Continuity,63.75,0.5328351800568847
+PROD_00151,AW24 Trend Oversized Abstract Dresse,Dresses,Oversized,Boat,Abstract,Long,Above Knee,Evening,Classic,AW24 Trend,62.86,0.738350150258791
+PROD_00152,Clearance Fitted Stripe Dresse,Dresses,Fitted,Square,Stripe,Long,Mini,Evening,Classic,Clearance,110.0,0.7361889894377485
+PROD_00153,AW24 Core Oversized Abstract Dresse,Dresses,Oversized,V-Neck,Abstract,Sleeveless,Midi,Loungewear,Contemporary,AW24 Core,90.9,0.6632839921057174
+PROD_00154,AW24 Core Oversized Stripe Dresse,Dresses,Oversized,Off-Shoulder,Stripe,Balloon,Maxi,Loungewear,Minimalist,AW24 Core,83.08,0.7576983392617653
+PROD_00155,Continuity Relaxed Abstract Dresse,Dresses,Relaxed,Off-Shoulder,Abstract,Long,Maxi,Evening,Boho,Continuity,110.04,0.6687424535370359
+PROD_00156,SS25 Preview Fitted Animal Print Dresse,Dresses,Fitted,V-Neck,Animal Print,Standard,Above Knee,Loungewear,Sporty,SS25 Preview,95.14,0.7735816364641533
+PROD_00157,AW24 Core Regular Plain Dresse,Dresses,Regular,High,Plain,Puff,Mini,Loungewear,Sporty,AW24 Core,113.67,0.6326907562145865
+PROD_00158,AW24 Core Oversized Abstract Dresse,Dresses,Oversized,Round,Abstract,Balloon,Mini,Casual,Boho,AW24 Core,86.48,0.6908959040422049
+PROD_00159,Continuity Relaxed Stripe Dresse,Dresses,Relaxed,Crew,Stripe,Puff,Above Knee,Smart Casual,Romantic,Continuity,113.5,0.4678694315928526
+PROD_00160,Clearance Fitted Polka Dot Dresse,Dresses,Fitted,High,Polka Dot,Sleeveless,Above Knee,Smart Casual,Classic,Clearance,93.26,0.6742814304472868
+PROD_00161,AW24 Trend Oversized Abstract Dresse,Dresses,Oversized,Square,Abstract,Sleeveless,Midi,Holiday,Contemporary,AW24 Trend,77.2,0.7182550267518641
+PROD_00162,Continuity Oversized Stripe Dresse,Dresses,Oversized,High,Stripe,Puff,Knee,Loungewear,Classic,Continuity,115.64,0.5604968587376189
+PROD_00163,Clearance Relaxed Animal Print Dresse,Dresses,Relaxed,High,Animal Print,Sleeveless,Mini,Evening,Boho,Clearance,93.19,0.6254966306839823
+PROD_00164,AW24 Trend Relaxed Check Dresse,Dresses,Relaxed,High,Check,Cap,Knee,Evening,Boho,AW24 Trend,70.55,0.5682572158035278
+PROD_00165,SS25 Preview Oversized Check Dresse,Dresses,Oversized,Off-Shoulder,Check,Standard,Above Knee,Evening,Romantic,SS25 Preview,89.56,0.78395629417729
+PROD_00166,SS25 Preview Fitted Abstract Dresse,Dresses,Fitted,Crew,Abstract,Balloon,Mini,Loungewear,Minimalist,SS25 Preview,79.2,0.7958792408364525
+PROD_00167,Continuity Slim Polka Dot Dresse,Dresses,Slim,Square,Polka Dot,Cap,Mini,Holiday,Sporty,Continuity,78.49,0.6086967020255933
+PROD_00168,AW24 Trend Relaxed Polka Dot Dresse,Dresses,Relaxed,Off-Shoulder,Polka Dot,Sleeveless,Maxi,Work,Contemporary,AW24 Trend,112.75,0.7766558439380544
+PROD_00169,AW24 Core Fitted Abstract Dresse,Dresses,Fitted,Crew,Abstract,Long,Above Knee,Loungewear,Classic,AW24 Core,92.78,0.6434878290136985
+PROD_00170,AW24 Trend Relaxed Check Dresse,Dresses,Relaxed,Off-Shoulder,Check,Standard,Maxi,Work,Sporty,AW24 Trend,62.63,0.7709595391110944
+PROD_00171,AW24 Trend Slim Stripe Dresse,Dresses,Slim,Crew,Stripe,Cap,Midi,Smart Casual,Contemporary,AW24 Trend,112.94,0.7110683570337593
+PROD_00172,Continuity Fitted Animal Print Dresse,Dresses,Fitted,Crew,Animal Print,Bell,Knee,Smart Casual,Boho,Continuity,70.92,0.6091325734333556
+PROD_00173,AW24 Trend Relaxed Polka Dot Dresse,Dresses,Relaxed,High,Polka Dot,Balloon,Mini,Evening,Classic,AW24 Trend,91.0,0.7160746302771357
+PROD_00174,AW24 Core Regular Abstract Dresse,Dresses,Regular,Off-Shoulder,Abstract,Cap,Midi,Holiday,Boho,AW24 Core,76.06,0.6414196634471724
+PROD_00175,SS25 Preview Oversized Stripe Dresse,Dresses,Oversized,V-Neck,Stripe,Bell,Mini,Evening,Boho,SS25 Preview,99.3,0.7349943674268861
+PROD_00176,AW24 Trend Fitted Polka Dot Dresse,Dresses,Fitted,Boat,Polka Dot,Cap,Knee,Casual,Sporty,AW24 Trend,115.46,0.7533160378136801
+PROD_00177,AW24 Core Oversized Animal Print Dresse,Dresses,Oversized,V-Neck,Animal Print,Bell,Knee,Holiday,Contemporary,AW24 Core,91.04,0.6487511199383761
+PROD_00178,AW24 Core Oversized Stripe Dresse,Dresses,Oversized,High,Stripe,Cap,Midi,Casual,Contemporary,AW24 Core,83.96,0.6333323547859606
+PROD_00179,AW24 Trend Slim Check Dresse,Dresses,Slim,Crew,Check,Standard,Mini,Smart Casual,Romantic,AW24 Trend,114.5,0.6869161893842421
+PROD_00180,AW24 Trend Oversized Stripe Dresse,Dresses,Oversized,Boat,Stripe,Cap,Maxi,Evening,Romantic,AW24 Trend,88.91,0.7653317186666588
+PROD_00181,SS25 Preview Oversized Plain Dresse,Dresses,Oversized,High,Plain,Long,Midi,Holiday,Minimalist,SS25 Preview,74.44,0.670324542268403
+PROD_00182,SS25 Preview Slim Stripe Dresse,Dresses,Slim,High,Stripe,Sleeveless,Midi,Evening,Contemporary,SS25 Preview,99.41,0.7543787070391746
+PROD_00183,SS25 Preview Slim Stripe Dresse,Dresses,Slim,High,Stripe,Bell,Knee,Casual,Minimalist,SS25 Preview,115.18,0.7315167028386589
+PROD_00184,AW24 Trend Regular Polka Dot Dresse,Dresses,Regular,V-Neck,Polka Dot,Long,Midi,Casual,Sporty,AW24 Trend,82.11,0.6211341656247727
+PROD_00185,Clearance Fitted Plain Dresse,Dresses,Fitted,V-Neck,Plain,Long,Knee,Smart Casual,Contemporary,Clearance,71.4,0.6372152027615838
+PROD_00186,AW24 Trend Regular Polka Dot Dresse,Dresses,Regular,V-Neck,Polka Dot,Long,Maxi,Smart Casual,Romantic,AW24 Trend,80.83,0.6284515813706267
+PROD_00187,AW24 Trend Regular Polka Dot Dresse,Dresses,Regular,Crew,Polka Dot,Sleeveless,Maxi,Casual,Boho,AW24 Trend,104.05,0.6431807095107779
+PROD_00188,AW24 Core Regular Stripe Dresse,Dresses,Regular,Square,Stripe,Long,Above Knee,Casual,Sporty,AW24 Core,104.7,0.5584173032163408
+PROD_00189,AW24 Core Regular Stripe Dresse,Dresses,Regular,V-Neck,Stripe,Long,Above Knee,Holiday,Boho,AW24 Core,80.57,0.5476488903139867
+PROD_00190,AW24 Core Regular Plain Dresse,Dresses,Regular,Crew,Plain,Sleeveless,Midi,Holiday,Classic,AW24 Core,75.02,0.5609978743683472
+PROD_00191,Continuity Oversized Polka Dot Dresse,Dresses,Oversized,Boat,Polka Dot,Balloon,Maxi,Holiday,Classic,Continuity,89.24,0.6424382979799796
+PROD_00192,AW24 Core Fitted Animal Print Dresse,Dresses,Fitted,Round,Animal Print,Standard,Maxi,Work,Minimalist,AW24 Core,62.79,0.7060849245962089
+PROD_00193,Continuity Slim Polka Dot Dresse,Dresses,Slim,Boat,Polka Dot,Puff,Midi,Loungewear,Classic,Continuity,89.59,0.6748297527298802
+PROD_00194,AW24 Trend Oversized Plain Dresse,Dresses,Oversized,V-Neck,Plain,Balloon,Maxi,Smart Casual,Classic,AW24 Trend,113.94,0.6945517814493163
+PROD_00195,Continuity Relaxed Abstract Dresse,Dresses,Relaxed,Square,Abstract,Bell,Maxi,Loungewear,Boho,Continuity,108.41,0.6171199183962914
+PROD_00196,AW24 Core Fitted Stripe Dresse,Dresses,Fitted,Square,Stripe,Puff,Maxi,Holiday,Minimalist,AW24 Core,92.7,0.703945023620516
+PROD_00197,Continuity Slim Abstract Dresse,Dresses,Slim,Off-Shoulder,Abstract,Cap,Maxi,Loungewear,Contemporary,Continuity,93.44,0.7867979626730903
+PROD_00198,AW24 Core Oversized Check Dresse,Dresses,Oversized,Round,Check,Balloon,Midi,Evening,Minimalist,AW24 Core,82.17,0.6818014178127003
+PROD_00199,Continuity Relaxed Stripe Dresse,Dresses,Relaxed,Boat,Stripe,Cap,Knee,Work,Contemporary,Continuity,86.75,0.45924495170370666
+PROD_00200,SS25 Preview Slim Polka Dot Dresse,Dresses,Slim,V-Neck,Polka Dot,Standard,Mini,Evening,Classic,SS25 Preview,108.6,0.7394479390838857
+PROD_00201,Clearance Regular Animal Print Jean,Jeans,Regular,-,Animal Print,Standard,-,Holiday,Romantic,Clearance,96.0,0.6043995302352474
+PROD_00202,Continuity Relaxed Abstract Jean,Jeans,Relaxed,-,Abstract,Standard,-,Evening,Boho,Continuity,63.64,0.5658138119804497
+PROD_00203,AW24 Core Slim Stripe Jean,Jeans,Slim,-,Stripe,Bell,-,Work,Boho,AW24 Core,92.8,0.6448051955477321
+PROD_00204,Continuity Fitted Animal Print Jean,Jeans,Fitted,-,Animal Print,Sleeveless,-,Smart Casual,Sporty,Continuity,72.45,0.7266622220896107
+PROD_00205,SS25 Preview Regular Polka Dot Jean,Jeans,Regular,-,Polka Dot,Standard,-,Work,Romantic,SS25 Preview,76.17,0.6220997045640898
+PROD_00206,Continuity Slim Polka Dot Jean,Jeans,Slim,-,Polka Dot,Balloon,-,Holiday,Contemporary,Continuity,64.81,0.6487769206365734
+PROD_00207,Clearance Fitted Polka Dot Jean,Jeans,Fitted,-,Polka Dot,Long,-,Holiday,Romantic,Clearance,54.82,0.6936473174619073
+PROD_00208,AW24 Core Slim Animal Print Jean,Jeans,Slim,-,Animal Print,Cap,-,Loungewear,Boho,AW24 Core,69.88,0.6549294492764416
+PROD_00209,SS25 Preview Regular Stripe Jean,Jeans,Regular,-,Stripe,Cap,-,Work,Boho,SS25 Preview,66.7,0.6253473192060721
+PROD_00210,Continuity Slim Floral Jean,Jeans,Slim,-,Floral,Long,-,Smart Casual,Romantic,Continuity,66.93,0.589101976266891
+PROD_00211,AW24 Core Slim Floral Jean,Jeans,Slim,-,Floral,Cap,-,Loungewear,Classic,AW24 Core,66.43,0.6292257918468093
+PROD_00212,SS25 Preview Fitted Floral Jean,Jeans,Fitted,-,Floral,Puff,-,Evening,Minimalist,SS25 Preview,71.0,0.8274904272810235
+PROD_00213,Clearance Regular Stripe Jean,Jeans,Regular,-,Stripe,Balloon,-,Loungewear,Boho,Clearance,78.44,0.6044712776858336
+PROD_00214,Clearance Fitted Plain Jean,Jeans,Fitted,-,Plain,Standard,-,Smart Casual,Contemporary,Clearance,63.37,0.6883340768414227
+PROD_00215,Continuity Slim Abstract Jean,Jeans,Slim,-,Abstract,Standard,-,Work,Minimalist,Continuity,84.72,0.6381282110532434
+PROD_00216,AW24 Trend Oversized Animal Print Jean,Jeans,Oversized,-,Animal Print,Puff,-,Evening,Boho,AW24 Trend,56.49,0.7507324416793069
+PROD_00217,SS25 Preview Fitted Plain Jean,Jeans,Fitted,-,Plain,Balloon,-,Evening,Classic,SS25 Preview,55.38,0.7576872275827576
+PROD_00218,AW24 Core Fitted Check Jean,Jeans,Fitted,-,Check,Bell,-,Loungewear,Boho,AW24 Core,85.78,0.7196142649549898
+PROD_00219,AW24 Trend Regular Check Jean,Jeans,Regular,-,Check,Bell,-,Casual,Classic,AW24 Trend,90.37,0.6310969890619952
+PROD_00220,SS25 Preview Relaxed Floral Jean,Jeans,Relaxed,-,Floral,Long,-,Smart Casual,Boho,SS25 Preview,90.47,0.5730353805533004
+PROD_00221,Continuity Relaxed Plain Jean,Jeans,Relaxed,-,Plain,Standard,-,Evening,Sporty,Continuity,62.29,0.4460329050642765
+PROD_00222,AW24 Trend Regular Floral Jean,Jeans,Regular,-,Floral,Puff,-,Holiday,Sporty,AW24 Trend,95.4,0.6133778144993969
+PROD_00223,AW24 Core Fitted Animal Print Jean,Jeans,Fitted,-,Animal Print,Long,-,Loungewear,Boho,AW24 Core,61.46,0.6572665587581157
+PROD_00224,AW24 Core Oversized Polka Dot Jean,Jeans,Oversized,-,Polka Dot,Cap,-,Casual,Minimalist,AW24 Core,80.41,0.6047822347433047
+PROD_00225,Continuity Oversized Plain Jean,Jeans,Oversized,-,Plain,Long,-,Work,Romantic,Continuity,58.15,0.5144801085276098
+PROD_00226,SS25 Preview Fitted Check Jean,Jeans,Fitted,-,Check,Cap,-,Loungewear,Minimalist,SS25 Preview,63.24,0.7489727983738215
+PROD_00227,Clearance Slim Check Jean,Jeans,Slim,-,Check,Standard,-,Work,Contemporary,Clearance,71.0,0.6513542854490342
+PROD_00228,Continuity Oversized Polka Dot Jean,Jeans,Oversized,-,Polka Dot,Cap,-,Work,Classic,Continuity,62.29,0.5904031452591657
+PROD_00229,Clearance Slim Floral Jean,Jeans,Slim,-,Floral,Puff,-,Holiday,Minimalist,Clearance,70.09,0.6866678879702982
+PROD_00230,SS25 Preview Slim Check Jean,Jeans,Slim,-,Check,Long,-,Work,Sporty,SS25 Preview,95.46,0.777645652943541
+PROD_00231,Clearance Regular Stripe Jean,Jeans,Regular,-,Stripe,Long,-,Smart Casual,Classic,Clearance,63.37,0.5900137582752076
+PROD_00232,SS25 Preview Slim Animal Print Jean,Jeans,Slim,-,Animal Print,Bell,-,Smart Casual,Boho,SS25 Preview,66.76,0.7568037314091669
+PROD_00233,AW24 Trend Regular Floral Jean,Jeans,Regular,-,Floral,Standard,-,Smart Casual,Boho,AW24 Trend,75.27,0.5966794549433831
+PROD_00234,AW24 Trend Regular Animal Print Jean,Jeans,Regular,-,Animal Print,Sleeveless,-,Loungewear,Classic,AW24 Trend,91.12,0.7077727910067795
+PROD_00235,Continuity Oversized Check Jean,Jeans,Oversized,-,Check,Long,-,Holiday,Romantic,Continuity,68.69,0.604486408541051
+PROD_00236,SS25 Preview Fitted Abstract Jean,Jeans,Fitted,-,Abstract,Cap,-,Holiday,Boho,SS25 Preview,66.58,0.7987234343460683
+PROD_00237,SS25 Preview Regular Check Jean,Jeans,Regular,-,Check,Standard,-,Evening,Minimalist,SS25 Preview,84.07,0.6160905543235183
+PROD_00238,AW24 Core Relaxed Animal Print Jean,Jeans,Relaxed,-,Animal Print,Standard,-,Work,Romantic,AW24 Core,70.91,0.5409827552569788
+PROD_00239,SS25 Preview Relaxed Check Jean,Jeans,Relaxed,-,Check,Puff,-,Casual,Classic,SS25 Preview,83.7,0.6529379269302076
+PROD_00240,Clearance Relaxed Plain Jean,Jeans,Relaxed,-,Plain,Cap,-,Casual,Romantic,Clearance,66.18,0.5566245472760379
+PROD_00241,AW24 Core Fitted Check Jean,Jeans,Fitted,-,Check,Puff,-,Holiday,Romantic,AW24 Core,65.73,0.7411627014444855
+PROD_00242,SS25 Preview Oversized Polka Dot Jean,Jeans,Oversized,-,Polka Dot,Bell,-,Loungewear,Contemporary,SS25 Preview,85.22,0.7146326359986562
+PROD_00243,Continuity Fitted Check Jean,Jeans,Fitted,-,Check,Bell,-,Smart Casual,Classic,Continuity,96.93,0.6792920229224789
+PROD_00244,AW24 Core Slim Polka Dot Jean,Jeans,Slim,-,Polka Dot,Long,-,Work,Sporty,AW24 Core,82.3,0.6025161024215931
+PROD_00245,Continuity Fitted Abstract Jean,Jeans,Fitted,-,Abstract,Sleeveless,-,Casual,Contemporary,Continuity,93.68,0.6709681908275777
+PROD_00246,SS25 Preview Oversized Animal Print Jean,Jeans,Oversized,-,Animal Print,Bell,-,Holiday,Contemporary,SS25 Preview,86.33,0.7356362141644877
+PROD_00247,Clearance Relaxed Stripe Jean,Jeans,Relaxed,-,Stripe,Puff,-,Evening,Boho,Clearance,64.86,0.5868268616268769
+PROD_00248,AW24 Core Slim Polka Dot Jean,Jeans,Slim,-,Polka Dot,Cap,-,Loungewear,Boho,AW24 Core,67.52,0.6474434914147175
+PROD_00249,SS25 Preview Relaxed Plain Jean,Jeans,Relaxed,-,Plain,Bell,-,Loungewear,Minimalist,SS25 Preview,92.51,0.6179313402788461
+PROD_00250,AW24 Trend Relaxed Abstract Jean,Jeans,Relaxed,-,Abstract,Long,-,Loungewear,Romantic,AW24 Trend,80.93,0.6169304984412203
+PROD_00251,SS25 Preview Relaxed Plain Jean,Jeans,Relaxed,-,Plain,Bell,-,Loungewear,Contemporary,SS25 Preview,54.8,0.6118747847114709
+PROD_00252,AW24 Trend Relaxed Abstract Jean,Jeans,Relaxed,-,Abstract,Cap,-,Loungewear,Minimalist,AW24 Trend,74.64,0.6032858556876095
+PROD_00253,Continuity Fitted Abstract Jean,Jeans,Fitted,-,Abstract,Standard,-,Work,Romantic,Continuity,60.68,0.6210235283744705
+PROD_00254,Clearance Relaxed Polka Dot Jean,Jeans,Relaxed,-,Polka Dot,Sleeveless,-,Loungewear,Sporty,Clearance,67.03,0.5804132841918439
+PROD_00255,SS25 Preview Slim Abstract Jean,Jeans,Slim,-,Abstract,Cap,-,Evening,Romantic,SS25 Preview,73.38,0.7358107643173415
+PROD_00256,SS25 Preview Slim Stripe Jean,Jeans,Slim,-,Stripe,Balloon,-,Smart Casual,Contemporary,SS25 Preview,94.25,0.7133284258082173
+PROD_00257,AW24 Core Oversized Floral Jean,Jeans,Oversized,-,Floral,Sleeveless,-,Smart Casual,Contemporary,AW24 Core,84.34,0.676770209791924
+PROD_00258,Clearance Relaxed Polka Dot Jean,Jeans,Relaxed,-,Polka Dot,Long,-,Casual,Romantic,Clearance,87.41,0.5106213827588457
+PROD_00259,AW24 Trend Fitted Plain Jean,Jeans,Fitted,-,Plain,Cap,-,Work,Romantic,AW24 Trend,87.05,0.7107957328109019
+PROD_00260,Clearance Fitted Check Jean,Jeans,Fitted,-,Check,Sleeveless,-,Smart Casual,Contemporary,Clearance,81.48,0.6813965887119242
+PROD_00261,SS25 Preview Regular Abstract Jean,Jeans,Regular,-,Abstract,Puff,-,Casual,Minimalist,SS25 Preview,78.48,0.73343247957494
+PROD_00262,Continuity Regular Check Jean,Jeans,Regular,-,Check,Bell,-,Work,Sporty,Continuity,73.13,0.574640737522809
+PROD_00263,AW24 Trend Regular Animal Print Jean,Jeans,Regular,-,Animal Print,Sleeveless,-,Work,Minimalist,AW24 Trend,54.05,0.6828707319884054
+PROD_00264,SS25 Preview Relaxed Abstract Jean,Jeans,Relaxed,-,Abstract,Bell,-,Evening,Minimalist,SS25 Preview,56.17,0.6938963021973286
+PROD_00265,AW24 Trend Oversized Animal Print Jean,Jeans,Oversized,-,Animal Print,Bell,-,Evening,Contemporary,AW24 Trend,65.67,0.7335014594340226
+PROD_00266,Continuity Fitted Floral Jean,Jeans,Fitted,-,Floral,Long,-,Work,Classic,Continuity,58.5,0.6145427950211713
+PROD_00267,AW24 Core Relaxed Animal Print Jean,Jeans,Relaxed,-,Animal Print,Standard,-,Loungewear,Romantic,AW24 Core,88.28,0.6091643401973319
+PROD_00268,Continuity Relaxed Plain Jean,Jeans,Relaxed,-,Plain,Long,-,Smart Casual,Boho,Continuity,57.19,0.4063354449743156
+PROD_00269,AW24 Trend Fitted Floral Jean,Jeans,Fitted,-,Floral,Long,-,Evening,Classic,AW24 Trend,91.97,0.674551548278736
+PROD_00270,Continuity Oversized Stripe Jean,Jeans,Oversized,-,Stripe,Standard,-,Evening,Classic,Continuity,73.53,0.5528189261756357
+PROD_00271,SS25 Preview Fitted Stripe Jean,Jeans,Fitted,-,Stripe,Sleeveless,-,Evening,Classic,SS25 Preview,81.73,0.7106711819102354
+PROD_00272,SS25 Preview Regular Plain Jean,Jeans,Regular,-,Plain,Balloon,-,Casual,Sporty,SS25 Preview,89.77,0.676799959189509
+PROD_00273,AW24 Trend Regular Floral Jean,Jeans,Regular,-,Floral,Standard,-,Work,Minimalist,AW24 Trend,55.89,0.6326054708980803
+PROD_00274,AW24 Core Oversized Check Jean,Jeans,Oversized,-,Check,Bell,-,Casual,Classic,AW24 Core,54.72,0.6212397027176014
+PROD_00275,Clearance Relaxed Floral Jean,Jeans,Relaxed,-,Floral,Long,-,Smart Casual,Romantic,Clearance,58.6,0.535747921649247
+PROD_00276,SS25 Preview Fitted Check Jean,Jeans,Fitted,-,Check,Standard,-,Work,Contemporary,SS25 Preview,69.83,0.7360048040252434
+PROD_00277,Clearance Slim Plain Jean,Jeans,Slim,-,Plain,Sleeveless,-,Evening,Sporty,Clearance,79.97,0.6842982784071135
+PROD_00278,Clearance Oversized Plain Jean,Jeans,Oversized,-,Plain,Standard,-,Evening,Romantic,Clearance,84.47,0.6234973785682963
+PROD_00279,AW24 Trend Slim Abstract Jean,Jeans,Slim,-,Abstract,Bell,-,Holiday,Contemporary,AW24 Trend,85.62,0.7112503130526633
+PROD_00280,AW24 Trend Relaxed Check Jean,Jeans,Relaxed,-,Check,Standard,-,Holiday,Boho,AW24 Trend,81.26,0.5875098881559125
+PROD_00281,Clearance Fitted Floral Top,Tops,Fitted,Boat,Floral,Cap,-,Loungewear,Classic,Clearance,58.44,0.504096197364299
+PROD_00282,Clearance Relaxed Animal Print Top,Tops,Relaxed,V-Neck,Animal Print,Bell,-,Holiday,Romantic,Clearance,39.04,0.4063551479496778
+PROD_00283,Continuity Slim Polka Dot Top,Tops,Slim,Boat,Polka Dot,Puff,-,Casual,Sporty,Continuity,32.17,0.48306722555623993
+PROD_00284,SS25 Preview Relaxed Abstract Top,Tops,Relaxed,Crew,Abstract,Standard,-,Work,Classic,SS25 Preview,51.08,0.4396688987873197
+PROD_00285,SS25 Preview Regular Abstract Top,Tops,Regular,High,Abstract,Cap,-,Casual,Romantic,SS25 Preview,57.81,0.51363785774104
+PROD_00286,AW24 Trend Regular Stripe Top,Tops,Regular,V-Neck,Stripe,Bell,-,Work,Sporty,AW24 Trend,33.26,0.4675601919156652
+PROD_00287,AW24 Core Oversized Check Top,Tops,Oversized,High,Check,Cap,-,Smart Casual,Contemporary,AW24 Core,48.95,0.4721839322752903
+PROD_00288,AW24 Core Oversized Stripe Top,Tops,Oversized,V-Neck,Stripe,Sleeveless,-,Casual,Contemporary,AW24 Core,34.97,0.42473421343730916
+PROD_00289,SS25 Preview Relaxed Animal Print Top,Tops,Relaxed,Crew,Animal Print,Puff,-,Holiday,Minimalist,SS25 Preview,58.03,0.48501871664456536
+PROD_00290,AW24 Core Slim Abstract Top,Tops,Slim,Off-Shoulder,Abstract,Sleeveless,-,Work,Boho,AW24 Core,43.36,0.6011818569539448
+PROD_00291,Continuity Relaxed Plain Top,Tops,Relaxed,Crew,Plain,Long,-,Work,Minimalist,Continuity,41.28,0.16399479732860944
+PROD_00292,Continuity Oversized Stripe Top,Tops,Oversized,Boat,Stripe,Sleeveless,-,Evening,Sporty,Continuity,50.44,0.4226390311600556
+PROD_00293,Continuity Relaxed Animal Print Top,Tops,Relaxed,Off-Shoulder,Animal Print,Balloon,-,Casual,Sporty,Continuity,32.99,0.44593436555939564
+PROD_00294,SS25 Preview Slim Animal Print Top,Tops,Slim,Boat,Animal Print,Long,-,Smart Casual,Romantic,SS25 Preview,44.16,0.5726894727823302
+PROD_00295,SS25 Preview Relaxed Plain Top,Tops,Relaxed,V-Neck,Plain,Balloon,-,Loungewear,Boho,SS25 Preview,48.81,0.4528555532894136
+PROD_00296,Continuity Oversized Abstract Top,Tops,Oversized,Square,Abstract,Puff,-,Smart Casual,Sporty,Continuity,45.68,0.4111652916654649
+PROD_00297,Continuity Relaxed Plain Top,Tops,Relaxed,Boat,Plain,Cap,-,Work,Romantic,Continuity,57.76,0.23660553078221597
+PROD_00298,Continuity Relaxed Polka Dot Top,Tops,Relaxed,High,Polka Dot,Standard,-,Casual,Sporty,Continuity,44.4,0.27600599019307265
+PROD_00299,AW24 Core Relaxed Polka Dot Top,Tops,Relaxed,Square,Polka Dot,Cap,-,Loungewear,Contemporary,AW24 Core,49.93,0.3455283974236923
+PROD_00300,AW24 Trend Regular Animal Print Top,Tops,Regular,Off-Shoulder,Animal Print,Cap,-,Evening,Classic,AW24 Trend,50.81,0.5562232158329593
+PROD_00301,Continuity Slim Polka Dot Top,Tops,Slim,Round,Polka Dot,Cap,-,Work,Boho,Continuity,40.02,0.34681432296119213
+PROD_00302,SS25 Preview Fitted Animal Print Top,Tops,Fitted,V-Neck,Animal Print,Sleeveless,-,Loungewear,Minimalist,SS25 Preview,49.2,0.5625251231096208
+PROD_00303,Clearance Relaxed Polka Dot Top,Tops,Relaxed,Boat,Polka Dot,Standard,-,Holiday,Contemporary,Clearance,47.64,0.33397971273356525
+PROD_00304,AW24 Core Relaxed Stripe Top,Tops,Relaxed,Boat,Stripe,Cap,-,Work,Contemporary,AW24 Core,55.55,0.3969695884851634
+PROD_00305,Clearance Slim Floral Top,Tops,Slim,High,Floral,Puff,-,Holiday,Minimalist,Clearance,43.9,0.49490377603699626
+PROD_00306,AW24 Trend Slim Polka Dot Top,Tops,Slim,Crew,Polka Dot,Balloon,-,Loungewear,Minimalist,AW24 Trend,49.61,0.4576969183008017
+PROD_00307,AW24 Trend Fitted Abstract Top,Tops,Fitted,Crew,Abstract,Puff,-,Smart Casual,Classic,AW24 Trend,38.11,0.5721259420372846
+PROD_00308,SS25 Preview Slim Floral Top,Tops,Slim,Boat,Floral,Cap,-,Evening,Classic,SS25 Preview,54.15,0.5521300881633365
+PROD_00309,SS25 Preview Relaxed Plain Top,Tops,Relaxed,High,Plain,Bell,-,Holiday,Boho,SS25 Preview,38.07,0.4477120467662289
+PROD_00310,SS25 Preview Regular Abstract Top,Tops,Regular,High,Abstract,Cap,-,Loungewear,Contemporary,SS25 Preview,36.7,0.48505706345413646
+PROD_00311,Continuity Fitted Plain Top,Tops,Fitted,Round,Plain,Sleeveless,-,Smart Casual,Contemporary,Continuity,56.1,0.3201878764139557
+PROD_00312,Clearance Slim Animal Print Top,Tops,Slim,Crew,Animal Print,Bell,-,Work,Minimalist,Clearance,52.02,0.5420507504232109
+PROD_00313,Continuity Regular Plain Top,Tops,Regular,Square,Plain,Standard,-,Work,Minimalist,Continuity,54.28,0.23487663188131414
+PROD_00314,AW24 Trend Fitted Polka Dot Top,Tops,Fitted,Boat,Polka Dot,Puff,-,Holiday,Classic,AW24 Trend,40.74,0.5538044075905385
+PROD_00315,Clearance Relaxed Plain Top,Tops,Relaxed,High,Plain,Puff,-,Evening,Sporty,Clearance,33.97,0.35464763610253774
+PROD_00316,Clearance Relaxed Polka Dot Top,Tops,Relaxed,Round,Polka Dot,Long,-,Holiday,Sporty,Clearance,47.23,0.3456646549352399
+PROD_00317,AW24 Core Regular Floral Top,Tops,Regular,Off-Shoulder,Floral,Puff,-,Holiday,Classic,AW24 Core,36.58,0.43865900968731686
+PROD_00318,AW24 Trend Fitted Stripe Top,Tops,Fitted,Round,Stripe,Sleeveless,-,Smart Casual,Boho,AW24 Trend,33.04,0.45842486515726744
+PROD_00319,AW24 Trend Relaxed Stripe Top,Tops,Relaxed,Square,Stripe,Long,-,Casual,Boho,AW24 Trend,54.19,0.3887798449371685
+PROD_00320,Clearance Fitted Floral Top,Tops,Fitted,Crew,Floral,Cap,-,Work,Romantic,Clearance,32.82,0.42174982139873896
+PROD_00321,AW24 Trend Slim Abstract Top,Tops,Slim,Square,Abstract,Sleeveless,-,Holiday,Romantic,AW24 Trend,53.63,0.5572770276686946
+PROD_00322,Clearance Regular Animal Print Top,Tops,Regular,High,Animal Print,Cap,-,Holiday,Boho,Clearance,40.94,0.4226738890568634
+PROD_00323,Clearance Slim Polka Dot Top,Tops,Slim,Off-Shoulder,Polka Dot,Standard,-,Casual,Classic,Clearance,38.9,0.5396346497496776
+PROD_00324,Clearance Relaxed Floral Top,Tops,Relaxed,High,Floral,Long,-,Holiday,Minimalist,Clearance,51.35,0.31266083660776844
+PROD_00325,SS25 Preview Slim Abstract Top,Tops,Slim,Boat,Abstract,Bell,-,Work,Sporty,SS25 Preview,47.18,0.6125649912941453
+PROD_00326,SS25 Preview Oversized Polka Dot Top,Tops,Oversized,Round,Polka Dot,Long,-,Loungewear,Minimalist,SS25 Preview,49.73,0.4741684128991823
+PROD_00327,Continuity Oversized Abstract Top,Tops,Oversized,V-Neck,Abstract,Standard,-,Smart Casual,Minimalist,Continuity,41.02,0.3505881988178321
+PROD_00328,SS25 Preview Oversized Floral Top,Tops,Oversized,Boat,Floral,Balloon,-,Holiday,Contemporary,SS25 Preview,35.01,0.5226110141678626
+PROD_00329,SS25 Preview Relaxed Polka Dot Top,Tops,Relaxed,High,Polka Dot,Balloon,-,Evening,Contemporary,SS25 Preview,54.68,0.47761957463565397
+PROD_00330,AW24 Core Fitted Plain Top,Tops,Fitted,Square,Plain,Balloon,-,Smart Casual,Minimalist,AW24 Core,48.47,0.5162732583861139
+PROD_00331,SS25 Preview Relaxed Floral Top,Tops,Relaxed,Boat,Floral,Sleeveless,-,Casual,Classic,SS25 Preview,34.35,0.4384101323360957
+PROD_00332,SS25 Preview Oversized Animal Print Top,Tops,Oversized,Off-Shoulder,Animal Print,Puff,-,Smart Casual,Contemporary,SS25 Preview,47.13,0.6712850971536758
+PROD_00333,Clearance Fitted Stripe Top,Tops,Fitted,High,Stripe,Sleeveless,-,Smart Casual,Minimalist,Clearance,52.6,0.5018285021013721
+PROD_00334,Continuity Oversized Stripe Top,Tops,Oversized,Boat,Stripe,Puff,-,Casual,Classic,Continuity,54.03,0.42032772277324526
+PROD_00335,AW24 Core Fitted Floral Top,Tops,Fitted,Boat,Floral,Sleeveless,-,Holiday,Boho,AW24 Core,51.68,0.46562139054598795
+PROD_00336,Continuity Slim Check Top,Tops,Slim,Crew,Check,Bell,-,Loungewear,Sporty,Continuity,39.23,0.44508527573220963
+PROD_00337,AW24 Trend Relaxed Plain Top,Tops,Relaxed,Square,Plain,Long,-,Casual,Minimalist,AW24 Trend,39.98,0.3640447273993253
+PROD_00338,AW24 Core Relaxed Stripe Top,Tops,Relaxed,High,Stripe,Long,-,Evening,Boho,AW24 Core,32.4,0.3657971066482454
+PROD_00339,Clearance Oversized Animal Print Top,Tops,Oversized,V-Neck,Animal Print,Bell,-,Smart Casual,Boho,Clearance,36.0,0.5079792843832955
+PROD_00340,SS25 Preview Relaxed Check Top,Tops,Relaxed,V-Neck,Check,Bell,-,Evening,Romantic,SS25 Preview,36.25,0.4812220205177159
+PROD_00341,Continuity Fitted Animal Print Top,Tops,Fitted,High,Animal Print,Standard,-,Smart Casual,Classic,Continuity,44.85,0.4335383261898358
+PROD_00342,AW24 Trend Relaxed Stripe Top,Tops,Relaxed,Off-Shoulder,Stripe,Bell,-,Work,Contemporary,AW24 Trend,37.22,0.5214834949996878
+PROD_00343,AW24 Core Fitted Check Top,Tops,Fitted,Square,Check,Bell,-,Casual,Classic,AW24 Core,51.99,0.48442400211181047
+PROD_00344,Continuity Regular Stripe Top,Tops,Regular,High,Stripe,Long,-,Evening,Romantic,Continuity,56.12,0.2900619532333931
+PROD_00345,SS25 Preview Regular Animal Print Top,Tops,Regular,Square,Animal Print,Sleeveless,-,Work,Romantic,SS25 Preview,48.94,0.48466145571598424
+PROD_00346,SS25 Preview Regular Animal Print Top,Tops,Regular,Boat,Animal Print,Cap,-,Work,Romantic,SS25 Preview,35.73,0.4932879146151815
+PROD_00347,Clearance Fitted Animal Print Top,Tops,Fitted,Off-Shoulder,Animal Print,Bell,-,Evening,Sporty,Clearance,47.53,0.6483429415157271
+PROD_00348,AW24 Core Relaxed Polka Dot Top,Tops,Relaxed,Boat,Polka Dot,Standard,-,Work,Boho,AW24 Core,39.86,0.3854827458362331
+PROD_00349,AW24 Core Oversized Stripe Top,Tops,Oversized,Square,Stripe,Long,-,Loungewear,Sporty,AW24 Core,42.45,0.39479716563821904
+PROD_00350,AW24 Trend Fitted Stripe Top,Tops,Fitted,Boat,Stripe,Cap,-,Holiday,Romantic,AW24 Trend,39.39,0.5784089463966515
+PROD_00351,Clearance Slim Check Top,Tops,Slim,Square,Check,Sleeveless,-,Holiday,Sporty,Clearance,41.07,0.4894817238346768
+PROD_00352,Clearance Oversized Polka Dot Top,Tops,Oversized,Round,Polka Dot,Cap,-,Smart Casual,Classic,Clearance,38.31,0.4164594081290322
+PROD_00353,AW24 Trend Slim Plain Top,Tops,Slim,Round,Plain,Puff,-,Work,Minimalist,AW24 Trend,38.67,0.4915289940379274
+PROD_00354,Continuity Oversized Floral Top,Tops,Oversized,High,Floral,Puff,-,Holiday,Romantic,Continuity,34.29,0.43958157315601953
+PROD_00355,SS25 Preview Slim Floral Top,Tops,Slim,High,Floral,Bell,-,Smart Casual,Romantic,SS25 Preview,55.99,0.5756562702399652
+PROD_00356,Clearance Oversized Check Top,Tops,Oversized,Square,Check,Balloon,-,Smart Casual,Minimalist,Clearance,57.64,0.466874943839823
+PROD_00357,SS25 Preview Relaxed Stripe Top,Tops,Relaxed,Square,Stripe,Cap,-,Loungewear,Sporty,SS25 Preview,57.03,0.4252883360415512
+PROD_00358,SS25 Preview Fitted Floral Top,Tops,Fitted,Boat,Floral,Sleeveless,-,Work,Romantic,SS25 Preview,39.64,0.6076820043630048
+PROD_00359,Continuity Regular Polka Dot Top,Tops,Regular,Crew,Polka Dot,Balloon,-,Loungewear,Contemporary,Continuity,39.7,0.2888302524917106
+PROD_00360,SS25 Preview Relaxed Stripe Top,Tops,Relaxed,Boat,Stripe,Bell,-,Loungewear,Boho,SS25 Preview,35.38,0.4193017409262675
+PROD_00361,SS25 Preview Slim Abstract Top,Tops,Slim,Square,Abstract,Bell,-,Evening,Minimalist,SS25 Preview,42.92,0.550466044034648
+PROD_00362,SS25 Preview Regular Plain Top,Tops,Regular,Crew,Plain,Balloon,-,Loungewear,Classic,SS25 Preview,35.32,0.4395578376257587
+PROD_00363,AW24 Trend Oversized Stripe Top,Tops,Oversized,High,Stripe,Cap,-,Evening,Contemporary,AW24 Trend,48.87,0.4230320433172336
+PROD_00364,AW24 Core Fitted Animal Print Top,Tops,Fitted,Crew,Animal Print,Cap,-,Work,Contemporary,AW24 Core,34.14,0.45971829819680665
+PROD_00365,Clearance Fitted Animal Print Top,Tops,Fitted,High,Animal Print,Sleeveless,-,Smart Casual,Classic,Clearance,56.44,0.5166848578205578
+PROD_00366,SS25 Preview Regular Floral Top,Tops,Regular,High,Floral,Standard,-,Casual,Minimalist,SS25 Preview,41.06,0.48214712527761916
+PROD_00367,Clearance Oversized Abstract Top,Tops,Oversized,V-Neck,Abstract,Long,-,Smart Casual,Classic,Clearance,46.01,0.4555820767327393
+PROD_00368,AW24 Trend Regular Abstract Top,Tops,Regular,Boat,Abstract,Puff,-,Evening,Sporty,AW24 Trend,49.93,0.5077124263482563
+PROD_00369,Clearance Relaxed Stripe Top,Tops,Relaxed,Crew,Stripe,Cap,-,Casual,Classic,Clearance,38.68,0.3428734015059993
+PROD_00370,Continuity Regular Abstract Top,Tops,Regular,Square,Abstract,Cap,-,Casual,Contemporary,Continuity,43.8,0.3139006420762819
+PROD_00371,SS25 Preview Regular Polka Dot Top,Tops,Regular,V-Neck,Polka Dot,Puff,-,Evening,Contemporary,SS25 Preview,46.88,0.4990973884690704
+PROD_00372,SS25 Preview Slim Stripe Top,Tops,Slim,V-Neck,Stripe,Bell,-,Holiday,Classic,SS25 Preview,58.27,0.5632391041701909
+PROD_00373,AW24 Trend Relaxed Abstract Top,Tops,Relaxed,Boat,Abstract,Bell,-,Holiday,Minimalist,AW24 Trend,50.18,0.43636162041382753
+PROD_00374,AW24 Trend Fitted Stripe Top,Tops,Fitted,Boat,Stripe,Sleeveless,-,Casual,Boho,AW24 Trend,57.96,0.5574293573700027
+PROD_00375,SS25 Preview Oversized Stripe Top,Tops,Oversized,High,Stripe,Cap,-,Smart Casual,Classic,SS25 Preview,50.04,0.5385600733952801
+PROD_00376,Clearance Relaxed Abstract Top,Tops,Relaxed,Square,Abstract,Long,-,Smart Casual,Contemporary,Clearance,53.06,0.36436147919821943
+PROD_00377,Continuity Oversized Check Top,Tops,Oversized,Off-Shoulder,Check,Bell,-,Work,Classic,Continuity,52.58,0.44070291342110385
+PROD_00378,AW24 Core Slim Floral Top,Tops,Slim,Round,Floral,Puff,-,Work,Contemporary,AW24 Core,41.84,0.49101961241446973
+PROD_00379,SS25 Preview Relaxed Floral Top,Tops,Relaxed,Boat,Floral,Puff,-,Work,Boho,SS25 Preview,43.11,0.4930635294983081
+PROD_00380,SS25 Preview Fitted Animal Print Top,Tops,Fitted,High,Animal Print,Standard,-,Work,Sporty,SS25 Preview,39.88,0.5837765054988128
+PROD_00381,AW24 Trend Regular Abstract Top,Tops,Regular,V-Neck,Abstract,Standard,-,Evening,Boho,AW24 Trend,56.78,0.4562129620450325
+PROD_00382,AW24 Core Oversized Animal Print Top,Tops,Oversized,High,Animal Print,Cap,-,Work,Sporty,AW24 Core,36.22,0.5140750859234462
+PROD_00383,Continuity Relaxed Animal Print Top,Tops,Relaxed,Crew,Animal Print,Sleeveless,-,Smart Casual,Contemporary,Continuity,51.41,0.3674743649656566
+PROD_00384,Clearance Regular Abstract Top,Tops,Regular,Boat,Abstract,Bell,-,Work,Minimalist,Clearance,33.32,0.43528374006902887
+PROD_00385,AW24 Trend Oversized Animal Print Top,Tops,Oversized,Off-Shoulder,Animal Print,Long,-,Loungewear,Contemporary,AW24 Trend,56.13,0.5467997266884379
+PROD_00386,Clearance Fitted Polka Dot Top,Tops,Fitted,Off-Shoulder,Polka Dot,Standard,-,Holiday,Minimalist,Clearance,50.97,0.5633178674895772
+PROD_00387,Clearance Relaxed Animal Print Top,Tops,Relaxed,V-Neck,Animal Print,Standard,-,Casual,Romantic,Clearance,50.92,0.3757152351109096
+PROD_00388,Clearance Regular Animal Print Top,Tops,Regular,Square,Animal Print,Sleeveless,-,Smart Casual,Boho,Clearance,41.63,0.4128121506277924
+PROD_00389,Continuity Oversized Abstract Top,Tops,Oversized,V-Neck,Abstract,Sleeveless,-,Loungewear,Romantic,Continuity,35.44,0.41267533485423313
+PROD_00390,AW24 Trend Slim Check Top,Tops,Slim,Square,Check,Long,-,Casual,Minimalist,AW24 Trend,37.85,0.5423003574446936
+PROD_00391,Continuity Fitted Check Top,Tops,Fitted,Boat,Check,Bell,-,Casual,Romantic,Continuity,42.44,0.49522811128184474
+PROD_00392,AW24 Trend Relaxed Plain Top,Tops,Relaxed,High,Plain,Puff,-,Work,Classic,AW24 Trend,34.4,0.3896043595477648
+PROD_00393,AW24 Core Fitted Plain Top,Tops,Fitted,V-Neck,Plain,Puff,-,Work,Sporty,AW24 Core,56.06,0.3916912799921608
+PROD_00394,Continuity Fitted Plain Top,Tops,Fitted,V-Neck,Plain,Puff,-,Casual,Boho,Continuity,53.63,0.36696300087671835
+PROD_00395,Continuity Regular Floral Top,Tops,Regular,Off-Shoulder,Floral,Long,-,Loungewear,Sporty,Continuity,37.21,0.4299350300472201
+PROD_00396,AW24 Core Relaxed Check Top,Tops,Relaxed,Boat,Check,Long,-,Evening,Minimalist,AW24 Core,49.4,0.34651707411833554
+PROD_00397,AW24 Trend Fitted Abstract Top,Tops,Fitted,Round,Abstract,Long,-,Work,Classic,AW24 Trend,56.23,0.5465448634600621
+PROD_00398,AW24 Core Fitted Animal Print Top,Tops,Fitted,Boat,Animal Print,Sleeveless,-,Loungewear,Contemporary,AW24 Core,52.97,0.5502875520065585
+PROD_00399,Continuity Slim Check Top,Tops,Slim,Crew,Check,Cap,-,Loungewear,Romantic,Continuity,57.89,0.3535745853099902
+PROD_00400,SS25 Preview Fitted Polka Dot Top,Tops,Fitted,Boat,Polka Dot,Sleeveless,-,Smart Casual,Minimalist,SS25 Preview,35.92,0.6264353234035988
+PROD_00401,Continuity Regular Floral Top,Tops,Regular,Crew,Floral,Cap,-,Casual,Classic,Continuity,34.2,0.2799423124803107
+PROD_00402,AW24 Core Fitted Plain Top,Tops,Fitted,Off-Shoulder,Plain,Sleeveless,-,Smart Casual,Classic,AW24 Core,53.53,0.487171759889818
+PROD_00403,AW24 Core Fitted Check Top,Tops,Fitted,V-Neck,Check,Bell,-,Loungewear,Sporty,AW24 Core,33.89,0.48783156071652606
+PROD_00404,Clearance Regular Plain Top,Tops,Regular,High,Plain,Puff,-,Evening,Contemporary,Clearance,58.0,0.3542225524778906
+PROD_00405,Clearance Regular Polka Dot Top,Tops,Regular,Off-Shoulder,Polka Dot,Long,-,Casual,Contemporary,Clearance,42.74,0.45296835952592035
+PROD_00406,Clearance Relaxed Polka Dot Top,Tops,Relaxed,Round,Polka Dot,Cap,-,Holiday,Boho,Clearance,58.13,0.306653851349727
+PROD_00407,SS25 Preview Fitted Abstract Top,Tops,Fitted,Off-Shoulder,Abstract,Long,-,Work,Contemporary,SS25 Preview,39.1,0.6620849009263129
+PROD_00408,SS25 Preview Regular Animal Print Top,Tops,Regular,High,Animal Print,Sleeveless,-,Evening,Boho,SS25 Preview,33.03,0.46700686957211895
+PROD_00409,Continuity Slim Animal Print Top,Tops,Slim,Square,Animal Print,Cap,-,Smart Casual,Sporty,Continuity,47.18,0.42203781495055337
+PROD_00410,Continuity Fitted Plain Top,Tops,Fitted,Boat,Plain,Balloon,-,Loungewear,Sporty,Continuity,44.91,0.4728763421205493
+PROD_00411,SS25 Preview Fitted Abstract Top,Tops,Fitted,Crew,Abstract,Puff,-,Evening,Contemporary,SS25 Preview,43.54,0.6042945482456197
+PROD_00412,AW24 Trend Oversized Polka Dot Top,Tops,Oversized,Round,Polka Dot,Bell,-,Evening,Contemporary,AW24 Trend,51.26,0.48085835457678255
+PROD_00413,Clearance Relaxed Abstract Top,Tops,Relaxed,Off-Shoulder,Abstract,Sleeveless,-,Evening,Classic,Clearance,41.25,0.4473963705903339
+PROD_00414,AW24 Trend Oversized Animal Print Top,Tops,Oversized,Boat,Animal Print,Bell,-,Smart Casual,Minimalist,AW24 Trend,33.41,0.5737302156538024
+PROD_00415,SS25 Preview Relaxed Stripe Top,Tops,Relaxed,Round,Stripe,Cap,-,Casual,Minimalist,SS25 Preview,45.94,0.3761540187762957
+PROD_00416,SS25 Preview Slim Abstract Top,Tops,Slim,Square,Abstract,Long,-,Smart Casual,Classic,SS25 Preview,44.31,0.599622449304464
+PROD_00417,AW24 Trend Oversized Animal Print Top,Tops,Oversized,High,Animal Print,Bell,-,Casual,Classic,AW24 Trend,43.17,0.5716056757114324
+PROD_00418,AW24 Trend Fitted Abstract Top,Tops,Fitted,High,Abstract,Bell,-,Smart Casual,Minimalist,AW24 Trend,47.58,0.599639072261971
+PROD_00419,AW24 Core Relaxed Plain Top,Tops,Relaxed,Crew,Plain,Sleeveless,-,Smart Casual,Sporty,AW24 Core,42.6,0.3286595441502399
+PROD_00420,Continuity Oversized Abstract Top,Tops,Oversized,Round,Abstract,Bell,-,Loungewear,Contemporary,Continuity,48.51,0.40043044198214783
+PROD_00421,Continuity Regular Stripe Top,Tops,Regular,Square,Stripe,Long,-,Work,Minimalist,Continuity,35.4,0.2917382941800474
+PROD_00422,Clearance Fitted Stripe Top,Tops,Fitted,High,Stripe,Balloon,-,Work,Boho,Clearance,31.95,0.46935594069123354
+PROD_00423,SS25 Preview Oversized Plain Top,Tops,Oversized,Boat,Plain,Long,-,Loungewear,Minimalist,SS25 Preview,37.88,0.4973534264245215
+PROD_00424,AW24 Trend Regular Stripe Top,Tops,Regular,Crew,Stripe,Puff,-,Casual,Romantic,AW24 Trend,51.37,0.37115067492817677
+PROD_00425,Continuity Regular Stripe Top,Tops,Regular,V-Neck,Stripe,Bell,-,Holiday,Romantic,Continuity,45.16,0.3020016113087392
+PROD_00426,Clearance Relaxed Floral Top,Tops,Relaxed,Round,Floral,Balloon,-,Smart Casual,Minimalist,Clearance,57.41,0.3462511065297456
+PROD_00427,SS25 Preview Regular Animal Print Top,Tops,Regular,Boat,Animal Print,Cap,-,Loungewear,Boho,SS25 Preview,54.82,0.5551581400017238
+PROD_00428,AW24 Trend Oversized Abstract Top,Tops,Oversized,High,Abstract,Cap,-,Evening,Minimalist,AW24 Trend,52.08,0.49067737485720053
+PROD_00429,AW24 Trend Relaxed Floral Top,Tops,Relaxed,Round,Floral,Cap,-,Holiday,Minimalist,AW24 Trend,31.73,0.344387615538978
+PROD_00430,AW24 Core Fitted Plain Top,Tops,Fitted,High,Plain,Bell,-,Casual,Classic,AW24 Core,47.34,0.40199729325780287
+PROD_00431,AW24 Core Slim Floral Top,Tops,Slim,Boat,Floral,Long,-,Loungewear,Contemporary,AW24 Core,45.49,0.45553949052479414
+PROD_00432,AW24 Core Regular Floral Top,Tops,Regular,V-Neck,Floral,Bell,-,Evening,Boho,AW24 Core,42.91,0.34074631404172195
+PROD_00433,Continuity Fitted Abstract Top,Tops,Fitted,High,Abstract,Bell,-,Evening,Sporty,Continuity,43.45,0.49180681612008614
+PROD_00434,AW24 Core Slim Animal Print Top,Tops,Slim,V-Neck,Animal Print,Bell,-,Evening,Classic,AW24 Core,37.79,0.5332219206312222
+PROD_00435,Clearance Fitted Stripe Top,Tops,Fitted,High,Stripe,Bell,-,Work,Classic,Clearance,47.39,0.5313142004481727
+PROD_00436,AW24 Trend Oversized Floral Top,Tops,Oversized,Off-Shoulder,Floral,Standard,-,Casual,Romantic,AW24 Trend,37.89,0.5110763099429907
+PROD_00437,SS25 Preview Regular Animal Print Top,Tops,Regular,Round,Animal Print,Bell,-,Work,Boho,SS25 Preview,53.91,0.5028030464569537
+PROD_00438,AW24 Trend Oversized Stripe Top,Tops,Oversized,V-Neck,Stripe,Puff,-,Evening,Romantic,AW24 Trend,38.47,0.4615627782029155
+PROD_00439,AW24 Core Regular Abstract Top,Tops,Regular,Crew,Abstract,Long,-,Casual,Sporty,AW24 Core,49.57,0.38670116069106003
+PROD_00440,AW24 Core Slim Check Top,Tops,Slim,Boat,Check,Puff,-,Holiday,Minimalist,AW24 Core,44.67,0.5048085487283078
+PROD_00441,SS25 Preview Slim Floral Top,Tops,Slim,High,Floral,Standard,-,Evening,Minimalist,SS25 Preview,48.42,0.5004256467936397
+PROD_00442,AW24 Trend Fitted Plain Top,Tops,Fitted,Off-Shoulder,Plain,Bell,-,Casual,Contemporary,AW24 Trend,58.38,0.5558742510542889
+PROD_00443,SS25 Preview Fitted Stripe Top,Tops,Fitted,Boat,Stripe,Standard,-,Casual,Sporty,SS25 Preview,44.62,0.5480183515261888
+PROD_00444,AW24 Core Fitted Abstract Top,Tops,Fitted,Square,Abstract,Standard,-,Smart Casual,Boho,AW24 Core,56.25,0.5065851787410673
+PROD_00445,AW24 Core Regular Floral Top,Tops,Regular,Square,Floral,Long,-,Loungewear,Minimalist,AW24 Core,43.68,0.4000818099859751
+PROD_00446,Clearance Relaxed Animal Print Top,Tops,Relaxed,Round,Animal Print,Sleeveless,-,Holiday,Minimalist,Clearance,47.33,0.4218699265972796
+PROD_00447,AW24 Core Relaxed Polka Dot Top,Tops,Relaxed,Boat,Polka Dot,Cap,-,Smart Casual,Sporty,AW24 Core,36.69,0.3692367048701249
+PROD_00448,AW24 Trend Fitted Stripe Top,Tops,Fitted,High,Stripe,Standard,-,Casual,Minimalist,AW24 Trend,38.14,0.4963936263454892
+PROD_00449,Continuity Slim Animal Print Top,Tops,Slim,Crew,Animal Print,Long,-,Holiday,Romantic,Continuity,40.56,0.4414842149851655
+PROD_00450,AW24 Trend Relaxed Abstract Top,Tops,Relaxed,V-Neck,Abstract,Balloon,-,Evening,Minimalist,AW24 Trend,45.89,0.4952264014533372
+PROD_00451,Clearance Relaxed Check Top,Tops,Relaxed,Square,Check,Puff,-,Smart Casual,Sporty,Clearance,46.16,0.4331544378676161
+PROD_00452,AW24 Core Oversized Polka Dot Top,Tops,Oversized,V-Neck,Polka Dot,Bell,-,Work,Contemporary,AW24 Core,41.65,0.3929380616966701
+PROD_00453,AW24 Trend Slim Floral Top,Tops,Slim,Crew,Floral,Puff,-,Loungewear,Sporty,AW24 Trend,48.32,0.4599146112277625
+PROD_00454,SS25 Preview Oversized Stripe Top,Tops,Oversized,Crew,Stripe,Standard,-,Casual,Classic,SS25 Preview,52.51,0.4446874195200439
+PROD_00455,AW24 Core Oversized Polka Dot Top,Tops,Oversized,Crew,Polka Dot,Balloon,-,Casual,Contemporary,AW24 Core,35.94,0.39204704809993696
+PROD_00456,Continuity Regular Check Top,Tops,Regular,Boat,Check,Bell,-,Holiday,Romantic,Continuity,56.52,0.37063322309637686
+PROD_00457,Clearance Slim Plain Top,Tops,Slim,V-Neck,Plain,Balloon,-,Holiday,Classic,Clearance,42.81,0.4710421815012412
+PROD_00458,SS25 Preview Fitted Stripe Top,Tops,Fitted,Off-Shoulder,Stripe,Long,-,Evening,Classic,SS25 Preview,33.77,0.5917272169754311
+PROD_00459,AW24 Trend Oversized Polka Dot Top,Tops,Oversized,Boat,Polka Dot,Standard,-,Loungewear,Romantic,AW24 Trend,49.49,0.5284575896376114
+PROD_00460,AW24 Trend Fitted Floral Top,Tops,Fitted,Square,Floral,Cap,-,Evening,Contemporary,AW24 Trend,47.32,0.5185404068463424
+PROD_00461,AW24 Trend Relaxed Stripe Top,Tops,Relaxed,Crew,Stripe,Puff,-,Smart Casual,Classic,AW24 Trend,57.58,0.3409482366068993
+PROD_00462,SS25 Preview Oversized Check Top,Tops,Oversized,Crew,Check,Balloon,-,Evening,Classic,SS25 Preview,49.0,0.4874784987883366
+PROD_00463,Clearance Relaxed Abstract Top,Tops,Relaxed,Round,Abstract,Cap,-,Evening,Romantic,Clearance,50.87,0.34454544625389305
+PROD_00464,Continuity Regular Plain Top,Tops,Regular,Boat,Plain,Sleeveless,-,Work,Classic,Continuity,49.68,0.33768213672402814
+PROD_00465,SS25 Preview Relaxed Animal Print Top,Tops,Relaxed,Off-Shoulder,Animal Print,Puff,-,Work,Minimalist,SS25 Preview,55.6,0.5814499460255192
+PROD_00466,AW24 Trend Oversized Polka Dot Top,Tops,Oversized,Off-Shoulder,Polka Dot,Long,-,Loungewear,Romantic,AW24 Trend,40.43,0.47786267109897584
+PROD_00467,SS25 Preview Relaxed Animal Print Top,Tops,Relaxed,Crew,Animal Print,Cap,-,Smart Casual,Minimalist,SS25 Preview,58.18,0.4248287479630846
+PROD_00468,Continuity Regular Stripe Top,Tops,Regular,Boat,Stripe,Balloon,-,Loungewear,Sporty,Continuity,51.28,0.3489389779666873
+PROD_00469,Continuity Fitted Floral Top,Tops,Fitted,Off-Shoulder,Floral,Balloon,-,Evening,Boho,Continuity,37.23,0.5484725163881005
+PROD_00470,AW24 Trend Relaxed Animal Print Top,Tops,Relaxed,V-Neck,Animal Print,Sleeveless,-,Holiday,Romantic,AW24 Trend,39.09,0.42389976802115514
+PROD_00471,Continuity Fitted Abstract Top,Tops,Fitted,V-Neck,Abstract,Puff,-,Loungewear,Contemporary,Continuity,37.83,0.4511127278259379
+PROD_00472,Continuity Relaxed Abstract Top,Tops,Relaxed,Off-Shoulder,Abstract,Standard,-,Evening,Sporty,Continuity,55.24,0.34196514827468477
+PROD_00473,AW24 Trend Regular Stripe Top,Tops,Regular,High,Stripe,Sleeveless,-,Work,Sporty,AW24 Trend,40.72,0.46656098313808847
+PROD_00474,Continuity Oversized Check Top,Tops,Oversized,Off-Shoulder,Check,Standard,-,Evening,Romantic,Continuity,31.69,0.4338506879425473
+PROD_00475,Clearance Fitted Animal Print Top,Tops,Fitted,Boat,Animal Print,Bell,-,Loungewear,Minimalist,Clearance,53.79,0.5980250688330375
+PROD_00476,AW24 Core Slim Stripe Top,Tops,Slim,Off-Shoulder,Stripe,Cap,-,Holiday,Romantic,AW24 Core,35.81,0.47466083003600035
+PROD_00477,AW24 Trend Slim Floral Top,Tops,Slim,Off-Shoulder,Floral,Cap,-,Loungewear,Boho,AW24 Trend,48.14,0.6090083249971439
+PROD_00478,Continuity Fitted Animal Print Top,Tops,Fitted,V-Neck,Animal Print,Cap,-,Loungewear,Sporty,Continuity,48.31,0.4144860557627717
+PROD_00479,SS25 Preview Relaxed Check Top,Tops,Relaxed,Off-Shoulder,Check,Standard,-,Casual,Classic,SS25 Preview,41.46,0.49089177228437664
+PROD_00480,Clearance Regular Abstract Top,Tops,Regular,Square,Abstract,Bell,-,Holiday,Romantic,Clearance,53.4,0.4769731418296881
+PROD_00481,Clearance Regular Stripe Top,Tops,Regular,Boat,Stripe,Puff,-,Evening,Sporty,Clearance,57.07,0.4100356626839831
+PROD_00482,SS25 Preview Fitted Stripe Top,Tops,Fitted,Round,Stripe,Standard,-,Evening,Classic,SS25 Preview,52.34,0.4906462717952072
+PROD_00483,SS25 Preview Oversized Plain Top,Tops,Oversized,V-Neck,Plain,Long,-,Loungewear,Contemporary,SS25 Preview,55.73,0.4283877264564259
+PROD_00484,Continuity Relaxed Check Top,Tops,Relaxed,Crew,Check,Long,-,Smart Casual,Romantic,Continuity,33.86,0.31077612436501784
+PROD_00485,Continuity Relaxed Plain Top,Tops,Relaxed,Boat,Plain,Puff,-,Loungewear,Sporty,Continuity,53.79,0.3436493331310226
+PROD_00486,AW24 Core Relaxed Stripe Top,Tops,Relaxed,V-Neck,Stripe,Standard,-,Loungewear,Classic,AW24 Core,36.92,0.3491310714312667
+PROD_00487,AW24 Trend Relaxed Plain Top,Tops,Relaxed,High,Plain,Cap,-,Smart Casual,Sporty,AW24 Trend,54.45,0.39051192087546654
+PROD_00488,Continuity Fitted Animal Print Top,Tops,Fitted,Round,Animal Print,Sleeveless,-,Work,Romantic,Continuity,57.21,0.4289150334454151
+PROD_00489,AW24 Trend Oversized Polka Dot Top,Tops,Oversized,Round,Polka Dot,Puff,-,Loungewear,Contemporary,AW24 Trend,35.55,0.41498601463991647
+PROD_00490,Continuity Oversized Plain Top,Tops,Oversized,Boat,Plain,Cap,-,Holiday,Contemporary,Continuity,47.05,0.3537581138051515
+PROD_00491,AW24 Trend Fitted Check Top,Tops,Fitted,Boat,Check,Standard,-,Loungewear,Contemporary,AW24 Trend,31.96,0.5645150083300905
+PROD_00492,AW24 Core Relaxed Abstract Top,Tops,Relaxed,Off-Shoulder,Abstract,Long,-,Casual,Romantic,AW24 Core,32.7,0.476036677462213
+PROD_00493,AW24 Core Fitted Stripe Top,Tops,Fitted,Round,Stripe,Balloon,-,Smart Casual,Minimalist,AW24 Core,31.88,0.42430619527234026
+PROD_00494,SS25 Preview Relaxed Polka Dot Top,Tops,Relaxed,High,Polka Dot,Puff,-,Holiday,Sporty,SS25 Preview,56.67,0.4566858433294095
+PROD_00495,SS25 Preview Fitted Animal Print Top,Tops,Fitted,Boat,Animal Print,Puff,-,Holiday,Classic,SS25 Preview,53.71,0.6565947166080465
+PROD_00496,SS25 Preview Relaxed Check Top,Tops,Relaxed,Off-Shoulder,Check,Bell,-,Smart Casual,Sporty,SS25 Preview,46.13,0.49132812034585804
+PROD_00497,AW24 Core Fitted Plain Top,Tops,Fitted,Square,Plain,Cap,-,Smart Casual,Boho,AW24 Core,44.97,0.4359562977505522
+PROD_00498,AW24 Trend Regular Plain Top,Tops,Regular,Crew,Plain,Sleeveless,-,Work,Sporty,AW24 Trend,49.98,0.3172213185335188
+PROD_00499,Continuity Fitted Check Top,Tops,Fitted,Boat,Check,Bell,-,Smart Casual,Romantic,Continuity,52.16,0.4803220414858636
+PROD_00500,AW24 Trend Oversized Check Top,Tops,Oversized,Round,Check,Cap,-,Holiday,Sporty,AW24 Trend,35.53,0.45852906340617156
+PROD_00501,SS25 Preview Fitted Check Top,Tops,Fitted,Round,Check,Balloon,-,Smart Casual,Contemporary,SS25 Preview,36.15,0.5848256954077823
+PROD_00502,Continuity Oversized Plain Top,Tops,Oversized,Square,Plain,Long,-,Work,Classic,Continuity,48.05,0.3572394563354815
+PROD_00503,Continuity Regular Polka Dot Top,Tops,Regular,Round,Polka Dot,Puff,-,Holiday,Romantic,Continuity,57.48,0.2757203883556954
+PROD_00504,Continuity Oversized Check Top,Tops,Oversized,High,Check,Puff,-,Loungewear,Minimalist,Continuity,33.47,0.41183654633353217
+PROD_00505,AW24 Core Regular Animal Print Top,Tops,Regular,V-Neck,Animal Print,Standard,-,Smart Casual,Boho,AW24 Core,38.34,0.41268329044150676
+PROD_00506,Clearance Relaxed Animal Print Top,Tops,Relaxed,Round,Animal Print,Balloon,-,Smart Casual,Minimalist,Clearance,53.58,0.45036934518773025
+PROD_00507,SS25 Preview Oversized Animal Print Top,Tops,Oversized,Square,Animal Print,Standard,-,Holiday,Classic,SS25 Preview,45.05,0.5978947355854662
+PROD_00508,Continuity Fitted Stripe Top,Tops,Fitted,Off-Shoulder,Stripe,Bell,-,Casual,Sporty,Continuity,51.84,0.4954956879727737
+PROD_00509,AW24 Trend Fitted Check Top,Tops,Fitted,Round,Check,Standard,-,Loungewear,Sporty,AW24 Trend,46.27,0.46324706563419277
+PROD_00510,AW24 Core Relaxed Plain Top,Tops,Relaxed,Off-Shoulder,Plain,Puff,-,Work,Boho,AW24 Core,33.92,0.4046247600130851
+PROD_00511,Clearance Oversized Plain Top,Tops,Oversized,Off-Shoulder,Plain,Long,-,Smart Casual,Contemporary,Clearance,54.54,0.4417984085506914
+PROD_00512,AW24 Trend Relaxed Abstract Top,Tops,Relaxed,Off-Shoulder,Abstract,Bell,-,Loungewear,Minimalist,AW24 Trend,34.18,0.5556153621994661
+PROD_00513,Clearance Fitted Polka Dot Top,Tops,Fitted,Round,Polka Dot,Sleeveless,-,Smart Casual,Classic,Clearance,38.59,0.42907208827478316
+PROD_00514,SS25 Preview Relaxed Stripe Top,Tops,Relaxed,Square,Stripe,Bell,-,Holiday,Contemporary,SS25 Preview,34.98,0.48747660625539935
+PROD_00515,AW24 Core Relaxed Animal Print Top,Tops,Relaxed,Crew,Animal Print,Balloon,-,Holiday,Sporty,AW24 Core,34.23,0.4219996802627446
+PROD_00516,AW24 Trend Regular Polka Dot Top,Tops,Regular,Off-Shoulder,Polka Dot,Puff,-,Casual,Boho,AW24 Trend,41.11,0.5223137853747827
+PROD_00517,Continuity Regular Floral Top,Tops,Regular,Round,Floral,Cap,-,Work,Contemporary,Continuity,37.81,0.32889139629658676
+PROD_00518,Continuity Oversized Animal Print Top,Tops,Oversized,Round,Animal Print,Cap,-,Work,Sporty,Continuity,37.86,0.403920182938996
+PROD_00519,Clearance Oversized Plain Top,Tops,Oversized,Boat,Plain,Cap,-,Casual,Minimalist,Clearance,55.09,0.4413660283112154
+PROD_00520,Clearance Relaxed Stripe Top,Tops,Relaxed,High,Stripe,Puff,-,Evening,Boho,Clearance,54.9,0.342680179912676
+PROD_00521,Continuity Slim Polka Dot Top,Tops,Slim,Off-Shoulder,Polka Dot,Long,-,Loungewear,Classic,Continuity,34.93,0.4593575254414298
+PROD_00522,AW24 Trend Relaxed Plain Top,Tops,Relaxed,Off-Shoulder,Plain,Long,-,Holiday,Minimalist,AW24 Trend,35.84,0.4027541855359712
+PROD_00523,SS25 Preview Oversized Floral Top,Tops,Oversized,Off-Shoulder,Floral,Puff,-,Work,Boho,SS25 Preview,51.99,0.620034788886657
+PROD_00524,SS25 Preview Relaxed Animal Print Top,Tops,Relaxed,Square,Animal Print,Sleeveless,-,Holiday,Minimalist,SS25 Preview,45.17,0.4605796520272799
+PROD_00525,AW24 Core Slim Plain Top,Tops,Slim,V-Neck,Plain,Cap,-,Evening,Classic,AW24 Core,56.78,0.43146250560259175
+PROD_00526,AW24 Trend Regular Check Top,Tops,Regular,Boat,Check,Standard,-,Evening,Contemporary,AW24 Trend,57.16,0.451351786674177
+PROD_00527,SS25 Preview Relaxed Polka Dot Top,Tops,Relaxed,Round,Polka Dot,Balloon,-,Casual,Sporty,SS25 Preview,42.14,0.433568897045603
+PROD_00528,AW24 Core Relaxed Stripe Top,Tops,Relaxed,V-Neck,Stripe,Cap,-,Loungewear,Contemporary,AW24 Core,44.81,0.3648203128552896
+PROD_00529,Continuity Oversized Stripe Top,Tops,Oversized,High,Stripe,Cap,-,Loungewear,Contemporary,Continuity,44.74,0.35719025105645236
+PROD_00530,AW24 Core Slim Plain Top,Tops,Slim,High,Plain,Standard,-,Smart Casual,Minimalist,AW24 Core,53.96,0.43467850018697457
+PROD_00531,AW24 Core Regular Floral Jumper,Jumpers,Regular,Square,Floral,Bell,-,Loungewear,Minimalist,AW24 Core,58.5,0.4303519992440212
+PROD_00532,AW24 Trend Slim Stripe Jumper,Jumpers,Slim,High,Stripe,Long,-,Casual,Minimalist,AW24 Trend,67.84,0.49919280240391295
+PROD_00533,AW24 Core Oversized Floral Jumper,Jumpers,Oversized,V-Neck,Floral,Puff,-,Casual,Sporty,AW24 Core,76.46,0.44383372106279967
+PROD_00534,AW24 Trend Slim Stripe Jumper,Jumpers,Slim,Crew,Stripe,Balloon,-,Smart Casual,Minimalist,AW24 Trend,58.53,0.5186482765732423
+PROD_00535,AW24 Trend Regular Animal Print Jumper,Jumpers,Regular,V-Neck,Animal Print,Bell,-,Casual,Romantic,AW24 Trend,54.81,0.47068209929639904
+PROD_00536,AW24 Trend Oversized Abstract Jumper,Jumpers,Oversized,Crew,Abstract,Sleeveless,-,Loungewear,Sporty,AW24 Trend,57.4,0.5549281171755984
+PROD_00537,AW24 Core Oversized Abstract Jumper,Jumpers,Oversized,Square,Abstract,Puff,-,Smart Casual,Classic,AW24 Core,63.47,0.47688592893670356
+PROD_00538,SS25 Preview Regular Plain Jumper,Jumpers,Regular,Off-Shoulder,Plain,Bell,-,Loungewear,Minimalist,SS25 Preview,46.87,0.5107087743360249
+PROD_00539,AW24 Core Oversized Polka Dot Jumper,Jumpers,Oversized,Crew,Polka Dot,Sleeveless,-,Smart Casual,Boho,AW24 Core,66.72,0.4123145217279417
+PROD_00540,SS25 Preview Regular Animal Print Jumper,Jumpers,Regular,Square,Animal Print,Bell,-,Loungewear,Romantic,SS25 Preview,59.41,0.5651712372019966
+PROD_00541,Clearance Slim Polka Dot Jumper,Jumpers,Slim,Off-Shoulder,Polka Dot,Cap,-,Work,Contemporary,Clearance,83.16,0.5647302756252601
+PROD_00542,AW24 Core Fitted Floral Jumper,Jumpers,Fitted,Square,Floral,Cap,-,Evening,Boho,AW24 Core,55.57,0.5077348477230312
+PROD_00543,Clearance Regular Check Jumper,Jumpers,Regular,Boat,Check,Standard,-,Smart Casual,Minimalist,Clearance,63.35,0.4243467044066761
+PROD_00544,Continuity Slim Plain Jumper,Jumpers,Slim,Square,Plain,Balloon,-,Work,Contemporary,Continuity,53.53,0.45595201487169446
+PROD_00545,Continuity Fitted Stripe Jumper,Jumpers,Fitted,Boat,Stripe,Bell,-,Loungewear,Contemporary,Continuity,46.32,0.5009296127140769
+PROD_00546,AW24 Trend Slim Animal Print Jumper,Jumpers,Slim,V-Neck,Animal Print,Standard,-,Casual,Boho,AW24 Trend,75.76,0.5518932977983947
+PROD_00547,Clearance Slim Polka Dot Jumper,Jumpers,Slim,V-Neck,Polka Dot,Puff,-,Holiday,Boho,Clearance,67.49,0.49387329557744314
+PROD_00548,Clearance Oversized Abstract Jumper,Jumpers,Oversized,Boat,Abstract,Puff,-,Casual,Sporty,Clearance,74.44,0.510497923282591
+PROD_00549,AW24 Core Fitted Floral Jumper,Jumpers,Fitted,Square,Floral,Balloon,-,Casual,Boho,AW24 Core,78.75,0.505227910326876
+PROD_00550,Continuity Fitted Polka Dot Jumper,Jumpers,Fitted,Round,Polka Dot,Sleeveless,-,Holiday,Boho,Continuity,79.6,0.3998196386421668
+PROD_00551,AW24 Core Fitted Polka Dot Jumper,Jumpers,Fitted,High,Polka Dot,Long,-,Loungewear,Sporty,AW24 Core,73.68,0.4652529241300517
+PROD_00552,AW24 Trend Relaxed Check Jumper,Jumpers,Relaxed,High,Check,Cap,-,Smart Casual,Classic,AW24 Trend,80.83,0.43192252977861884
+PROD_00553,AW24 Core Slim Plain Jumper,Jumpers,Slim,Boat,Plain,Puff,-,Holiday,Romantic,AW24 Core,52.46,0.4426637125518374
+PROD_00554,AW24 Core Relaxed Abstract Jumper,Jumpers,Relaxed,High,Abstract,Cap,-,Loungewear,Contemporary,AW24 Core,48.7,0.4093030125158802
+PROD_00555,Continuity Slim Floral Jumper,Jumpers,Slim,High,Floral,Cap,-,Casual,Contemporary,Continuity,82.31,0.40959801847017624
+PROD_00556,AW24 Trend Relaxed Animal Print Jumper,Jumpers,Relaxed,Square,Animal Print,Long,-,Loungewear,Boho,AW24 Trend,60.17,0.5176489661147887
+PROD_00557,AW24 Core Relaxed Abstract Jumper,Jumpers,Relaxed,Round,Abstract,Long,-,Work,Sporty,AW24 Core,66.75,0.4023286021013935
+PROD_00558,AW24 Core Slim Polka Dot Jumper,Jumpers,Slim,Crew,Polka Dot,Puff,-,Work,Romantic,AW24 Core,72.89,0.44697424658737667
+PROD_00559,Continuity Relaxed Animal Print Jumper,Jumpers,Relaxed,High,Animal Print,Cap,-,Casual,Minimalist,Continuity,84.08,0.3958901806574857
+PROD_00560,SS25 Preview Fitted Plain Jumper,Jumpers,Fitted,Crew,Plain,Puff,-,Holiday,Contemporary,SS25 Preview,71.71,0.5065047287409282
+PROD_00561,AW24 Core Regular Polka Dot Jumper,Jumpers,Regular,Crew,Polka Dot,Standard,-,Holiday,Sporty,AW24 Core,49.93,0.31520237550294466
+PROD_00562,AW24 Trend Regular Animal Print Jumper,Jumpers,Regular,High,Animal Print,Standard,-,Casual,Classic,AW24 Trend,84.48,0.4403918374951093
+PROD_00563,AW24 Core Slim Stripe Jumper,Jumpers,Slim,Boat,Stripe,Puff,-,Smart Casual,Contemporary,AW24 Core,76.18,0.5402273697147478
+PROD_00564,AW24 Trend Fitted Abstract Jumper,Jumpers,Fitted,Off-Shoulder,Abstract,Cap,-,Loungewear,Minimalist,AW24 Trend,57.2,0.650972607528818
+PROD_00565,AW24 Core Relaxed Check Jumper,Jumpers,Relaxed,Round,Check,Cap,-,Work,Boho,AW24 Core,56.6,0.3351264284462676
+PROD_00566,AW24 Trend Fitted Plain Jumper,Jumpers,Fitted,Crew,Plain,Bell,-,Loungewear,Classic,AW24 Trend,75.0,0.48759712219291385
+PROD_00567,Continuity Regular Animal Print Jumper,Jumpers,Regular,Off-Shoulder,Animal Print,Standard,-,Evening,Classic,Continuity,48.52,0.4639661788903153
+PROD_00568,Clearance Relaxed Polka Dot Jumper,Jumpers,Relaxed,Off-Shoulder,Polka Dot,Balloon,-,Work,Classic,Clearance,49.49,0.4518029008958912
+PROD_00569,SS25 Preview Oversized Stripe Jumper,Jumpers,Oversized,V-Neck,Stripe,Sleeveless,-,Work,Romantic,SS25 Preview,81.89,0.511049871369738
+PROD_00570,AW24 Trend Fitted Check Jumper,Jumpers,Fitted,Round,Check,Balloon,-,Holiday,Minimalist,AW24 Trend,76.77,0.5837402481209222
+PROD_00571,Continuity Fitted Polka Dot Jumper,Jumpers,Fitted,Off-Shoulder,Polka Dot,Sleeveless,-,Smart Casual,Classic,Continuity,59.6,0.5266374594504548
+PROD_00572,AW24 Core Slim Animal Print Jumper,Jumpers,Slim,Round,Animal Print,Balloon,-,Loungewear,Sporty,AW24 Core,79.66,0.4908400372716623
+PROD_00573,SS25 Preview Relaxed Polka Dot Jumper,Jumpers,Relaxed,V-Neck,Polka Dot,Cap,-,Evening,Sporty,SS25 Preview,52.06,0.4783160029027903
+PROD_00574,AW24 Core Slim Animal Print Jumper,Jumpers,Slim,Round,Animal Print,Sleeveless,-,Evening,Minimalist,AW24 Core,64.51,0.5112260563876261
+PROD_00575,Clearance Regular Stripe Jumper,Jumpers,Regular,High,Stripe,Standard,-,Casual,Contemporary,Clearance,82.4,0.4125091552686529
+PROD_00576,Clearance Oversized Stripe Jumper,Jumpers,Oversized,High,Stripe,Puff,-,Loungewear,Classic,Clearance,66.57,0.48797714417624793
+PROD_00577,Clearance Slim Floral Jumper,Jumpers,Slim,Square,Floral,Cap,-,Evening,Classic,Clearance,47.95,0.4750322932934664
+PROD_00578,SS25 Preview Fitted Check Jumper,Jumpers,Fitted,V-Neck,Check,Cap,-,Smart Casual,Contemporary,SS25 Preview,46.77,0.5587346791326788
+PROD_00579,SS25 Preview Relaxed Stripe Jumper,Jumpers,Relaxed,Off-Shoulder,Stripe,Long,-,Evening,Sporty,SS25 Preview,73.71,0.5243352895570013
+PROD_00580,AW24 Trend Relaxed Stripe Jumper,Jumpers,Relaxed,Boat,Stripe,Sleeveless,-,Casual,Contemporary,AW24 Trend,78.11,0.4136056234431643
+PROD_00581,Continuity Fitted Floral Jumper,Jumpers,Fitted,V-Neck,Floral,Standard,-,Smart Casual,Minimalist,Continuity,57.25,0.4054786034846112
+PROD_00582,Continuity Relaxed Plain Jumper,Jumpers,Relaxed,Boat,Plain,Bell,-,Work,Contemporary,Continuity,60.02,0.3048976899161365
+PROD_00583,AW24 Trend Relaxed Stripe Jumper,Jumpers,Relaxed,Boat,Stripe,Long,-,Casual,Classic,AW24 Trend,64.57,0.3954663765889962
+PROD_00584,AW24 Trend Relaxed Abstract Jumper,Jumpers,Relaxed,Off-Shoulder,Abstract,Cap,-,Holiday,Classic,AW24 Trend,83.98,0.5207407881354685
+PROD_00585,Continuity Relaxed Plain Jumper,Jumpers,Relaxed,Round,Plain,Cap,-,Smart Casual,Boho,Continuity,51.05,0.21559263501282253
+PROD_00586,AW24 Core Fitted Abstract Jumper,Jumpers,Fitted,V-Neck,Abstract,Balloon,-,Work,Contemporary,AW24 Core,69.91,0.5052825893908603
+PROD_00587,AW24 Trend Oversized Check Jumper,Jumpers,Oversized,Off-Shoulder,Check,Bell,-,Loungewear,Romantic,AW24 Trend,78.12,0.5654509277413721
+PROD_00588,AW24 Core Slim Plain Jumper,Jumpers,Slim,Boat,Plain,Long,-,Smart Casual,Classic,AW24 Core,66.05,0.44119386306819275
+PROD_00589,Continuity Slim Polka Dot Jumper,Jumpers,Slim,Off-Shoulder,Polka Dot,Sleeveless,-,Smart Casual,Contemporary,Continuity,52.16,0.5161594507712194
+PROD_00590,Clearance Relaxed Abstract Jumper,Jumpers,Relaxed,High,Abstract,Cap,-,Casual,Romantic,Clearance,57.93,0.3997690303114487
+PROD_00591,Continuity Relaxed Plain Jumper,Jumpers,Relaxed,Off-Shoulder,Plain,Standard,-,Casual,Contemporary,Continuity,53.69,0.3593496415821852
+PROD_00592,AW24 Core Regular Polka Dot Jumper,Jumpers,Regular,V-Neck,Polka Dot,Long,-,Work,Classic,AW24 Core,83.33,0.3316331727133261
+PROD_00593,Continuity Oversized Floral Jumper,Jumpers,Oversized,V-Neck,Floral,Bell,-,Evening,Sporty,Continuity,76.81,0.3721981814809623
+PROD_00594,SS25 Preview Oversized Check Jumper,Jumpers,Oversized,V-Neck,Check,Cap,-,Evening,Contemporary,SS25 Preview,57.09,0.5688035149575021
+PROD_00595,AW24 Core Regular Stripe Jumper,Jumpers,Regular,Round,Stripe,Balloon,-,Evening,Contemporary,AW24 Core,51.18,0.3535626616007313
+PROD_00596,Continuity Fitted Animal Print Jumper,Jumpers,Fitted,Square,Animal Print,Sleeveless,-,Loungewear,Boho,Continuity,70.57,0.5397431617237193
+PROD_00597,Continuity Oversized Check Jumper,Jumpers,Oversized,Square,Check,Standard,-,Casual,Boho,Continuity,82.06,0.44827456742513866
+PROD_00598,Clearance Regular Floral Jumper,Jumpers,Regular,Boat,Floral,Cap,-,Holiday,Contemporary,Clearance,51.58,0.46919273632665925
+PROD_00599,Clearance Slim Polka Dot Jumper,Jumpers,Slim,Boat,Polka Dot,Cap,-,Work,Minimalist,Clearance,78.35,0.4943442616765411
+PROD_00600,SS25 Preview Oversized Animal Print Jumper,Jumpers,Oversized,Crew,Animal Print,Bell,-,Work,Minimalist,SS25 Preview,48.33,0.5409306075834208
+PROD_00601,SS25 Preview Regular Stripe Jumper,Jumpers,Regular,V-Neck,Stripe,Bell,-,Smart Casual,Classic,SS25 Preview,61.2,0.5003280054042251
+PROD_00602,AW24 Trend Slim Check Jumper,Jumpers,Slim,Off-Shoulder,Check,Bell,-,Work,Romantic,AW24 Trend,70.86,0.6820040052545905
+PROD_00603,Clearance Regular Floral Jumper,Jumpers,Regular,V-Neck,Floral,Cap,-,Smart Casual,Boho,Clearance,82.47,0.3790418977791661
+PROD_00604,AW24 Trend Slim Floral Jumper,Jumpers,Slim,Off-Shoulder,Floral,Bell,-,Evening,Boho,AW24 Trend,58.65,0.6058557263640247
+PROD_00605,SS25 Preview Regular Animal Print Jumper,Jumpers,Regular,Round,Animal Print,Balloon,-,Loungewear,Sporty,SS25 Preview,47.5,0.5202260413683542
+PROD_00606,Clearance Fitted Abstract Jumper,Jumpers,Fitted,V-Neck,Abstract,Cap,-,Work,Romantic,Clearance,50.31,0.5396515422230606
+PROD_00607,SS25 Preview Regular Floral Jumper,Jumpers,Regular,Square,Floral,Long,-,Evening,Romantic,SS25 Preview,59.18,0.47009703266883524
+PROD_00608,Clearance Regular Plain Jumper,Jumpers,Regular,Boat,Plain,Standard,-,Casual,Contemporary,Clearance,76.82,0.41728400834265034
+PROD_00609,Clearance Regular Animal Print Jumper,Jumpers,Regular,V-Neck,Animal Print,Puff,-,Casual,Boho,Clearance,59.8,0.4453412882389088
+PROD_00610,SS25 Preview Regular Floral Jumper,Jumpers,Regular,Off-Shoulder,Floral,Balloon,-,Loungewear,Contemporary,SS25 Preview,51.41,0.5773353161031831
+PROD_00611,AW24 Core Slim Floral Jumper,Jumpers,Slim,V-Neck,Floral,Bell,-,Loungewear,Contemporary,AW24 Core,73.08,0.529845350505119
+PROD_00612,Continuity Fitted Stripe Jumper,Jumpers,Fitted,Off-Shoulder,Stripe,Standard,-,Work,Sporty,Continuity,59.8,0.46903817862970343
+PROD_00613,AW24 Trend Fitted Stripe Jumper,Jumpers,Fitted,V-Neck,Stripe,Balloon,-,Work,Contemporary,AW24 Trend,70.0,0.5205805024856515
+PROD_00614,AW24 Trend Oversized Abstract Jumper,Jumpers,Oversized,Off-Shoulder,Abstract,Puff,-,Loungewear,Boho,AW24 Trend,83.95,0.5821371924548621
+PROD_00615,Clearance Fitted Animal Print Jumper,Jumpers,Fitted,High,Animal Print,Long,-,Work,Contemporary,Clearance,60.72,0.5780682074687863
+PROD_00616,AW24 Trend Regular Stripe Jumper,Jumpers,Regular,Boat,Stripe,Cap,-,Loungewear,Boho,AW24 Trend,81.04,0.4678563932279355
+PROD_00617,Clearance Regular Plain Jumper,Jumpers,Regular,High,Plain,Cap,-,Holiday,Minimalist,Clearance,52.31,0.3854099280395826
+PROD_00618,Clearance Slim Animal Print Jumper,Jumpers,Slim,Round,Animal Print,Balloon,-,Holiday,Contemporary,Clearance,78.38,0.537870335558116
+PROD_00619,AW24 Trend Slim Floral Jumper,Jumpers,Slim,Boat,Floral,Balloon,-,Loungewear,Classic,AW24 Trend,70.88,0.6044213015989619
+PROD_00620,SS25 Preview Relaxed Floral Jumper,Jumpers,Relaxed,Crew,Floral,Cap,-,Casual,Sporty,SS25 Preview,80.36,0.47668214856884894
+PROD_00621,AW24 Core Oversized Stripe Jumper,Jumpers,Oversized,V-Neck,Stripe,Sleeveless,-,Smart Casual,Sporty,AW24 Core,49.2,0.48197925717794365
+PROD_00622,AW24 Core Relaxed Polka Dot Jumper,Jumpers,Relaxed,Crew,Polka Dot,Standard,-,Loungewear,Classic,AW24 Core,74.38,0.34441260019631004
+PROD_00623,Continuity Oversized Abstract Jumper,Jumpers,Oversized,Boat,Abstract,Puff,-,Smart Casual,Minimalist,Continuity,69.16,0.4956926845127013
+PROD_00624,Clearance Oversized Animal Print Jumper,Jumpers,Oversized,Crew,Animal Print,Puff,-,Casual,Minimalist,Clearance,76.6,0.4766787335183674
+PROD_00625,AW24 Core Regular Check Jumper,Jumpers,Regular,Round,Check,Standard,-,Casual,Boho,AW24 Core,48.86,0.4020111333514946
+PROD_00626,Continuity Relaxed Plain Jumper,Jumpers,Relaxed,Crew,Plain,Standard,-,Work,Contemporary,Continuity,52.29,0.24638098246743756
+PROD_00627,Clearance Regular Plain Jumper,Jumpers,Regular,High,Plain,Bell,-,Casual,Boho,Clearance,46.21,0.3837477045712972
+PROD_00628,AW24 Trend Fitted Abstract Jumper,Jumpers,Fitted,Boat,Abstract,Standard,-,Evening,Sporty,AW24 Trend,66.95,0.5800329868410758
+PROD_00629,AW24 Trend Fitted Floral Jumper,Jumpers,Fitted,Boat,Floral,Standard,-,Casual,Boho,AW24 Trend,71.38,0.5819582592827087
+PROD_00630,Clearance Regular Abstract Jumper,Jumpers,Regular,Boat,Abstract,Bell,-,Loungewear,Sporty,Clearance,53.9,0.523629131310246
+PROD_00631,AW24 Core Relaxed Stripe Jumper,Jumpers,Relaxed,High,Stripe,Balloon,-,Smart Casual,Classic,AW24 Core,78.71,0.3620481822438468
+PROD_00632,AW24 Core Oversized Animal Print Jumper,Jumpers,Oversized,Square,Animal Print,Long,-,Evening,Contemporary,AW24 Core,83.52,0.455661281489265
+PROD_00633,Clearance Relaxed Check Jumper,Jumpers,Relaxed,V-Neck,Check,Standard,-,Work,Sporty,Clearance,65.03,0.4342538229398637
+PROD_00634,SS25 Preview Oversized Plain Jumper,Jumpers,Oversized,Round,Plain,Standard,-,Smart Casual,Contemporary,SS25 Preview,49.3,0.49814214249220257
+PROD_00635,Continuity Slim Polka Dot Jumper,Jumpers,Slim,Boat,Polka Dot,Standard,-,Work,Minimalist,Continuity,70.39,0.42030657611751016
+PROD_00636,Continuity Oversized Stripe Jumper,Jumpers,Oversized,High,Stripe,Standard,-,Loungewear,Romantic,Continuity,81.71,0.3650006868473179
+PROD_00637,AW24 Core Regular Check Jumper,Jumpers,Regular,Crew,Check,Balloon,-,Smart Casual,Minimalist,AW24 Core,66.93,0.37656260881778175
+PROD_00638,Clearance Relaxed Check Jumper,Jumpers,Relaxed,Boat,Check,Balloon,-,Smart Casual,Boho,Clearance,70.96,0.47908662673951147
+PROD_00639,AW24 Core Slim Polka Dot Jumper,Jumpers,Slim,Round,Polka Dot,Cap,-,Loungewear,Classic,AW24 Core,59.72,0.42556662233318143
+PROD_00640,Clearance Relaxed Animal Print Jumper,Jumpers,Relaxed,Off-Shoulder,Animal Print,Puff,-,Holiday,Contemporary,Clearance,53.1,0.5743680529664978
+PROD_00641,Clearance Slim Check Jumper,Jumpers,Slim,Off-Shoulder,Check,Long,-,Holiday,Minimalist,Clearance,67.44,0.6026867847173363
+PROD_00642,Continuity Oversized Floral Jumper,Jumpers,Oversized,Square,Floral,Puff,-,Work,Classic,Continuity,73.33,0.46621875111940825
+PROD_00643,Clearance Slim Animal Print Jumper,Jumpers,Slim,Square,Animal Print,Bell,-,Holiday,Sporty,Clearance,67.68,0.550751149538488
+PROD_00644,AW24 Trend Regular Polka Dot Jumper,Jumpers,Regular,V-Neck,Polka Dot,Puff,-,Smart Casual,Contemporary,AW24 Trend,62.35,0.49677231528050925
+PROD_00645,Continuity Regular Plain Jumper,Jumpers,Regular,Round,Plain,Puff,-,Casual,Sporty,Continuity,63.14,0.3466590770223317
+PROD_00646,SS25 Preview Regular Abstract Jumper,Jumpers,Regular,Off-Shoulder,Abstract,Sleeveless,-,Holiday,Boho,SS25 Preview,60.69,0.5542785636667884
+PROD_00647,SS25 Preview Slim Check Jumper,Jumpers,Slim,V-Neck,Check,Bell,-,Evening,Romantic,SS25 Preview,57.97,0.6351702406390537
+PROD_00648,Clearance Relaxed Check Jumper,Jumpers,Relaxed,Square,Check,Long,-,Casual,Sporty,Clearance,79.87,0.4468098159867063
+PROD_00649,AW24 Trend Fitted Polka Dot Jumper,Jumpers,Fitted,Square,Polka Dot,Puff,-,Casual,Minimalist,AW24 Trend,48.75,0.5650186524331962
+PROD_00650,Clearance Regular Animal Print Jumper,Jumpers,Regular,Square,Animal Print,Bell,-,Casual,Classic,Clearance,57.65,0.5224557909158818
+PROD_00651,SS25 Preview Slim Polka Dot Skirt,Skirts,Slim,-,Polka Dot,Balloon,Maxi,Work,Minimalist,SS25 Preview,53.11,0.7482923614257573
+PROD_00652,AW24 Core Oversized Abstract Skirt,Skirts,Oversized,-,Abstract,Puff,Maxi,Holiday,Minimalist,AW24 Core,64.17,0.6285266742342622
+PROD_00653,Continuity Regular Stripe Skirt,Skirts,Regular,-,Stripe,Puff,Above Knee,Holiday,Romantic,Continuity,53.12,0.4382363331061628
+PROD_00654,Continuity Slim Check Skirt,Skirts,Slim,-,Check,Balloon,Above Knee,Casual,Sporty,Continuity,50.62,0.5576190468769623
+PROD_00655,SS25 Preview Relaxed Stripe Skirt,Skirts,Relaxed,-,Stripe,Standard,Knee,Work,Boho,SS25 Preview,65.19,0.5125946576901459
+PROD_00656,SS25 Preview Oversized Polka Dot Skirt,Skirts,Oversized,-,Polka Dot,Cap,Mini,Smart Casual,Contemporary,SS25 Preview,55.8,0.6361768311922567
+PROD_00657,Continuity Oversized Polka Dot Skirt,Skirts,Oversized,-,Polka Dot,Long,Knee,Work,Sporty,Continuity,47.39,0.46707273254426007
+PROD_00658,Continuity Fitted Abstract Skirt,Skirts,Fitted,-,Abstract,Standard,Above Knee,Evening,Contemporary,Continuity,69.3,0.5377522804902393
+PROD_00659,AW24 Trend Oversized Polka Dot Skirt,Skirts,Oversized,-,Polka Dot,Bell,Knee,Casual,Romantic,AW24 Trend,57.55,0.612353457333109
+PROD_00660,Clearance Slim Stripe Skirt,Skirts,Slim,-,Stripe,Cap,Maxi,Evening,Contemporary,Clearance,39.47,0.6347720054420614
+PROD_00661,AW24 Trend Fitted Plain Skirt,Skirts,Fitted,-,Plain,Sleeveless,Above Knee,Smart Casual,Classic,AW24 Trend,55.31,0.6218102965561698
+PROD_00662,SS25 Preview Slim Check Skirt,Skirts,Slim,-,Check,Standard,Knee,Loungewear,Contemporary,SS25 Preview,50.36,0.6445749679779436
+PROD_00663,AW24 Core Relaxed Polka Dot Skirt,Skirts,Relaxed,-,Polka Dot,Puff,Maxi,Evening,Sporty,AW24 Core,44.88,0.48814738977129424
+PROD_00664,AW24 Trend Slim Floral Skirt,Skirts,Slim,-,Floral,Balloon,Midi,Holiday,Minimalist,AW24 Trend,51.99,0.7150744713212673
+PROD_00665,SS25 Preview Oversized Animal Print Skirt,Skirts,Oversized,-,Animal Print,Bell,Knee,Work,Contemporary,SS25 Preview,40.24,0.6666683155830865
+PROD_00666,Clearance Slim Stripe Skirt,Skirts,Slim,-,Stripe,Standard,Midi,Casual,Contemporary,Clearance,62.17,0.5337566229543982
+PROD_00667,SS25 Preview Regular Polka Dot Skirt,Skirts,Regular,-,Polka Dot,Sleeveless,Above Knee,Loungewear,Contemporary,SS25 Preview,55.29,0.5838094664121111
+PROD_00668,AW24 Trend Oversized Animal Print Skirt,Skirts,Oversized,-,Animal Print,Standard,Mini,Evening,Contemporary,AW24 Trend,63.08,0.634312453042267
+PROD_00669,SS25 Preview Fitted Polka Dot Skirt,Skirts,Fitted,-,Polka Dot,Standard,Above Knee,Work,Romantic,SS25 Preview,44.77,0.6268236579108493
+PROD_00670,AW24 Trend Relaxed Check Skirt,Skirts,Relaxed,-,Check,Puff,Knee,Evening,Boho,AW24 Trend,47.95,0.5360712171348276
+PROD_00671,Clearance Oversized Stripe Skirt,Skirts,Oversized,-,Stripe,Cap,Maxi,Holiday,Minimalist,Clearance,59.79,0.5647462981233147
+PROD_00672,Clearance Slim Plain Skirt,Skirts,Slim,-,Plain,Bell,Knee,Holiday,Sporty,Clearance,65.71,0.5650971745218545
+PROD_00673,SS25 Preview Fitted Stripe Skirt,Skirts,Fitted,-,Stripe,Balloon,Mini,Evening,Classic,SS25 Preview,40.91,0.7117708566972977
+PROD_00674,SS25 Preview Relaxed Abstract Skirt,Skirts,Relaxed,-,Abstract,Balloon,Knee,Work,Sporty,SS25 Preview,70.84,0.5673666384921457
+PROD_00675,Continuity Regular Floral Skirt,Skirts,Regular,-,Floral,Bell,Above Knee,Casual,Romantic,Continuity,61.92,0.47962585752327025
+PROD_00676,SS25 Preview Relaxed Abstract Skirt,Skirts,Relaxed,-,Abstract,Sleeveless,Mini,Loungewear,Minimalist,SS25 Preview,55.6,0.5707357829625415
+PROD_00677,Clearance Relaxed Check Skirt,Skirts,Relaxed,-,Check,Puff,Midi,Loungewear,Classic,Clearance,57.28,0.49375286575318034
+PROD_00678,AW24 Trend Fitted Polka Dot Skirt,Skirts,Fitted,-,Polka Dot,Sleeveless,Knee,Loungewear,Sporty,AW24 Trend,70.46,0.6720770849636076
+PROD_00679,Clearance Fitted Abstract Skirt,Skirts,Fitted,-,Abstract,Long,Midi,Loungewear,Boho,Clearance,53.62,0.6340552675388925
+PROD_00680,AW24 Core Relaxed Polka Dot Skirt,Skirts,Relaxed,-,Polka Dot,Sleeveless,Maxi,Smart Casual,Boho,AW24 Core,60.73,0.5645017094248495
+PROD_00681,AW24 Trend Oversized Floral Skirt,Skirts,Oversized,-,Floral,Cap,Knee,Loungewear,Romantic,AW24 Trend,53.87,0.536489927953841
+PROD_00682,SS25 Preview Relaxed Abstract Skirt,Skirts,Relaxed,-,Abstract,Standard,Above Knee,Work,Contemporary,SS25 Preview,54.0,0.5440245018464304
+PROD_00683,SS25 Preview Oversized Polka Dot Skirt,Skirts,Oversized,-,Polka Dot,Balloon,Knee,Work,Romantic,SS25 Preview,57.71,0.6255465572006362
+PROD_00684,Clearance Oversized Polka Dot Skirt,Skirts,Oversized,-,Polka Dot,Standard,Midi,Casual,Sporty,Clearance,43.92,0.5456770490349252
+PROD_00685,AW24 Core Fitted Animal Print Skirt,Skirts,Fitted,-,Animal Print,Standard,Midi,Smart Casual,Romantic,AW24 Core,65.9,0.6403719434589957
+PROD_00686,AW24 Trend Oversized Animal Print Skirt,Skirts,Oversized,-,Animal Print,Balloon,Midi,Casual,Contemporary,AW24 Trend,49.67,0.6964012228067604
+PROD_00687,SS25 Preview Regular Stripe Skirt,Skirts,Regular,-,Stripe,Puff,Maxi,Evening,Contemporary,SS25 Preview,68.6,0.6635523022758857
+PROD_00688,AW24 Trend Regular Polka Dot Skirt,Skirts,Regular,-,Polka Dot,Standard,Midi,Work,Sporty,AW24 Trend,39.8,0.5109348399384099
+PROD_00689,AW24 Trend Relaxed Abstract Skirt,Skirts,Relaxed,-,Abstract,Standard,Mini,Evening,Boho,AW24 Trend,65.81,0.5941308708350763
+PROD_00690,AW24 Trend Regular Animal Print Skirt,Skirts,Regular,-,Animal Print,Long,Above Knee,Evening,Classic,AW24 Trend,67.86,0.6167864565951355
+PROD_00691,Continuity Fitted Check Skirt,Skirts,Fitted,-,Check,Cap,Midi,Evening,Minimalist,Continuity,55.99,0.5800534768206416
+PROD_00692,SS25 Preview Oversized Plain Skirt,Skirts,Oversized,-,Plain,Standard,Maxi,Smart Casual,Sporty,SS25 Preview,46.64,0.5627841051262586
+PROD_00693,AW24 Core Slim Stripe Skirt,Skirts,Slim,-,Stripe,Long,Maxi,Smart Casual,Classic,AW24 Core,59.24,0.5759614751732927
+PROD_00694,AW24 Core Regular Floral Skirt,Skirts,Regular,-,Floral,Cap,Knee,Work,Contemporary,AW24 Core,63.01,0.4857251833318411
+PROD_00695,AW24 Core Oversized Animal Print Skirt,Skirts,Oversized,-,Animal Print,Bell,Knee,Smart Casual,Classic,AW24 Core,57.14,0.5679766930887041
+PROD_00696,SS25 Preview Relaxed Stripe Skirt,Skirts,Relaxed,-,Stripe,Puff,Maxi,Holiday,Romantic,SS25 Preview,52.15,0.5588142243390792
+PROD_00697,AW24 Trend Oversized Abstract Skirt,Skirts,Oversized,-,Abstract,Sleeveless,Knee,Evening,Boho,AW24 Trend,61.38,0.6350160832954602
+PROD_00698,AW24 Trend Regular Polka Dot Skirt,Skirts,Regular,-,Polka Dot,Puff,Mini,Smart Casual,Contemporary,AW24 Trend,47.67,0.639064273717218
+PROD_00699,AW24 Core Regular Abstract Skirt,Skirts,Regular,-,Abstract,Standard,Maxi,Holiday,Contemporary,AW24 Core,49.37,0.549818929917398
+PROD_00700,SS25 Preview Relaxed Abstract Skirt,Skirts,Relaxed,-,Abstract,Cap,Mini,Evening,Sporty,SS25 Preview,66.78,0.6040603114059174
+PROD_00701,AW24 Core Fitted Animal Print Skirt,Skirts,Fitted,-,Animal Print,Standard,Maxi,Casual,Sporty,AW24 Core,67.62,0.6884209075188488
+PROD_00702,Continuity Slim Plain Skirt,Skirts,Slim,-,Plain,Cap,Mini,Evening,Minimalist,Continuity,67.32,0.48035111083318865
+PROD_00703,AW24 Trend Slim Animal Print Skirt,Skirts,Slim,-,Animal Print,Balloon,Midi,Loungewear,Contemporary,AW24 Trend,67.82,0.6659762274178387
+PROD_00704,SS25 Preview Slim Stripe Skirt,Skirts,Slim,-,Stripe,Puff,Mini,Loungewear,Romantic,SS25 Preview,48.88,0.6729073779460728
+PROD_00705,Clearance Fitted Animal Print Skirt,Skirts,Fitted,-,Animal Print,Cap,Above Knee,Evening,Classic,Clearance,69.54,0.6612088576698665
+PROD_00706,AW24 Trend Fitted Plain Skirt,Skirts,Fitted,-,Plain,Balloon,Mini,Casual,Minimalist,AW24 Trend,50.12,0.6147781364681407
+PROD_00707,SS25 Preview Fitted Floral Skirt,Skirts,Fitted,-,Floral,Long,Knee,Holiday,Contemporary,SS25 Preview,51.57,0.6756571988683335
+PROD_00708,AW24 Trend Oversized Stripe Skirt,Skirts,Oversized,-,Stripe,Sleeveless,Mini,Holiday,Minimalist,AW24 Trend,52.52,0.5899156897597068
+PROD_00709,AW24 Core Oversized Stripe Skirt,Skirts,Oversized,-,Stripe,Sleeveless,Mini,Casual,Sporty,AW24 Core,68.71,0.558555250149167
+PROD_00710,Clearance Slim Polka Dot Skirt,Skirts,Slim,-,Polka Dot,Bell,Midi,Smart Casual,Classic,Clearance,55.17,0.6461934375743098
+PROD_00711,AW24 Trend Slim Abstract Outerwear,Outerwear,Slim,-,Abstract,Cap,-,Casual,Boho,AW24 Trend,117.5,0.7588370566721572
+PROD_00712,AW24 Core Oversized Stripe Outerwear,Outerwear,Oversized,-,Stripe,Balloon,-,Evening,Classic,AW24 Core,102.88,0.5758237830820276
+PROD_00713,SS25 Preview Regular Polka Dot Outerwear,Outerwear,Regular,-,Polka Dot,Standard,-,Work,Boho,SS25 Preview,95.3,0.6136070480219312
+PROD_00714,AW24 Core Oversized Abstract Outerwear,Outerwear,Oversized,-,Abstract,Standard,-,Casual,Classic,AW24 Core,139.21,0.6647565126324044
+PROD_00715,SS25 Preview Regular Abstract Outerwear,Outerwear,Regular,-,Abstract,Cap,-,Smart Casual,Boho,SS25 Preview,126.54,0.6368287200427774
+PROD_00716,SS25 Preview Oversized Animal Print Outerwear,Outerwear,Oversized,-,Animal Print,Balloon,-,Loungewear,Classic,SS25 Preview,151.77,0.7821449157109573
+PROD_00717,Continuity Relaxed Floral Outerwear,Outerwear,Relaxed,-,Floral,Standard,-,Evening,Minimalist,Continuity,121.09,0.5181635349175411
+PROD_00718,Continuity Relaxed Polka Dot Outerwear,Outerwear,Relaxed,-,Polka Dot,Puff,-,Loungewear,Minimalist,Continuity,124.47,0.5274652619793018
+PROD_00719,AW24 Core Regular Plain Outerwear,Outerwear,Regular,-,Plain,Sleeveless,-,Loungewear,Sporty,AW24 Core,92.26,0.525270389004554
+PROD_00720,Clearance Regular Plain Outerwear,Outerwear,Regular,-,Plain,Puff,-,Holiday,Minimalist,Clearance,122.13,0.5126137658016152
+PROD_00721,Clearance Oversized Floral Outerwear,Outerwear,Oversized,-,Floral,Bell,-,Evening,Boho,Clearance,85.51,0.6268861544979007
+PROD_00722,Continuity Slim Polka Dot Outerwear,Outerwear,Slim,-,Polka Dot,Cap,-,Loungewear,Contemporary,Continuity,86.34,0.6022839203900212
+PROD_00723,AW24 Core Oversized Plain Outerwear,Outerwear,Oversized,-,Plain,Puff,-,Evening,Classic,AW24 Core,122.82,0.5895276841104056
+PROD_00724,Clearance Relaxed Abstract Outerwear,Outerwear,Relaxed,-,Abstract,Balloon,-,Casual,Sporty,Clearance,118.86,0.6568814690577806
+PROD_00725,SS25 Preview Fitted Abstract Outerwear,Outerwear,Fitted,-,Abstract,Bell,-,Smart Casual,Sporty,SS25 Preview,123.72,0.7363601436377798
+PROD_00726,AW24 Core Fitted Animal Print Outerwear,Outerwear,Fitted,-,Animal Print,Cap,-,Loungewear,Romantic,AW24 Core,155.77,0.7341096170616102
+PROD_00727,SS25 Preview Oversized Abstract Outerwear,Outerwear,Oversized,-,Abstract,Cap,-,Smart Casual,Minimalist,SS25 Preview,107.06,0.7030343173689073
+PROD_00728,AW24 Core Oversized Floral Outerwear,Outerwear,Oversized,-,Floral,Long,-,Holiday,Romantic,AW24 Core,97.77,0.6306653296952
+PROD_00729,Continuity Slim Abstract Outerwear,Outerwear,Slim,-,Abstract,Sleeveless,-,Holiday,Minimalist,Continuity,113.21,0.6315428915032927
+PROD_00730,AW24 Trend Regular Plain Outerwear,Outerwear,Regular,-,Plain,Long,-,Evening,Boho,AW24 Trend,109.0,0.4941082364955556
+PROD_00731,Clearance Relaxed Stripe Outerwear,Outerwear,Relaxed,-,Stripe,Standard,-,Holiday,Contemporary,Clearance,133.4,0.5065228522502675
+PROD_00732,Continuity Oversized Check Outerwear,Outerwear,Oversized,-,Check,Long,-,Smart Casual,Classic,Continuity,103.3,0.5948790497691918
+PROD_00733,Continuity Oversized Polka Dot Outerwear,Outerwear,Oversized,-,Polka Dot,Bell,-,Evening,Classic,Continuity,87.99,0.6011465939151682
+PROD_00734,AW24 Core Oversized Stripe Outerwear,Outerwear,Oversized,-,Stripe,Standard,-,Evening,Sporty,AW24 Core,89.08,0.5838121010039814
+PROD_00735,Clearance Slim Check Outerwear,Outerwear,Slim,-,Check,Puff,-,Casual,Romantic,Clearance,139.18,0.733403299113064
+PROD_00736,SS25 Preview Slim Polka Dot Outerwear,Outerwear,Slim,-,Polka Dot,Standard,-,Holiday,Romantic,SS25 Preview,143.32,0.7157949911204592
+PROD_00737,Continuity Fitted Animal Print Outerwear,Outerwear,Fitted,-,Animal Print,Sleeveless,-,Loungewear,Sporty,Continuity,153.76,0.6747519795570163
+PROD_00738,Continuity Relaxed Stripe Outerwear,Outerwear,Relaxed,-,Stripe,Long,-,Casual,Contemporary,Continuity,150.58,0.4713957947864772
+PROD_00739,Continuity Relaxed Animal Print Outerwear,Outerwear,Relaxed,-,Animal Print,Long,-,Holiday,Romantic,Continuity,92.43,0.5117131892010638
+PROD_00740,AW24 Trend Relaxed Abstract Outerwear,Outerwear,Relaxed,-,Abstract,Puff,-,Casual,Classic,AW24 Trend,93.13,0.6328177721423018
+PROD_00741,Clearance Slim Stripe Outerwear,Outerwear,Slim,-,Stripe,Balloon,-,Loungewear,Boho,Clearance,118.74,0.6792493479176406
+PROD_00742,AW24 Trend Fitted Stripe Outerwear,Outerwear,Fitted,-,Stripe,Cap,-,Casual,Classic,AW24 Trend,84.72,0.7022575397832782
+PROD_00743,Continuity Oversized Floral Outerwear,Outerwear,Oversized,-,Floral,Long,-,Loungewear,Sporty,Continuity,119.38,0.5094840491655365
+PROD_00744,AW24 Core Slim Stripe Outerwear,Outerwear,Slim,-,Stripe,Bell,-,Smart Casual,Contemporary,AW24 Core,111.62,0.6850503561589135
+PROD_00745,SS25 Preview Oversized Floral Outerwear,Outerwear,Oversized,-,Floral,Puff,-,Smart Casual,Sporty,SS25 Preview,135.46,0.7024372026053636
+PROD_00746,Clearance Slim Polka Dot Outerwear,Outerwear,Slim,-,Polka Dot,Puff,-,Casual,Sporty,Clearance,105.52,0.6803792757286118
+PROD_00747,Clearance Slim Polka Dot Outerwear,Outerwear,Slim,-,Polka Dot,Puff,-,Evening,Sporty,Clearance,99.67,0.6610816395567428
+PROD_00748,AW24 Core Fitted Floral Outerwear,Outerwear,Fitted,-,Floral,Puff,-,Casual,Romantic,AW24 Core,93.41,0.7266021459130209
+PROD_00749,Clearance Fitted Check Outerwear,Outerwear,Fitted,-,Check,Long,-,Holiday,Minimalist,Clearance,85.86,0.6571836784566419
+PROD_00750,AW24 Trend Regular Abstract Outerwear,Outerwear,Regular,-,Abstract,Bell,-,Smart Casual,Sporty,AW24 Trend,140.19,0.6221779491933548
+PROD_00751,SS25 Preview Slim Check Outerwear,Outerwear,Slim,-,Check,Cap,-,Holiday,Romantic,SS25 Preview,89.76,0.7001175232288879
+PROD_00752,AW24 Trend Fitted Check Outerwear,Outerwear,Fitted,-,Check,Puff,-,Holiday,Sporty,AW24 Trend,84.72,0.7374453179844525
+PROD_00753,AW24 Trend Relaxed Check Outerwear,Outerwear,Relaxed,-,Check,Balloon,-,Work,Minimalist,AW24 Trend,142.15,0.5884766154426334
+PROD_00754,Clearance Regular Check Outerwear,Outerwear,Regular,-,Check,Bell,-,Loungewear,Sporty,Clearance,149.89,0.6371473344859607
+PROD_00755,Clearance Relaxed Polka Dot Outerwear,Outerwear,Relaxed,-,Polka Dot,Cap,-,Holiday,Boho,Clearance,133.19,0.585451543591075
+PROD_00756,SS25 Preview Regular Floral Outerwear,Outerwear,Regular,-,Floral,Sleeveless,-,Holiday,Sporty,SS25 Preview,140.37,0.6052332857300663
+PROD_00757,AW24 Trend Relaxed Abstract Outerwear,Outerwear,Relaxed,-,Abstract,Sleeveless,-,Loungewear,Sporty,AW24 Trend,141.53,0.6545510810840561
+PROD_00758,AW24 Core Fitted Animal Print Outerwear,Outerwear,Fitted,-,Animal Print,Cap,-,Loungewear,Boho,AW24 Core,100.77,0.7008479035308026
+PROD_00759,Continuity Relaxed Animal Print Outerwear,Outerwear,Relaxed,-,Animal Print,Puff,-,Holiday,Romantic,Continuity,136.36,0.5845329975688727
+PROD_00760,Clearance Fitted Stripe Outerwear,Outerwear,Fitted,-,Stripe,Long,-,Evening,Classic,Clearance,95.21,0.6880761174388852
+PROD_00761,AW24 Core Slim Plain Short,Shorts,Slim,-,Plain,Puff,-,Smart Casual,Classic,AW24 Core,33.08,0.4825664583052055
+PROD_00762,SS25 Preview Regular Stripe Short,Shorts,Regular,-,Stripe,Long,-,Smart Casual,Boho,SS25 Preview,32.49,0.5292539767621337
+PROD_00763,AW24 Trend Regular Polka Dot Short,Shorts,Regular,-,Polka Dot,Standard,-,Loungewear,Boho,AW24 Trend,51.97,0.4466659829823306
+PROD_00764,Clearance Fitted Plain Short,Shorts,Fitted,-,Plain,Balloon,-,Evening,Classic,Clearance,48.05,0.512481721144515
+PROD_00765,Clearance Fitted Polka Dot Short,Shorts,Fitted,-,Polka Dot,Sleeveless,-,Loungewear,Sporty,Clearance,48.2,0.5665366841550653
+PROD_00766,AW24 Core Oversized Floral Short,Shorts,Oversized,-,Floral,Bell,-,Loungewear,Boho,AW24 Core,49.64,0.5354620491211145
+PROD_00767,Clearance Oversized Check Short,Shorts,Oversized,-,Check,Puff,-,Loungewear,Boho,Clearance,28.22,0.6026192986414627
+PROD_00768,Clearance Slim Plain Short,Shorts,Slim,-,Plain,Cap,-,Work,Contemporary,Clearance,34.01,0.4675412175992788
+PROD_00769,SS25 Preview Oversized Polka Dot Short,Shorts,Oversized,-,Polka Dot,Sleeveless,-,Loungewear,Sporty,SS25 Preview,49.32,0.6069315416363501
+PROD_00770,AW24 Trend Fitted Animal Print Short,Shorts,Fitted,-,Animal Print,Cap,-,Holiday,Contemporary,AW24 Trend,42.57,0.6459941951293964
+PROD_00771,AW24 Trend Relaxed Check Short,Shorts,Relaxed,-,Check,Sleeveless,-,Loungewear,Classic,AW24 Trend,47.32,0.47884998527955613
+PROD_00772,AW24 Core Regular Abstract Short,Shorts,Regular,-,Abstract,Bell,-,Casual,Minimalist,AW24 Core,34.45,0.546732811135347
+PROD_00773,AW24 Trend Oversized Stripe Short,Shorts,Oversized,-,Stripe,Bell,-,Work,Contemporary,AW24 Trend,30.07,0.5594825951600547
+PROD_00774,Continuity Fitted Polka Dot Short,Shorts,Fitted,-,Polka Dot,Balloon,-,Casual,Boho,Continuity,40.07,0.5359136656462968
+PROD_00775,AW24 Core Regular Plain Short,Shorts,Regular,-,Plain,Sleeveless,-,Work,Romantic,AW24 Core,38.61,0.3844436484155078
+PROD_00776,Clearance Fitted Polka Dot Short,Shorts,Fitted,-,Polka Dot,Cap,-,Work,Minimalist,Clearance,40.52,0.5534104652086564
+PROD_00777,Clearance Fitted Stripe Short,Shorts,Fitted,-,Stripe,Standard,-,Loungewear,Boho,Clearance,28.2,0.55856543354288
+PROD_00778,AW24 Trend Regular Floral Short,Shorts,Regular,-,Floral,Bell,-,Casual,Romantic,AW24 Trend,45.11,0.5561005982949556
+PROD_00779,SS25 Preview Oversized Animal Print Short,Shorts,Oversized,-,Animal Print,Bell,-,Evening,Classic,SS25 Preview,29.27,0.6366286386206522
+PROD_00780,SS25 Preview Regular Floral Short,Shorts,Regular,-,Floral,Cap,-,Work,Boho,SS25 Preview,50.92,0.565493253978505
+PROD_00781,Continuity Relaxed Floral Short,Shorts,Relaxed,-,Floral,Long,-,Holiday,Romantic,Continuity,35.76,0.3440151596022014
+PROD_00782,AW24 Core Fitted Polka Dot Short,Shorts,Fitted,-,Polka Dot,Long,-,Loungewear,Classic,AW24 Core,41.85,0.4983812889481815
+PROD_00783,Clearance Relaxed Check Short,Shorts,Relaxed,-,Check,Sleeveless,-,Loungewear,Romantic,Clearance,36.55,0.44548413946474547
+PROD_00784,AW24 Core Regular Plain Short,Shorts,Regular,-,Plain,Cap,-,Work,Minimalist,AW24 Core,41.44,0.4297013013934263
+PROD_00785,AW24 Core Oversized Stripe Short,Shorts,Oversized,-,Stripe,Bell,-,Loungewear,Boho,AW24 Core,38.09,0.49864625643279353
+PROD_00786,Clearance Fitted Polka Dot Short,Shorts,Fitted,-,Polka Dot,Long,-,Work,Romantic,Clearance,28.14,0.556211088262323
+PROD_00787,AW24 Trend Oversized Check Short,Shorts,Oversized,-,Check,Standard,-,Work,Sporty,AW24 Trend,49.15,0.517850986845361
+PROD_00788,Clearance Relaxed Animal Print Short,Shorts,Relaxed,-,Animal Print,Standard,-,Casual,Contemporary,Clearance,44.96,0.44778789890912907
+PROD_00789,AW24 Trend Fitted Plain Short,Shorts,Fitted,-,Plain,Cap,-,Casual,Contemporary,AW24 Trend,34.5,0.6020038164109053
+PROD_00790,Continuity Oversized Polka Dot Short,Shorts,Oversized,-,Polka Dot,Standard,-,Smart Casual,Romantic,Continuity,41.65,0.42704914370595143
+PROD_00791,Continuity Slim Abstract Short,Shorts,Slim,-,Abstract,Cap,-,Smart Casual,Classic,Continuity,50.61,0.5481708969638585
+PROD_00792,AW24 Trend Relaxed Plain Short,Shorts,Relaxed,-,Plain,Standard,-,Casual,Classic,AW24 Trend,30.08,0.4539563248111268
+PROD_00793,SS25 Preview Relaxed Animal Print Short,Shorts,Relaxed,-,Animal Print,Standard,-,Holiday,Contemporary,SS25 Preview,37.85,0.566915415553485
+PROD_00794,Continuity Oversized Check Short,Shorts,Oversized,-,Check,Puff,-,Loungewear,Minimalist,Continuity,29.18,0.4870700999491062
+PROD_00795,Clearance Relaxed Plain Short,Shorts,Relaxed,-,Plain,Puff,-,Loungewear,Classic,Clearance,46.97,0.39910621393463586
+PROD_00796,Clearance Slim Abstract Short,Shorts,Slim,-,Abstract,Cap,-,Holiday,Classic,Clearance,35.24,0.5753958833047861
+PROD_00797,Clearance Slim Abstract Short,Shorts,Slim,-,Abstract,Long,-,Casual,Boho,Clearance,48.51,0.5484019073964959
+PROD_00798,Clearance Slim Stripe Short,Shorts,Slim,-,Stripe,Long,-,Loungewear,Boho,Clearance,34.54,0.5448999017404957
+PROD_00799,Continuity Slim Stripe Short,Shorts,Slim,-,Stripe,Long,-,Evening,Minimalist,Continuity,34.05,0.4117501840212373
+PROD_00800,AW24 Trend Slim Check Short,Shorts,Slim,-,Check,Sleeveless,-,Holiday,Contemporary,AW24 Trend,41.96,0.6520756451054734
+PROD_00801,AW24 Trend Oversized Polka Dot Jumpsuit,Jumpsuits,Oversized,-,Polka Dot,Long,-,Holiday,Boho,AW24 Trend,89.92,0.6133480208744784
+PROD_00802,SS25 Preview Relaxed Abstract Jumpsuit,Jumpsuits,Relaxed,-,Abstract,Long,-,Loungewear,Sporty,SS25 Preview,100.66,0.5866028265746515
+PROD_00803,AW24 Core Slim Animal Print Jumpsuit,Jumpsuits,Slim,-,Animal Print,Long,-,Holiday,Contemporary,AW24 Core,65.45,0.6423286249300248
+PROD_00804,Clearance Slim Plain Jumpsuit,Jumpsuits,Slim,-,Plain,Bell,-,Holiday,Minimalist,Clearance,86.88,0.5729065124829062
+PROD_00805,SS25 Preview Fitted Plain Jumpsuit,Jumpsuits,Fitted,-,Plain,Balloon,-,Smart Casual,Sporty,SS25 Preview,75.23,0.7436570218070839
+PROD_00806,AW24 Trend Regular Check Jumpsuit,Jumpsuits,Regular,-,Check,Cap,-,Holiday,Contemporary,AW24 Trend,98.47,0.636954116885922
+PROD_00807,AW24 Core Regular Floral Jumpsuit,Jumpsuits,Regular,-,Floral,Bell,-,Work,Contemporary,AW24 Core,61.35,0.5347812442906907
+PROD_00808,Clearance Regular Abstract Jumpsuit,Jumpsuits,Regular,-,Abstract,Long,-,Holiday,Classic,Clearance,96.65,0.5201847265142383
+PROD_00809,AW24 Core Oversized Abstract Jumpsuit,Jumpsuits,Oversized,-,Abstract,Bell,-,Casual,Boho,AW24 Core,78.43,0.5999669738040648
+PROD_00810,Continuity Relaxed Plain Jumpsuit,Jumpsuits,Relaxed,-,Plain,Sleeveless,-,Loungewear,Romantic,Continuity,96.5,0.43016991660064247
+PROD_00811,AW24 Trend Relaxed Stripe Jumpsuit,Jumpsuits,Relaxed,-,Stripe,Sleeveless,-,Loungewear,Sporty,AW24 Trend,80.22,0.5213231223259126
+PROD_00812,SS25 Preview Slim Stripe Jumpsuit,Jumpsuits,Slim,-,Stripe,Bell,-,Casual,Contemporary,SS25 Preview,87.08,0.6985072909142696
+PROD_00813,SS25 Preview Oversized Check Jumpsuit,Jumpsuits,Oversized,-,Check,Balloon,-,Holiday,Sporty,SS25 Preview,68.26,0.7418360641395217
+PROD_00814,SS25 Preview Fitted Floral Jumpsuit,Jumpsuits,Fitted,-,Floral,Bell,-,Holiday,Boho,SS25 Preview,94.84,0.7707831451826622
+PROD_00815,AW24 Trend Oversized Floral Jumpsuit,Jumpsuits,Oversized,-,Floral,Standard,-,Work,Contemporary,AW24 Trend,95.18,0.6355870814198961
+PROD_00816,SS25 Preview Oversized Stripe Jumpsuit,Jumpsuits,Oversized,-,Stripe,Long,-,Work,Contemporary,SS25 Preview,66.56,0.6212017738951656
+PROD_00817,Continuity Oversized Check Jumpsuit,Jumpsuits,Oversized,-,Check,Puff,-,Work,Boho,Continuity,86.26,0.5865765240265368
+PROD_00818,AW24 Core Fitted Plain Jumpsuit,Jumpsuits,Fitted,-,Plain,Sleeveless,-,Loungewear,Romantic,AW24 Core,76.74,0.6139374800542775
+PROD_00819,AW24 Trend Relaxed Polka Dot Jumpsuit,Jumpsuits,Relaxed,-,Polka Dot,Long,-,Smart Casual,Romantic,AW24 Trend,89.46,0.5806866577339836
+PROD_00820,AW24 Core Relaxed Abstract Jumpsuit,Jumpsuits,Relaxed,-,Abstract,Cap,-,Casual,Sporty,AW24 Core,82.44,0.4985402484290874
+PROD_00821,Clearance Slim Polka Dot Jumpsuit,Jumpsuits,Slim,-,Polka Dot,Bell,-,Loungewear,Classic,Clearance,100.0,0.6756356054743634
+PROD_00822,AW24 Core Fitted Check Jumpsuit,Jumpsuits,Fitted,-,Check,Long,-,Holiday,Contemporary,AW24 Core,105.13,0.6294597052763758
+PROD_00823,AW24 Trend Fitted Stripe Jumpsuit,Jumpsuits,Fitted,-,Stripe,Bell,-,Holiday,Minimalist,AW24 Trend,80.44,0.6667668437194298
+PROD_00824,SS25 Preview Relaxed Check Jumpsuit,Jumpsuits,Relaxed,-,Check,Sleeveless,-,Holiday,Sporty,SS25 Preview,105.21,0.659859691056897
+PROD_00825,Continuity Regular Check Jumpsuit,Jumpsuits,Regular,-,Check,Bell,-,Holiday,Classic,Continuity,103.31,0.5385712768824681
+PROD_00826,Clearance Relaxed Animal Print Jumpsuit,Jumpsuits,Relaxed,-,Animal Print,Standard,-,Loungewear,Contemporary,Clearance,103.61,0.5288773266956234
+PROD_00827,AW24 Trend Regular Polka Dot Jumpsuit,Jumpsuits,Regular,-,Polka Dot,Bell,-,Smart Casual,Minimalist,AW24 Trend,68.59,0.5820619906550227
+PROD_00828,Continuity Regular Animal Print Jumpsuit,Jumpsuits,Regular,-,Animal Print,Bell,-,Loungewear,Contemporary,Continuity,80.82,0.5239369836342047
+PROD_00829,AW24 Core Relaxed Plain Jumpsuit,Jumpsuits,Relaxed,-,Plain,Sleeveless,-,Evening,Contemporary,AW24 Core,75.85,0.4551192004604467
+PROD_00830,AW24 Trend Relaxed Stripe Jumpsuit,Jumpsuits,Relaxed,-,Stripe,Sleeveless,-,Casual,Sporty,AW24 Trend,74.61,0.5234978486071643
+PROD_00831,Continuity Fitted Polka Dot Sweatshirt,Sweatshirts,Fitted,-,Polka Dot,Balloon,-,Evening,Minimalist,Continuity,53.08,0.4472283814542002
+PROD_00832,Clearance Slim Plain Sweatshirt,Sweatshirts,Slim,-,Plain,Cap,-,Work,Classic,Clearance,63.13,0.4046718761235912
+PROD_00833,Clearance Relaxed Polka Dot Sweatshirt,Sweatshirts,Relaxed,-,Polka Dot,Cap,-,Work,Romantic,Clearance,63.47,0.39935099713933186
+PROD_00834,SS25 Preview Fitted Floral Sweatshirt,Sweatshirts,Fitted,-,Floral,Puff,-,Loungewear,Minimalist,SS25 Preview,63.07,0.553200070211768
+PROD_00835,SS25 Preview Fitted Abstract Sweatshirt,Sweatshirts,Fitted,-,Abstract,Long,-,Casual,Romantic,SS25 Preview,42.8,0.5151980182474052
+PROD_00836,SS25 Preview Oversized Floral Sweatshirt,Sweatshirts,Oversized,-,Floral,Bell,-,Evening,Boho,SS25 Preview,65.15,0.5045627037036159
+PROD_00837,Clearance Oversized Polka Dot Sweatshirt,Sweatshirts,Oversized,-,Polka Dot,Puff,-,Holiday,Classic,Clearance,40.59,0.42463482472423025
+PROD_00838,Clearance Regular Check Sweatshirt,Sweatshirts,Regular,-,Check,Sleeveless,-,Smart Casual,Classic,Clearance,66.84,0.37317095352063556
+PROD_00839,SS25 Preview Relaxed Floral Sweatshirt,Sweatshirts,Relaxed,-,Floral,Sleeveless,-,Smart Casual,Contemporary,SS25 Preview,46.86,0.4533783284747288
+PROD_00840,AW24 Trend Fitted Abstract Sweatshirt,Sweatshirts,Fitted,-,Abstract,Long,-,Casual,Sporty,AW24 Trend,55.91,0.5255295825328181
+PROD_00841,Continuity Oversized Polka Dot Sweatshirt,Sweatshirts,Oversized,-,Polka Dot,Balloon,-,Loungewear,Classic,Continuity,46.2,0.40554359784406613
+PROD_00842,Continuity Oversized Check Sweatshirt,Sweatshirts,Oversized,-,Check,Sleeveless,-,Holiday,Contemporary,Continuity,48.71,0.42644029871943984
+PROD_00843,Clearance Slim Floral Sweatshirt,Sweatshirts,Slim,-,Floral,Standard,-,Smart Casual,Romantic,Clearance,39.03,0.4794131653976238
+PROD_00844,Clearance Regular Floral Sweatshirt,Sweatshirts,Regular,-,Floral,Cap,-,Holiday,Classic,Clearance,50.11,0.3772657129894148
+PROD_00845,Clearance Regular Plain Sweatshirt,Sweatshirts,Regular,-,Plain,Sleeveless,-,Work,Contemporary,Clearance,40.9,0.3543484428583015
+PROD_00846,SS25 Preview Oversized Animal Print Sweatshirt,Sweatshirts,Oversized,-,Animal Print,Bell,-,Loungewear,Classic,SS25 Preview,45.69,0.5890131373726107
+PROD_00847,Continuity Slim Floral Sweatshirt,Sweatshirts,Slim,-,Floral,Puff,-,Holiday,Minimalist,Continuity,65.01,0.4377037814882011
+PROD_00848,AW24 Trend Regular Floral Sweatshirt,Sweatshirts,Regular,-,Floral,Long,-,Evening,Romantic,AW24 Trend,62.95,0.40618769562415136
+PROD_00849,Clearance Fitted Polka Dot Sweatshirt,Sweatshirts,Fitted,-,Polka Dot,Long,-,Smart Casual,Romantic,Clearance,50.23,0.4761860312215006
+PROD_00850,Continuity Relaxed Floral Sweatshirt,Sweatshirts,Relaxed,-,Floral,Cap,-,Loungewear,Boho,Continuity,48.23,0.33088585390335656
+PROD_00851,Continuity Fitted Animal Print Sweatshirt,Sweatshirts,Fitted,-,Animal Print,Standard,-,Smart Casual,Minimalist,Continuity,63.1,0.4571212917751517
+PROD_00852,Clearance Regular Plain Sweatshirt,Sweatshirts,Regular,-,Plain,Standard,-,Smart Casual,Romantic,Clearance,48.49,0.3178955909812508
+PROD_00853,AW24 Trend Oversized Polka Dot Sweatshirt,Sweatshirts,Oversized,-,Polka Dot,Sleeveless,-,Holiday,Classic,AW24 Trend,65.49,0.4659346010172823
+PROD_00854,Clearance Oversized Animal Print Sweatshirt,Sweatshirts,Oversized,-,Animal Print,Bell,-,Casual,Romantic,Clearance,56.49,0.5429921763145664
+PROD_00855,Clearance Slim Plain Sweatshirt,Sweatshirts,Slim,-,Plain,Puff,-,Loungewear,Contemporary,Clearance,68.31,0.4561466205323652
+PROD_00856,Continuity Fitted Polka Dot Sweatshirt,Sweatshirts,Fitted,-,Polka Dot,Standard,-,Loungewear,Sporty,Continuity,46.16,0.3598546851412943
+PROD_00857,Clearance Fitted Check Sweatshirt,Sweatshirts,Fitted,-,Check,Balloon,-,Casual,Sporty,Clearance,65.68,0.5508900006251584
+PROD_00858,SS25 Preview Oversized Floral Sweatshirt,Sweatshirts,Oversized,-,Floral,Long,-,Evening,Minimalist,SS25 Preview,52.2,0.5157029028330579
+PROD_00859,AW24 Core Fitted Polka Dot Sweatshirt,Sweatshirts,Fitted,-,Polka Dot,Cap,-,Loungewear,Romantic,AW24 Core,52.95,0.41893399022918676
+PROD_00860,AW24 Core Oversized Floral Sweatshirt,Sweatshirts,Oversized,-,Floral,Balloon,-,Evening,Contemporary,AW24 Core,48.11,0.42307345902070537
+PROD_00861,AW24 Trend Relaxed Animal Print Sweatshirt,Sweatshirts,Relaxed,-,Animal Print,Bell,-,Evening,Boho,AW24 Trend,40.99,0.4872267556837506
+PROD_00862,Clearance Slim Abstract Sweatshirt,Sweatshirts,Slim,-,Abstract,Cap,-,Casual,Romantic,Clearance,52.61,0.5227581217480702
+PROD_00863,AW24 Trend Slim Animal Print Sweatshirt,Sweatshirts,Slim,-,Animal Print,Standard,-,Evening,Sporty,AW24 Trend,41.46,0.5396063931100595
+PROD_00864,Continuity Relaxed Check Sweatshirt,Sweatshirts,Relaxed,-,Check,Balloon,-,Casual,Contemporary,Continuity,41.46,0.3237359078357279
+PROD_00865,Clearance Fitted Stripe Sweatshirt,Sweatshirts,Fitted,-,Stripe,Balloon,-,Holiday,Minimalist,Clearance,65.14,0.5461543722881109
+PROD_00866,AW24 Trend Relaxed Animal Print Sweatshirt,Sweatshirts,Relaxed,-,Animal Print,Balloon,-,Loungewear,Minimalist,AW24 Trend,45.88,0.465963275435646
+PROD_00867,AW24 Trend Oversized Animal Print Sweatshirt,Sweatshirts,Oversized,-,Animal Print,Long,-,Holiday,Minimalist,AW24 Trend,49.87,0.5333455105249852
+PROD_00868,SS25 Preview Relaxed Animal Print Sweatshirt,Sweatshirts,Relaxed,-,Animal Print,Bell,-,Evening,Boho,SS25 Preview,57.08,0.4560984431687375
+PROD_00869,AW24 Trend Fitted Stripe Sweatshirt,Sweatshirts,Fitted,-,Stripe,Long,-,Loungewear,Minimalist,AW24 Trend,38.63,0.5243774120344816
+PROD_00870,AW24 Trend Slim Abstract Sweatshirt,Sweatshirts,Slim,-,Abstract,Sleeveless,-,Evening,Sporty,AW24 Trend,69.47,0.5038124843253999
+PROD_00871,Clearance Slim Floral Sweatshirt,Sweatshirts,Slim,-,Floral,Bell,-,Evening,Boho,Clearance,42.24,0.4571085966857163
+PROD_00872,AW24 Trend Fitted Abstract Sweatshirt,Sweatshirts,Fitted,-,Abstract,Cap,-,Loungewear,Classic,AW24 Trend,66.94,0.5470187215799804
+PROD_00873,Continuity Oversized Abstract Sweatshirt,Sweatshirts,Oversized,-,Abstract,Standard,-,Casual,Contemporary,Continuity,71.32,0.3777109817693926
+PROD_00874,AW24 Trend Fitted Check Sweatshirt,Sweatshirts,Fitted,-,Check,Standard,-,Casual,Boho,AW24 Trend,40.94,0.5379171699537995
+PROD_00875,Continuity Relaxed Plain Sweatshirt,Sweatshirts,Relaxed,-,Plain,Bell,-,Casual,Sporty,Continuity,51.96,0.31928321316819763
+PROD_00876,Clearance Oversized Animal Print Sweatshirt,Sweatshirts,Oversized,-,Animal Print,Cap,-,Holiday,Boho,Clearance,56.91,0.45874025338454827
+PROD_00877,Continuity Slim Polka Dot Sweatshirt,Sweatshirts,Slim,-,Polka Dot,Long,-,Smart Casual,Sporty,Continuity,41.35,0.3504307591820865
+PROD_00878,SS25 Preview Oversized Plain Sweatshirt,Sweatshirts,Oversized,-,Plain,Sleeveless,-,Loungewear,Romantic,SS25 Preview,53.34,0.4101428343079177
+PROD_00879,Clearance Regular Plain Sweatshirt,Sweatshirts,Regular,-,Plain,Long,-,Holiday,Romantic,Clearance,57.39,0.35368634222265927
+PROD_00880,SS25 Preview Regular Animal Print Sweatshirt,Sweatshirts,Regular,-,Animal Print,Sleeveless,-,Loungewear,Classic,SS25 Preview,47.97,0.549920729894344
+PROD_00881,SS25 Preview Regular Abstract Sweatshirt,Sweatshirts,Regular,-,Abstract,Standard,-,Smart Casual,Classic,SS25 Preview,43.77,0.43804550647600554
+PROD_00882,Clearance Oversized Stripe Sweatshirt,Sweatshirts,Oversized,-,Stripe,Cap,-,Evening,Minimalist,Clearance,47.91,0.38640635882653357
+PROD_00883,AW24 Core Regular Animal Print Sweatshirt,Sweatshirts,Regular,-,Animal Print,Standard,-,Loungewear,Sporty,AW24 Core,68.39,0.4292840045273527
+PROD_00884,Clearance Slim Animal Print Sweatshirt,Sweatshirts,Slim,-,Animal Print,Balloon,-,Loungewear,Romantic,Clearance,46.17,0.5875087169707681
+PROD_00885,Clearance Relaxed Stripe Sweatshirt,Sweatshirts,Relaxed,-,Stripe,Long,-,Work,Contemporary,Clearance,49.33,0.3681297545614092
+PROD_00886,SS25 Preview Regular Check Sweatshirt,Sweatshirts,Regular,-,Check,Puff,-,Holiday,Classic,SS25 Preview,67.21,0.4412840544516885
+PROD_00887,AW24 Core Regular Check Sweatshirt,Sweatshirts,Regular,-,Check,Bell,-,Casual,Romantic,AW24 Core,43.94,0.41361056346436187
+PROD_00888,SS25 Preview Fitted Stripe Sweatshirt,Sweatshirts,Fitted,-,Stripe,Balloon,-,Casual,Romantic,SS25 Preview,47.98,0.5529831257513003
+PROD_00889,Continuity Fitted Polka Dot Sweatshirt,Sweatshirts,Fitted,-,Polka Dot,Long,-,Holiday,Boho,Continuity,53.46,0.41367945687101976
+PROD_00890,Continuity Oversized Animal Print Sweatshirt,Sweatshirts,Oversized,-,Animal Print,Puff,-,Smart Casual,Boho,Continuity,40.31,0.4789279945106385
+PROD_00891,AW24 Core Oversized Animal Print Sweatshirt,Sweatshirts,Oversized,-,Animal Print,Long,-,Casual,Minimalist,AW24 Core,54.4,0.42550152661362467
+PROD_00892,AW24 Trend Relaxed Plain Sweatshirt,Sweatshirts,Relaxed,-,Plain,Puff,-,Loungewear,Contemporary,AW24 Trend,48.93,0.370313355474832
+PROD_00893,AW24 Core Relaxed Check Sweatshirt,Sweatshirts,Relaxed,-,Check,Balloon,-,Holiday,Romantic,AW24 Core,67.37,0.41292402490975677
+PROD_00894,SS25 Preview Relaxed Floral Sweatshirt,Sweatshirts,Relaxed,-,Floral,Balloon,-,Casual,Minimalist,SS25 Preview,65.07,0.5038719301977863
+PROD_00895,SS25 Preview Slim Animal Print Sweatshirt,Sweatshirts,Slim,-,Animal Print,Sleeveless,-,Evening,Boho,SS25 Preview,56.67,0.6150580197306599
+PROD_00896,AW24 Trend Regular Animal Print Sweatshirt,Sweatshirts,Regular,-,Animal Print,Balloon,-,Smart Casual,Sporty,AW24 Trend,48.52,0.5225888226426815
+PROD_00897,AW24 Trend Oversized Abstract Sweatshirt,Sweatshirts,Oversized,-,Abstract,Sleeveless,-,Smart Casual,Sporty,AW24 Trend,48.96,0.48984787621092146
+PROD_00898,Clearance Relaxed Floral Sweatshirt,Sweatshirts,Relaxed,-,Floral,Sleeveless,-,Smart Casual,Contemporary,Clearance,47.92,0.3767387335447926
+PROD_00899,AW24 Core Relaxed Floral Sweatshirt,Sweatshirts,Relaxed,-,Floral,Long,-,Casual,Classic,AW24 Core,48.82,0.3761611442254447
+PROD_00900,Continuity Oversized Animal Print Sweatshirt,Sweatshirts,Oversized,-,Animal Print,Standard,-,Holiday,Classic,Continuity,55.88,0.359804453811094
+PROD_00901,SS25 Preview Relaxed Animal Print Sweatshirt,Sweatshirts,Relaxed,-,Animal Print,Balloon,-,Evening,Romantic,SS25 Preview,42.15,0.45570990784451765
+PROD_00902,Continuity Oversized Floral Sweatshirt,Sweatshirts,Oversized,-,Floral,Long,-,Holiday,Boho,Continuity,53.82,0.32193893891962466
+PROD_00903,Clearance Regular Polka Dot Sweatshirt,Sweatshirts,Regular,-,Polka Dot,Bell,-,Smart Casual,Classic,Clearance,64.89,0.3933250932309028
+PROD_00904,SS25 Preview Oversized Check Sweatshirt,Sweatshirts,Oversized,-,Check,Bell,-,Casual,Romantic,SS25 Preview,52.57,0.5539474653884113
+PROD_00905,AW24 Core Oversized Polka Dot Sweatshirt,Sweatshirts,Oversized,-,Polka Dot,Cap,-,Smart Casual,Minimalist,AW24 Core,48.94,0.393370420757563
+PROD_00906,AW24 Core Fitted Check Sweatshirt,Sweatshirts,Fitted,-,Check,Balloon,-,Loungewear,Classic,AW24 Core,40.22,0.537399508729401
+PROD_00907,SS25 Preview Regular Check Sweatshirt,Sweatshirts,Regular,-,Check,Bell,-,Casual,Boho,SS25 Preview,64.75,0.43128216495106064
+PROD_00908,SS25 Preview Fitted Polka Dot Sweatshirt,Sweatshirts,Fitted,-,Polka Dot,Balloon,-,Smart Casual,Romantic,SS25 Preview,42.82,0.567714637598905
+PROD_00909,SS25 Preview Regular Stripe Sweatshirt,Sweatshirts,Regular,-,Stripe,Puff,-,Holiday,Boho,SS25 Preview,69.27,0.4235565934594501
+PROD_00910,SS25 Preview Regular Check Sweatshirt,Sweatshirts,Regular,-,Check,Puff,-,Smart Casual,Minimalist,SS25 Preview,61.92,0.5159502975624899
+PROD_00911,AW24 Trend Relaxed Polka Dot Pyjama,Pyjamas,Relaxed,-,Polka Dot,Puff,-,Work,Minimalist,AW24 Trend,45.55,0.32822252303373267
+PROD_00912,AW24 Core Fitted Floral Pyjama,Pyjamas,Fitted,-,Floral,Bell,-,Loungewear,Contemporary,AW24 Core,57.58,0.4575244535283959
+PROD_00913,Continuity Relaxed Polka Dot Pyjama,Pyjamas,Relaxed,-,Polka Dot,Sleeveless,-,Holiday,Minimalist,Continuity,53.4,0.19152690457858346
+PROD_00914,Continuity Regular Floral Pyjama,Pyjamas,Regular,-,Floral,Long,-,Loungewear,Contemporary,Continuity,37.27,0.18972426661670172
+PROD_00915,Clearance Slim Floral Pyjama,Pyjamas,Slim,-,Floral,Puff,-,Evening,Contemporary,Clearance,42.44,0.4276093034164577
+PROD_00916,SS25 Preview Fitted Abstract Pyjama,Pyjamas,Fitted,-,Abstract,Balloon,-,Evening,Boho,SS25 Preview,33.9,0.5631544407106519
+PROD_00917,AW24 Core Fitted Polka Dot Pyjama,Pyjamas,Fitted,-,Polka Dot,Bell,-,Casual,Minimalist,AW24 Core,56.3,0.40115256408094935
+PROD_00918,AW24 Core Regular Plain Pyjama,Pyjamas,Regular,-,Plain,Sleeveless,-,Work,Minimalist,AW24 Core,35.73,0.29041136604795054
+PROD_00919,SS25 Preview Oversized Abstract Pyjama,Pyjamas,Oversized,-,Abstract,Balloon,-,Work,Boho,SS25 Preview,48.22,0.45666377000964564
+PROD_00920,AW24 Core Fitted Animal Print Pyjama,Pyjamas,Fitted,-,Animal Print,Long,-,Work,Boho,AW24 Core,57.64,0.3759394884771402
+PROD_00921,AW24 Trend Oversized Plain Pyjama,Pyjamas,Oversized,-,Plain,Balloon,-,Loungewear,Romantic,AW24 Trend,36.01,0.41147493287276604
+PROD_00922,AW24 Trend Fitted Animal Print Pyjama,Pyjamas,Fitted,-,Animal Print,Cap,-,Loungewear,Romantic,AW24 Trend,33.81,0.4421155461260985
+PROD_00923,Continuity Relaxed Stripe Pyjama,Pyjamas,Relaxed,-,Stripe,Balloon,-,Loungewear,Romantic,Continuity,36.73,0.27094436640366315
+PROD_00924,Continuity Oversized Plain Pyjama,Pyjamas,Oversized,-,Plain,Puff,-,Holiday,Boho,Continuity,43.62,0.25162849285443556
+PROD_00925,Continuity Regular Polka Dot Pyjama,Pyjamas,Regular,-,Polka Dot,Sleeveless,-,Loungewear,Boho,Continuity,33.44,0.2499011044213568
+PROD_00926,AW24 Trend Fitted Animal Print Pyjama,Pyjamas,Fitted,-,Animal Print,Puff,-,Casual,Classic,AW24 Trend,56.65,0.47267586174005155
+PROD_00927,SS25 Preview Relaxed Floral Pyjama,Pyjamas,Relaxed,-,Floral,Balloon,-,Work,Sporty,SS25 Preview,52.59,0.420841010726857
+PROD_00928,Continuity Relaxed Animal Print Pyjama,Pyjamas,Relaxed,-,Animal Print,Cap,-,Evening,Boho,Continuity,40.33,0.2119401245618216
+PROD_00929,Continuity Relaxed Abstract Pyjama,Pyjamas,Relaxed,-,Abstract,Bell,-,Holiday,Minimalist,Continuity,38.93,0.27279587353429086
+PROD_00930,AW24 Trend Regular Floral Pyjama,Pyjamas,Regular,-,Floral,Long,-,Casual,Contemporary,AW24 Trend,48.62,0.36095866950537775
+PROD_00931,AW24 Trend Relaxed Abstract Pyjama,Pyjamas,Relaxed,-,Abstract,Cap,-,Loungewear,Classic,AW24 Trend,56.04,0.2971906717316446
+PROD_00932,Continuity Regular Check Pyjama,Pyjamas,Regular,-,Check,Standard,-,Casual,Classic,Continuity,33.6,0.2857766658176223
+PROD_00933,AW24 Core Fitted Plain Pyjama,Pyjamas,Fitted,-,Plain,Standard,-,Evening,Romantic,AW24 Core,39.69,0.33323602348613146
+PROD_00934,Continuity Slim Stripe Pyjama,Pyjamas,Slim,-,Stripe,Bell,-,Smart Casual,Classic,Continuity,36.35,0.30928390764814023
+PROD_00935,Continuity Relaxed Floral Pyjama,Pyjamas,Relaxed,-,Floral,Sleeveless,-,Loungewear,Boho,Continuity,57.37,0.2378072102012413
+PROD_00936,AW24 Core Regular Floral Pyjama,Pyjamas,Regular,-,Floral,Bell,-,Smart Casual,Classic,AW24 Core,33.74,0.31030726002716097
+PROD_00937,Clearance Relaxed Polka Dot Pyjama,Pyjamas,Relaxed,-,Polka Dot,Balloon,-,Evening,Minimalist,Clearance,40.69,0.32200013334774086
+PROD_00938,Clearance Relaxed Animal Print Pyjama,Pyjamas,Relaxed,-,Animal Print,Puff,-,Smart Casual,Sporty,Clearance,43.24,0.3855925189591299
+PROD_00939,Clearance Regular Animal Print Pyjama,Pyjamas,Regular,-,Animal Print,Bell,-,Evening,Sporty,Clearance,36.66,0.3392839608942246
+PROD_00940,SS25 Preview Oversized Animal Print Pyjama,Pyjamas,Oversized,-,Animal Print,Cap,-,Loungewear,Romantic,SS25 Preview,38.67,0.48687641807211607
+PROD_00941,Continuity Relaxed Check Pyjama,Pyjamas,Relaxed,-,Check,Bell,-,Smart Casual,Classic,Continuity,37.06,0.27672333941592236
+PROD_00942,SS25 Preview Relaxed Stripe Pyjama,Pyjamas,Relaxed,-,Stripe,Puff,-,Work,Contemporary,SS25 Preview,44.07,0.332168636870131
+PROD_00943,SS25 Preview Slim Plain Pyjama,Pyjamas,Slim,-,Plain,Bell,-,Smart Casual,Boho,SS25 Preview,56.66,0.46431958496934517
+PROD_00944,Continuity Oversized Animal Print Pyjama,Pyjamas,Oversized,-,Animal Print,Standard,-,Loungewear,Minimalist,Continuity,41.17,0.2906871875422288
+PROD_00945,Clearance Relaxed Plain Pyjama,Pyjamas,Relaxed,-,Plain,Long,-,Evening,Boho,Clearance,45.27,0.18493993884537724
+PROD_00946,AW24 Trend Regular Polka Dot Pyjama,Pyjamas,Regular,-,Polka Dot,Standard,-,Holiday,Boho,AW24 Trend,55.82,0.31605825506946666
+PROD_00947,AW24 Trend Oversized Animal Print Pyjama,Pyjamas,Oversized,-,Animal Print,Puff,-,Evening,Contemporary,AW24 Trend,41.86,0.4930005377791073
+PROD_00948,AW24 Core Oversized Polka Dot Pyjama,Pyjamas,Oversized,-,Polka Dot,Puff,-,Smart Casual,Boho,AW24 Core,55.7,0.34917379430189893
+PROD_00949,SS25 Preview Oversized Abstract Pyjama,Pyjamas,Oversized,-,Abstract,Sleeveless,-,Holiday,Romantic,SS25 Preview,31.6,0.48067078077450615
+PROD_00950,Continuity Relaxed Abstract Pyjama,Pyjamas,Relaxed,-,Abstract,Cap,-,Holiday,Boho,Continuity,42.89,0.2220059564183583
+PROD_00951,SS25 Preview Regular Polka Dot Pyjama,Pyjamas,Regular,-,Polka Dot,Standard,-,Smart Casual,Contemporary,SS25 Preview,36.89,0.3229716283683232
+PROD_00952,SS25 Preview Slim Abstract Pyjama,Pyjamas,Slim,-,Abstract,Puff,-,Holiday,Minimalist,SS25 Preview,48.87,0.443778450659568
+PROD_00953,AW24 Trend Fitted Check Pyjama,Pyjamas,Fitted,-,Check,Sleeveless,-,Work,Classic,AW24 Trend,32.91,0.4362510290483166
+PROD_00954,SS25 Preview Slim Animal Print Pyjama,Pyjamas,Slim,-,Animal Print,Standard,-,Smart Casual,Classic,SS25 Preview,53.15,0.4530979310528064
+PROD_00955,AW24 Core Relaxed Floral Pyjama,Pyjamas,Relaxed,-,Floral,Cap,-,Evening,Sporty,AW24 Core,44.54,0.30514891816465467
+PROD_00956,AW24 Trend Regular Plain Pyjama,Pyjamas,Regular,-,Plain,Sleeveless,-,Casual,Minimalist,AW24 Trend,57.9,0.2916070670408686
+PROD_00957,Continuity Relaxed Check Pyjama,Pyjamas,Relaxed,-,Check,Balloon,-,Evening,Boho,Continuity,37.31,0.230056465958807
+PROD_00958,SS25 Preview Slim Stripe Pyjama,Pyjamas,Slim,-,Stripe,Standard,-,Smart Casual,Classic,SS25 Preview,36.16,0.39918671770364
+PROD_00959,AW24 Trend Oversized Plain Pyjama,Pyjamas,Oversized,-,Plain,Bell,-,Evening,Contemporary,AW24 Trend,56.09,0.3479365598204187
+PROD_00960,AW24 Trend Relaxed Polka Dot Pyjama,Pyjamas,Relaxed,-,Polka Dot,Puff,-,Casual,Classic,AW24 Trend,42.62,0.3415347840628574
+PROD_00961,AW24 Core Oversized Polka Dot Accessorie,Accessories,Oversized,-,Polka Dot,-,-,Evening,Contemporary,AW24 Core,18.23,0.2534410794571215
+PROD_00962,Clearance Regular Check Accessorie,Accessories,Regular,-,Check,-,-,Loungewear,Classic,Clearance,25.99,0.1710276177901861
+PROD_00963,SS25 Preview Regular Check Accessorie,Accessories,Regular,-,Check,-,-,Evening,Sporty,SS25 Preview,18.09,0.2715552623193179
+PROD_00964,AW24 Core Relaxed Floral Accessorie,Accessories,Relaxed,-,Floral,-,-,Loungewear,Sporty,AW24 Core,27.24,0.1403038757907132
+PROD_00965,Continuity Fitted Animal Print Accessorie,Accessories,Fitted,-,Animal Print,-,-,Casual,Boho,Continuity,27.07,0.27980705464034017
+PROD_00966,AW24 Trend Relaxed Floral Accessorie,Accessories,Relaxed,-,Floral,-,-,Work,Classic,AW24 Trend,18.9,0.18205632243609246
+PROD_00967,SS25 Preview Slim Floral Accessorie,Accessories,Slim,-,Floral,-,-,Loungewear,Minimalist,SS25 Preview,19.43,0.32271124464193335
+PROD_00968,AW24 Core Slim Floral Accessorie,Accessories,Slim,-,Floral,-,-,Work,Romantic,AW24 Core,24.63,0.29476236585206667
+PROD_00969,AW24 Core Oversized Polka Dot Accessorie,Accessories,Oversized,-,Polka Dot,-,-,Smart Casual,Classic,AW24 Core,28.99,0.1917259174356868
+PROD_00970,Clearance Fitted Polka Dot Accessorie,Accessories,Fitted,-,Polka Dot,-,-,Loungewear,Minimalist,Clearance,22.15,0.2797948592582264
+PROD_00971,AW24 Trend Regular Stripe Accessorie,Accessories,Regular,-,Stripe,-,-,Casual,Contemporary,AW24 Trend,30.51,0.2311967742390802
+PROD_00972,SS25 Preview Oversized Plain Accessorie,Accessories,Oversized,-,Plain,-,-,Loungewear,Romantic,SS25 Preview,18.2,0.26730081662886773
+PROD_00973,AW24 Trend Slim Plain Accessorie,Accessories,Slim,-,Plain,-,-,Work,Sporty,AW24 Trend,28.95,0.2566322880166532
+PROD_00974,Continuity Fitted Polka Dot Accessorie,Accessories,Fitted,-,Polka Dot,-,-,Casual,Contemporary,Continuity,20.93,0.17365030120835823
+PROD_00975,SS25 Preview Regular Stripe Accessorie,Accessories,Regular,-,Stripe,-,-,Holiday,Sporty,SS25 Preview,17.8,0.2682495105068136
+PROD_00976,Continuity Oversized Abstract Accessorie,Accessories,Oversized,-,Abstract,-,-,Smart Casual,Classic,Continuity,24.61,0.2152727137825976
+PROD_00977,AW24 Core Relaxed Abstract Accessorie,Accessories,Relaxed,-,Abstract,-,-,Smart Casual,Boho,AW24 Core,17.61,0.1646772158839607
+PROD_00978,SS25 Preview Oversized Abstract Accessorie,Accessories,Oversized,-,Abstract,-,-,Evening,Romantic,SS25 Preview,22.9,0.3519398230966493
+PROD_00979,Clearance Fitted Abstract Accessorie,Accessories,Fitted,-,Abstract,-,-,Evening,Contemporary,Clearance,27.66,0.3140765631300543
+PROD_00980,Continuity Regular Animal Print Accessorie,Accessories,Regular,-,Animal Print,-,-,Work,Boho,Continuity,31.84,0.18026295764379155
+PROD_00981,AW24 Trend Relaxed Polka Dot Accessorie,Accessories,Relaxed,-,Polka Dot,-,-,Holiday,Romantic,AW24 Trend,23.5,0.1931339953236609
+PROD_00982,SS25 Preview Slim Animal Print Accessorie,Accessories,Slim,-,Animal Print,-,-,Smart Casual,Minimalist,SS25 Preview,27.13,0.4153703626491708
+PROD_00983,AW24 Core Relaxed Animal Print Accessorie,Accessories,Relaxed,-,Animal Print,-,-,Work,Minimalist,AW24 Core,19.4,0.16981503562765557
+PROD_00984,AW24 Core Fitted Check Accessorie,Accessories,Fitted,-,Check,-,-,Loungewear,Contemporary,AW24 Core,22.93,0.3142554501465182
+PROD_00985,AW24 Trend Fitted Polka Dot Accessorie,Accessories,Fitted,-,Polka Dot,-,-,Work,Romantic,AW24 Trend,24.56,0.3260469721364431
+PROD_00986,Clearance Relaxed Abstract Accessorie,Accessories,Relaxed,-,Abstract,-,-,Casual,Sporty,Clearance,26.53,0.15989297797950383
+PROD_00987,Continuity Oversized Floral Accessorie,Accessories,Oversized,-,Floral,-,-,Holiday,Sporty,Continuity,23.7,0.1260683068950682
+PROD_00988,SS25 Preview Fitted Floral Accessorie,Accessories,Fitted,-,Floral,-,-,Holiday,Boho,SS25 Preview,24.04,0.35466149396636715
+PROD_00989,AW24 Core Oversized Abstract Accessorie,Accessories,Oversized,-,Abstract,-,-,Work,Classic,AW24 Core,29.92,0.2648672175250991
+PROD_00990,AW24 Trend Fitted Abstract Accessorie,Accessories,Fitted,-,Abstract,-,-,Casual,Classic,AW24 Trend,18.08,0.3671243074033178
+PROD_00991,AW24 Core Regular Polka Dot Accessorie,Accessories,Regular,-,Polka Dot,-,-,Casual,Contemporary,AW24 Core,25.55,0.12941287704459722
+PROD_00992,Clearance Oversized Floral Accessorie,Accessories,Oversized,-,Floral,-,-,Casual,Classic,Clearance,30.02,0.2834822040443801
+PROD_00993,Clearance Oversized Abstract Accessorie,Accessories,Oversized,-,Abstract,-,-,Evening,Romantic,Clearance,22.05,0.2942534508351802
+PROD_00994,AW24 Trend Fitted Stripe Accessorie,Accessories,Fitted,-,Stripe,-,-,Casual,Boho,AW24 Trend,24.56,0.29294478970787025
+PROD_00995,AW24 Trend Fitted Abstract Accessorie,Accessories,Fitted,-,Abstract,-,-,Casual,Classic,AW24 Trend,17.97,0.305737158334991
+PROD_00996,AW24 Core Oversized Polka Dot Accessorie,Accessories,Oversized,-,Polka Dot,-,-,Casual,Minimalist,AW24 Core,21.11,0.2546902899460517
+PROD_00997,SS25 Preview Relaxed Animal Print Accessorie,Accessories,Relaxed,-,Animal Print,-,-,Loungewear,Minimalist,SS25 Preview,18.75,0.24399489037236316
+PROD_00998,Clearance Slim Polka Dot Accessorie,Accessories,Slim,-,Polka Dot,-,-,Holiday,Boho,Clearance,26.2,0.30285077519437786
+PROD_00999,AW24 Core Slim Abstract Accessorie,Accessories,Slim,-,Abstract,-,-,Casual,Boho,AW24 Core,31.17,0.28670368571253535
+PROD_01000,AW24 Trend Regular Animal Print Accessorie,Accessories,Regular,-,Animal Print,-,-,Casual,Classic,AW24 Trend,26.82,0.24456201689007895
