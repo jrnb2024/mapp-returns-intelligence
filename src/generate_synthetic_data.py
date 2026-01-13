@@ -93,12 +93,102 @@ LENGTH_MODIFIERS = {'Mini': 0.05, 'Above Knee': 0.02, 'Knee': 0.0, 'Midi': 0.03,
 OCCASIONS = ['Casual', 'Smart Casual', 'Work', 'Evening', 'Holiday', 'Loungewear']
 STYLE_AESTHETICS = ['Classic', 'Contemporary', 'Boho', 'Minimalist', 'Romantic', 'Sporty']
 TRENDS = ['AW24 Core', 'AW24 Trend', 'SS25 Preview', 'Continuity', 'Clearance']
-TREND_MODIFIERS = {'AW24 Core': 0.0, 'AW24 Trend': 0.05, 'SS25 Preview': 0.08, 
+TREND_MODIFIERS = {'AW24 Core': 0.0, 'AW24 Trend': 0.05, 'SS25 Preview': 0.08,
                    'Continuity': -0.05, 'Clearance': 0.02}
+
+# Return reasons with base probabilities and contextual associations
+RETURN_REASONS = {
+    'Too small': {
+        'base_prob': 0.28,
+        'size_bias': 'small',  # More likely when buying small sizes
+        'fit_bias': ['Slim', 'Fitted'],  # Slim/fitted items often feel too small
+    },
+    'Too large': {
+        'base_prob': 0.22,
+        'size_bias': 'large',  # More likely when buying large sizes
+        'fit_bias': ['Oversized', 'Relaxed'],  # Oversized can be too much
+    },
+    'Quality': {
+        'base_prob': 0.12,
+        'trend_bias': ['Clearance', 'AW24 Trend'],  # Trend/clearance items have more quality issues
+    },
+    'Changed mind': {
+        'base_prob': 0.18,
+        'segment_bias': ['serial_returner', 'high_returner'],  # Serial returners change mind more
+    },
+    'Colour different': {
+        'base_prob': 0.10,
+        'pattern_bias': ['Animal Print', 'Abstract', 'Floral'],  # Patterns harder to judge online
+    },
+    'Not as pictured': {
+        'base_prob': 0.06,
+        'category_bias': ['Outerwear', 'Jumpsuits', 'Dresses'],  # Complex items harder to show
+    },
+    'Damaged/Faulty': {
+        'base_prob': 0.04,  # Baseline - no specific bias
+    },
+}
 
 # =============================================================================
 # HELPER FUNCTIONS
 # =============================================================================
+
+def assign_return_reason(size, category, customer_segment, pattern, trend, fit):
+    """
+    Assign a realistic return reason based on transaction context.
+
+    The probability of each reason is adjusted based on:
+    - Size purchased (small sizes -> "Too small", large sizes -> "Too large")
+    - Fit type (Slim/Fitted -> "Too small", Oversized -> "Too large")
+    - Customer segment (serial returners -> "Changed mind")
+    - Pattern (complex patterns -> "Colour different")
+    - Trend (clearance/trend items -> "Quality")
+    - Category (complex items -> "Not as pictured")
+    """
+    reason_probs = {}
+
+    for reason, config in RETURN_REASONS.items():
+        prob = config['base_prob']
+
+        # Size-related adjustments
+        if config.get('size_bias') == 'small' and size in ['4', '6', '8', 'XS', 'S']:
+            prob *= 1.5
+        elif config.get('size_bias') == 'small' and size in ['16', '18', 'L', 'XL']:
+            prob *= 0.5  # Less likely to be "too small" for large sizes
+        elif config.get('size_bias') == 'large' and size in ['16', '18', 'L', 'XL']:
+            prob *= 1.5
+        elif config.get('size_bias') == 'large' and size in ['4', '6', '8', 'XS', 'S']:
+            prob *= 0.5  # Less likely to be "too large" for small sizes
+
+        # Fit-related adjustments
+        if 'fit_bias' in config and fit in config['fit_bias']:
+            prob *= 1.4
+
+        # Category adjustments
+        if 'category_bias' in config and category in config['category_bias']:
+            prob *= 1.3
+
+        # Customer segment adjustments
+        if 'segment_bias' in config and customer_segment in config['segment_bias']:
+            prob *= 1.5
+
+        # Pattern adjustments
+        if 'pattern_bias' in config and pattern in config['pattern_bias']:
+            prob *= 1.4
+
+        # Trend adjustments
+        if 'trend_bias' in config and trend in config['trend_bias']:
+            prob *= 1.3
+
+        reason_probs[reason] = prob
+
+    # Normalize probabilities and select reason
+    total = sum(reason_probs.values())
+    reasons = list(reason_probs.keys())
+    probs = [p / total for p in reason_probs.values()]
+
+    return np.random.choice(reasons, p=probs)
+
 
 def generate_customers():
     """Generate customer base with segments."""
@@ -279,9 +369,21 @@ def generate_transactions(customers_df, products_df):
             
             # Determine if returned
             is_returned = random.random() < return_prob
-            
+
+            # Assign return reason if item was returned
+            return_reason = None
+            if is_returned:
+                return_reason = assign_return_reason(
+                    size=size,
+                    category=category,
+                    customer_segment=customer['segment'],
+                    pattern=product['pattern'],
+                    trend=product['trend'],
+                    fit=product['fit']
+                )
+
             price = product['price']
-            
+
             transactions.append({
                 'order_id': f'ORD_{order_id}',
                 'customer_id': customer_id,
@@ -301,6 +403,7 @@ def generate_transactions(customers_df, products_df):
                 'order_month': order_date.strftime('%Y-%m'),
                 'qty_purchased': 1,
                 'qty_returned': 1 if is_returned else 0,
+                'return_reason': return_reason,
                 'value_purchased': price,
                 'value_returned': price if is_returned else 0,
                 'is_multi_style_order': n_items > 1 and not is_multi_size,
@@ -376,7 +479,13 @@ def main():
     seg_stats['return_rate'] = seg_stats['qty_returned'] / seg_stats['qty_purchased']
     for seg, row in seg_stats.iterrows():
         print(f"   {seg}: {row['return_rate']:.1%}")
-    
+
+    print("\nReturns by Reason:")
+    reason_stats = transactions_df[transactions_df['return_reason'].notna()]['return_reason'].value_counts()
+    for reason, count in reason_stats.items():
+        pct = count / total_returns * 100
+        print(f"   {reason}: {pct:.1f}% ({count:,} returns)")
+
     # Save data
     output_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     data_dir = os.path.join(output_dir, 'data')
