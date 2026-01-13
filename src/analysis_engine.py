@@ -444,9 +444,111 @@ class ReturnsAnalyzer:
         return monthly
     
     # =========================================================================
+    # RETURN REASONS ANALYSIS
+    # =========================================================================
+
+    def get_return_reasons_analysis(self) -> Dict[str, Any]:
+        """
+        Analyze return reasons distribution and patterns.
+        Provides insights into why customers return items.
+        """
+        # Filter to returned items only
+        returns = self.transactions[self.transactions['qty_returned'] > 0].copy()
+
+        if 'return_reason' not in returns.columns or len(returns) == 0:
+            return {'available': False}
+
+        # Overall reason distribution
+        reason_counts = returns['return_reason'].value_counts()
+        reason_pcts = returns['return_reason'].value_counts(normalize=True)
+
+        overall_stats = pd.DataFrame({
+            'count': reason_counts,
+            'percentage': reason_pcts,
+            'value_returned': returns.groupby('return_reason')['value_returned'].sum(),
+        })
+        overall_stats['avg_value'] = overall_stats['value_returned'] / overall_stats['count']
+
+        # Reasons by category
+        reason_by_category = returns.groupby(['category', 'return_reason']).agg({
+            'qty_returned': 'sum',
+            'value_returned': 'sum',
+        }).reset_index()
+
+        # Calculate percentage within each category
+        category_totals = reason_by_category.groupby('category')['qty_returned'].transform('sum')
+        reason_by_category['pct_of_category'] = reason_by_category['qty_returned'] / category_totals
+
+        # Pivot for easier visualization
+        reason_category_pivot = reason_by_category.pivot_table(
+            index='category',
+            columns='return_reason',
+            values='pct_of_category',
+            fill_value=0
+        )
+
+        # Reasons by customer segment
+        reason_by_segment = returns.groupby(['customer_segment', 'return_reason']).agg({
+            'qty_returned': 'sum',
+        }).reset_index()
+
+        segment_totals = reason_by_segment.groupby('customer_segment')['qty_returned'].transform('sum')
+        reason_by_segment['pct_of_segment'] = reason_by_segment['qty_returned'] / segment_totals
+
+        reason_segment_pivot = reason_by_segment.pivot_table(
+            index='customer_segment',
+            columns='return_reason',
+            values='pct_of_segment',
+            fill_value=0
+        )
+
+        # Size-related reasons analysis (Too small/Too large by actual size)
+        size_reasons = returns[returns['return_reason'].isin(['Too small', 'Too large'])].copy()
+        if len(size_reasons) > 0:
+            size_reason_by_size = size_reasons.groupby(['size', 'return_reason']).size().unstack(fill_value=0)
+            size_reason_by_size['total'] = size_reason_by_size.sum(axis=1)
+            if 'Too small' in size_reason_by_size.columns:
+                size_reason_by_size['pct_too_small'] = size_reason_by_size['Too small'] / size_reason_by_size['total']
+            if 'Too large' in size_reason_by_size.columns:
+                size_reason_by_size['pct_too_large'] = size_reason_by_size['Too large'] / size_reason_by_size['total']
+        else:
+            size_reason_by_size = pd.DataFrame()
+
+        # Monthly trend of reasons
+        if 'order_month' in returns.columns:
+            reason_trends = returns.groupby(['order_month', 'return_reason']).size().unstack(fill_value=0)
+            # Normalize each month
+            reason_trends_pct = reason_trends.div(reason_trends.sum(axis=1), axis=0)
+        else:
+            reason_trends = pd.DataFrame()
+            reason_trends_pct = pd.DataFrame()
+
+        # Top reasons by financial impact
+        financial_impact = overall_stats.sort_values('value_returned', ascending=False)
+
+        # Actionable sizing issues (items returned for size reasons)
+        sizing_issues = returns[returns['return_reason'].isin(['Too small', 'Too large'])]
+        sizing_by_fit = sizing_issues.groupby(['fit', 'return_reason']).size().unstack(fill_value=0) if len(sizing_issues) > 0 else pd.DataFrame()
+
+        return {
+            'available': True,
+            'overall_stats': overall_stats,
+            'reason_by_category': reason_category_pivot,
+            'reason_by_segment': reason_segment_pivot,
+            'size_reason_by_size': size_reason_by_size,
+            'reason_trends': reason_trends,
+            'reason_trends_pct': reason_trends_pct,
+            'financial_impact': financial_impact,
+            'sizing_by_fit': sizing_by_fit,
+            'total_returns': len(returns),
+            'top_reason': reason_counts.index[0] if len(reason_counts) > 0 else None,
+            'top_reason_pct': reason_pcts.iloc[0] if len(reason_pcts) > 0 else 0,
+        }
+
+    # =========================================================================
     # RECOMMENDATIONS ENGINE
     # =========================================================================
-    
+
     def generate_recommendations(self) -> List[Dict[str, Any]]:
         """
         Generate actionable recommendations based on analysis.
@@ -462,6 +564,7 @@ class ReturnsAnalyzer:
         attribute_drivers = self.get_attribute_drivers(min_sample_size=50)
         customer_analysis = self.get_customer_analysis()
         multi_buy = self.get_multi_buy_analysis()
+        return_reasons = self.get_return_reasons_analysis()
         
         # 1. HVHR Product Recommendations
         if len(hvhr_products) > 0:
@@ -540,7 +643,64 @@ class ReturnsAnalyzer:
                 'action': 'Improve personalisation to reduce "try-on" behaviour',
                 'impact': 'Potential 2-3% return rate reduction',
             })
-        
+
+        # 7. Return Reasons Recommendations
+        if return_reasons.get('available', False):
+            overall_stats = return_reasons['overall_stats']
+
+            # Sizing-related recommendations (Too small + Too large)
+            sizing_pct = 0
+            if 'Too small' in overall_stats.index:
+                sizing_pct += overall_stats.loc['Too small', 'percentage']
+            if 'Too large' in overall_stats.index:
+                sizing_pct += overall_stats.loc['Too large', 'percentage']
+
+            if sizing_pct > 0.40:
+                recommendations.append({
+                    'type': 'Return Reason - Sizing',
+                    'priority': 'High',
+                    'category': 'All Categories',
+                    'metric': f"{sizing_pct:.0%} of returns due to sizing issues (Too small/Too large)",
+                    'action': 'Improve size guides, add garment measurements, show model sizes',
+                    'impact': 'Addressing sizing could reduce returns by 10-15%',
+                })
+
+            # Quality issues
+            if 'Quality' in overall_stats.index and overall_stats.loc['Quality', 'percentage'] > 0.10:
+                quality_pct = overall_stats.loc['Quality', 'percentage']
+                recommendations.append({
+                    'type': 'Return Reason - Quality',
+                    'priority': 'High',
+                    'category': 'All Categories',
+                    'metric': f"{quality_pct:.0%} of returns cite quality issues",
+                    'action': 'Review QC processes, investigate supplier quality, update product descriptions',
+                    'impact': f"£{overall_stats.loc['Quality', 'value_returned']:,.0f} in returns due to quality",
+                })
+
+            # Changed mind (wardrobing indicator)
+            if 'Changed mind' in overall_stats.index and overall_stats.loc['Changed mind', 'percentage'] > 0.15:
+                changed_mind_pct = overall_stats.loc['Changed mind', 'percentage']
+                recommendations.append({
+                    'type': 'Return Reason - Changed Mind',
+                    'priority': 'Medium',
+                    'category': 'All Categories',
+                    'metric': f"{changed_mind_pct:.0%} of returns are 'Changed mind'",
+                    'action': 'Improve product imagery, add video content, enhance PDP information',
+                    'impact': 'Better pre-purchase confidence could reduce impulse returns',
+                })
+
+            # Colour different
+            if 'Colour different' in overall_stats.index and overall_stats.loc['Colour different', 'percentage'] > 0.08:
+                colour_pct = overall_stats.loc['Colour different', 'percentage']
+                recommendations.append({
+                    'type': 'Return Reason - Colour',
+                    'priority': 'Medium',
+                    'category': 'All Categories',
+                    'metric': f"{colour_pct:.0%} of returns cite colour difference",
+                    'action': 'Review product photography, ensure colour accuracy, add multiple lighting shots',
+                    'impact': 'Accurate colour representation reduces unexpected returns',
+                })
+
         return recommendations
 
 
@@ -564,5 +724,6 @@ def run_full_analysis(transactions_path: str, products_path: str = None,
         'customer_analysis': analyzer.get_customer_analysis(),
         'multi_buy_analysis': analyzer.get_multi_buy_analysis(),
         'time_trends': analyzer.get_time_trends(),
+        'return_reasons_analysis': analyzer.get_return_reasons_analysis(),
         'recommendations': analyzer.generate_recommendations(),
     }
