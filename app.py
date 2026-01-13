@@ -218,7 +218,7 @@ def load_data():
 def run_analysis(_transactions, _products, _customers):
     """Run full analysis (cached)."""
     analyzer = ReturnsAnalyzer(_transactions, _products, _customers)
-    
+
     return {
         'executive_summary': analyzer.get_executive_summary(),
         'category_analysis': analyzer.get_category_analysis(),
@@ -228,6 +228,7 @@ def run_analysis(_transactions, _products, _customers):
         'customer_analysis': analyzer.get_customer_analysis(),
         'multi_buy_analysis': analyzer.get_multi_buy_analysis(),
         'time_trends': analyzer.get_time_trends(),
+        'return_reasons': analyzer.get_return_reasons_analysis(),
         'recommendations': analyzer.generate_recommendations(),
     }
 
@@ -337,10 +338,11 @@ def main():
         st.caption("🔬 Demo Mode: Synthetic data based on Hush Returns Consultancy patterns")
     
     # Main content tabs
-    tab_overview, tab_category, tab_size, tab_hvhr, tab_drivers, tab_customers, tab_actions = st.tabs([
+    tab_overview, tab_category, tab_size, tab_reasons, tab_hvhr, tab_drivers, tab_customers, tab_actions = st.tabs([
         "📈 Overview",
-        "🏷️ Categories", 
+        "🏷️ Categories",
         "📏 Sizing",
+        "📋 Return Reasons",
         "⚠️ HVHR Products",
         "🔍 Attribute Drivers",
         "👥 Customers",
@@ -644,15 +646,263 @@ def main():
                especially for fitted items.</p>
         </div>
         """, unsafe_allow_html=True)
-    
+
+    # ==========================================================================
+    # TAB: RETURN REASONS
+    # ==========================================================================
+    with tab_reasons:
+        st.markdown('<div class="section-header">Return Reasons Analysis</div>', unsafe_allow_html=True)
+
+        return_reasons = analysis['return_reasons']
+
+        if return_reasons.get('available', False):
+            overall_stats = return_reasons['overall_stats']
+
+            # Key metrics row
+            col1, col2, col3, col4 = st.columns(4)
+
+            with col1:
+                st.markdown(create_metric_card(
+                    "Total Returns Analysed",
+                    format_number(return_reasons['total_returns']),
+                ), unsafe_allow_html=True)
+
+            with col2:
+                st.markdown(create_metric_card(
+                    "Top Reason",
+                    return_reasons['top_reason'],
+                ), unsafe_allow_html=True)
+
+            with col3:
+                sizing_pct = 0
+                if 'Too small' in overall_stats.index:
+                    sizing_pct += overall_stats.loc['Too small', 'percentage']
+                if 'Too large' in overall_stats.index:
+                    sizing_pct += overall_stats.loc['Too large', 'percentage']
+                st.markdown(create_metric_card(
+                    "Sizing Issues",
+                    f"{sizing_pct:.0%}",
+                ), unsafe_allow_html=True)
+
+            with col4:
+                quality_pct = overall_stats.loc['Quality', 'percentage'] if 'Quality' in overall_stats.index else 0
+                st.markdown(create_metric_card(
+                    "Quality Issues",
+                    f"{quality_pct:.0%}",
+                ), unsafe_allow_html=True)
+
+            # Overall reason distribution
+            st.markdown('<div class="section-header">Overall Return Reasons Distribution</div>', unsafe_allow_html=True)
+
+            col1, col2 = st.columns(2)
+
+            with col1:
+                # Pie chart
+                reason_df = overall_stats.reset_index()
+                reason_df.columns = ['Reason', 'Count', 'Percentage', 'Value', 'Avg Value']
+
+                fig = px.pie(
+                    reason_df,
+                    values='Count',
+                    names='Reason',
+                    color_discrete_sequence=[MAPP_PURPLE, MAPP_PINK, MAPP_LIGHT_PURPLE,
+                                            '#F472B6', '#A78BFA', '#6366F1', '#818CF8'],
+                    hole=0.4
+                )
+                fig.update_layout(
+                    height=350,
+                    margin=dict(l=20, r=20, t=30, b=20),
+                )
+                fig.update_traces(textposition='inside', textinfo='percent+label')
+                st.plotly_chart(fig, use_container_width=True)
+
+            with col2:
+                # Bar chart by value
+                reason_df_sorted = reason_df.sort_values('Value', ascending=True)
+
+                fig = go.Figure()
+                fig.add_trace(go.Bar(
+                    x=reason_df_sorted['Value'],
+                    y=reason_df_sorted['Reason'],
+                    orientation='h',
+                    marker_color=MAPP_PURPLE,
+                    text=reason_df_sorted['Value'].apply(lambda x: format_currency(x)),
+                    textposition='outside'
+                ))
+
+                fig.update_layout(
+                    plot_bgcolor='white',
+                    paper_bgcolor='white',
+                    height=350,
+                    margin=dict(l=120, r=80, t=20, b=40),
+                    showlegend=False,
+                    xaxis=dict(showgrid=True, gridcolor='#E5E7EB', title='Return Value (£)'),
+                    yaxis=dict(showgrid=False),
+                    title='Financial Impact by Reason'
+                )
+
+                st.plotly_chart(fig, use_container_width=True)
+
+            # Reasons by category heatmap
+            st.markdown('<div class="section-header">Return Reasons by Category</div>', unsafe_allow_html=True)
+
+            reason_by_cat = return_reasons['reason_by_category']
+            if len(reason_by_cat) > 0:
+                fig = px.imshow(
+                    reason_by_cat.values,
+                    x=reason_by_cat.columns.tolist(),
+                    y=reason_by_cat.index.tolist(),
+                    color_continuous_scale=[[0, 'white'], [0.5, MAPP_LIGHT_PURPLE], [1, MAPP_PURPLE]],
+                    aspect='auto',
+                    text_auto='.0%'
+                )
+
+                fig.update_layout(
+                    height=400,
+                    margin=dict(l=100, r=40, t=20, b=80),
+                    xaxis=dict(title='Return Reason', tickangle=-45),
+                    yaxis=dict(title='Category'),
+                    coloraxis_colorbar=dict(title='%', tickformat='.0%')
+                )
+
+                st.plotly_chart(fig, use_container_width=True)
+
+            # Size-related reasons analysis
+            st.markdown('<div class="section-header">Size-Related Returns Deep Dive</div>', unsafe_allow_html=True)
+
+            col1, col2 = st.columns(2)
+
+            with col1:
+                size_reason_data = return_reasons['size_reason_by_size']
+                if len(size_reason_data) > 0 and 'pct_too_small' in size_reason_data.columns:
+                    # Order sizes properly
+                    size_order = ['4', '6', '8', '10', '12', '14', '16', '18', 'XS', 'S', 'M', 'L', 'XL']
+                    size_reason_data = size_reason_data.reindex([s for s in size_order if s in size_reason_data.index])
+
+                    fig = go.Figure()
+
+                    if 'Too small' in size_reason_data.columns:
+                        fig.add_trace(go.Bar(
+                            name='Too small',
+                            x=size_reason_data.index,
+                            y=size_reason_data['Too small'],
+                            marker_color=MAPP_PINK
+                        ))
+
+                    if 'Too large' in size_reason_data.columns:
+                        fig.add_trace(go.Bar(
+                            name='Too large',
+                            x=size_reason_data.index,
+                            y=size_reason_data['Too large'],
+                            marker_color=MAPP_PURPLE
+                        ))
+
+                    fig.update_layout(
+                        barmode='stack',
+                        plot_bgcolor='white',
+                        paper_bgcolor='white',
+                        height=300,
+                        margin=dict(l=40, r=40, t=30, b=40),
+                        legend=dict(orientation='h', yanchor='bottom', y=1.02, xanchor='right', x=1),
+                        xaxis=dict(showgrid=False, title='Size'),
+                        yaxis=dict(showgrid=True, gridcolor='#E5E7EB', title='Number of Returns'),
+                        title='Size Returns: Too Small vs Too Large'
+                    )
+
+                    st.plotly_chart(fig, use_container_width=True)
+                else:
+                    st.info("No size-related return data available")
+
+            with col2:
+                # Fit type analysis
+                sizing_by_fit = return_reasons['sizing_by_fit']
+                if len(sizing_by_fit) > 0:
+                    fit_df = sizing_by_fit.reset_index()
+                    fit_df_melted = fit_df.melt(id_vars='fit', var_name='Reason', value_name='Count')
+
+                    fig = px.bar(
+                        fit_df_melted,
+                        x='fit',
+                        y='Count',
+                        color='Reason',
+                        barmode='group',
+                        color_discrete_map={'Too small': MAPP_PINK, 'Too large': MAPP_PURPLE}
+                    )
+
+                    fig.update_layout(
+                        plot_bgcolor='white',
+                        paper_bgcolor='white',
+                        height=300,
+                        margin=dict(l=40, r=40, t=30, b=40),
+                        legend=dict(orientation='h', yanchor='bottom', y=1.02, xanchor='right', x=1),
+                        xaxis=dict(showgrid=False, title='Fit Type'),
+                        yaxis=dict(showgrid=True, gridcolor='#E5E7EB', title='Number of Returns'),
+                        title='Size Issues by Fit Type'
+                    )
+
+                    st.plotly_chart(fig, use_container_width=True)
+                else:
+                    st.info("No fit-related sizing data available")
+
+            # Reasons by customer segment
+            st.markdown('<div class="section-header">Return Reasons by Customer Segment</div>', unsafe_allow_html=True)
+
+            reason_by_seg = return_reasons['reason_by_segment']
+            if len(reason_by_seg) > 0:
+                seg_df = reason_by_seg.reset_index()
+                seg_melted = seg_df.melt(id_vars='customer_segment', var_name='Reason', value_name='Percentage')
+
+                fig = px.bar(
+                    seg_melted,
+                    x='customer_segment',
+                    y='Percentage',
+                    color='Reason',
+                    barmode='stack',
+                    color_discrete_sequence=[MAPP_PURPLE, MAPP_PINK, MAPP_LIGHT_PURPLE,
+                                            '#F472B6', '#A78BFA', '#6366F1', '#818CF8']
+                )
+
+                fig.update_layout(
+                    plot_bgcolor='white',
+                    paper_bgcolor='white',
+                    height=400,
+                    margin=dict(l=40, r=40, t=20, b=40),
+                    yaxis_tickformat='.0%',
+                    legend=dict(orientation='h', yanchor='bottom', y=1.02, xanchor='center', x=0.5),
+                    xaxis=dict(showgrid=False, title='Customer Segment'),
+                    yaxis=dict(showgrid=True, gridcolor='#E5E7EB', title='Percentage of Returns'),
+                )
+
+                st.plotly_chart(fig, use_container_width=True)
+
+            # Key insights callout
+            changed_mind_pct = overall_stats.loc['Changed mind', 'percentage'] if 'Changed mind' in overall_stats.index else 0
+            st.markdown(f"""
+            <div style="background: linear-gradient(135deg, {MAPP_PURPLE}, {MAPP_LIGHT_PURPLE});
+                        color: white; border-radius: 12px; padding: 1.5rem; margin: 1.5rem 0;">
+                <div style="font-size: 1.1rem; opacity: 0.9;">💡 Key Return Reasons Insights</div>
+                <div style="margin-top: 1rem;">
+                    <p><strong>Sizing ({sizing_pct:.0%}):</strong> The largest driver of returns. Improve size guides,
+                       add garment measurements, and consider fit-specific guidance for slim/fitted items.</p>
+                    <p><strong>Quality ({quality_pct:.0%}):</strong> Review QC processes, especially for trend/clearance items
+                       which show higher quality-related returns.</p>
+                    <p><strong>Changed Mind ({changed_mind_pct:.0%}):</strong>
+                       Higher among serial returners - improve product imagery and descriptions to set better expectations.</p>
+                </div>
+            </div>
+            """, unsafe_allow_html=True)
+
+        else:
+            st.warning("Return reasons data is not available. Please regenerate the synthetic data with return reasons enabled.")
+
     # ==========================================================================
     # TAB: HVHR PRODUCTS
     # ==========================================================================
     with tab_hvhr:
         st.markdown('<div class="section-header">High Volume, High Return Products</div>', unsafe_allow_html=True)
-        
+
         hvhr = analysis['hvhr_products']
-        
+
         if len(hvhr) > 0:
             # Summary metrics
             col1, col2, col3 = st.columns(3)
