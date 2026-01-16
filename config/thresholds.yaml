@@ -1,0 +1,16 @@
+suppress:
+  min_return_rate: 0.45
+  min_volume: 30
+  excess_multiplier: 1.5
+
+warn:
+  min_sizing_issue_rate: 0.30
+  min_return_rate: 0.30
+
+resegment:
+  serial_returner_threshold: 5
+  high_returner_rate: 0.50
+  period_days: 90
+
+general:
+  min_confidence_to_act: 0.70
